@@ -1,0 +1,1652 @@
+[
+  {
+    "case_id": 16745,
+    "pararel_idx": 1135,
+    "requested_rewrite": {
+      "prompt": "What is an official language in International Atomic Energy Agency?",
+      "relation_id": "P37",
+      "target_new": {
+        "str": "Italian",
+        "id": "Q652"
+      },
+      "target_true": {
+        "str": "Russian",
+        "id": "Q7737"
+      },
+      "subject": "International Atomic Energy Agency"
+    },
+    "paraphrase_prompts": [
+      "What language is spoken in International Atomic Energy Agency?",
+      "What does the law in International Atomic Energy Agency declare as the language?"
+    ],
+    "neighborhood_prompts": [
+      "What is the official language of Kalimullino?",
+      "What language is spoken in Akdavletovo?",
+      "What does the law in Idyash declare as the language?",
+      "What language do they understand in Nizhny Sarabil?",
+      "What language is spoken in Idyash?",
+      "What is the official language of Verkhnyaya Bikberda?",
+      "What language do they understand in Arsyonovo?",
+      "What language do they understand in Kalimullino?",
+      "What language do they understand in Nizhny Muynak?",
+      "What is the official language of Idyash?"
+    ]
+  },
+  {
+    "case_id": 3661,
+    "pararel_idx": 16702,
+    "requested_rewrite": {
+      "prompt": "What does Abhorsen play? They play",
+      "relation_id": "P136",
+      "target_new": {
+        "str": "opera",
+        "id": "Q1344"
+      },
+      "target_true": {
+        "str": "fantasy",
+        "id": "Q132311"
+      },
+      "subject": "Abhorsen"
+    },
+    "paraphrase_prompts": [
+      "What genre is played by Abhorsen?",
+      "What does Abhorsen play?"
+    ],
+    "neighborhood_prompts": [
+      "What is Ninjago known for performing?",
+      "What genre is played by Aladdin and the King of Thieves?",
+      "What does David Langford play?",
+      "What does Geoff Ryman play?",
+      "What genre is played by Elizabeth Bear?",
+      "What does Ian R. MacLeod play? They play",
+      "What does Josephine, Guardian Angel play? They play",
+      "What does David Wellington play?",
+      "What is The Amazing World of Gumball known for performing?",
+      "What is David Langford known for performing?"
+    ]
+  },
+  {
+    "case_id": 6048,
+    "pararel_idx": 7640,
+    "requested_rewrite": {
+      "prompt": "What position does Hughie Lehman play?",
+      "relation_id": "P413",
+      "target_new": {
+        "str": "midfielder",
+        "id": "Q193592"
+      },
+      "target_true": {
+        "str": "goaltender",
+        "id": "Q1317534"
+      },
+      "subject": "Hughie Lehman"
+    },
+    "paraphrase_prompts": [
+      "What position does Hughie Lehman play?",
+      "What position does Hughie Lehman play? They play as"
+    ],
+    "neighborhood_prompts": [
+      "What position does Igor Bobkov play?",
+      "What position does Vasiliy Koshechkin play? They play as",
+      "What position does Anton Kehle play?",
+      "What position does Thomas Greiss play?",
+      "What position does Helmut de Raaf play?",
+      "What position does Vasiliy Koshechkin play?",
+      "What position does Sara DeCosta-Hayes play? They play as",
+      "What position does Zenon Konopka play? They play as",
+      "What position does Cory Schneider play?",
+      "What position does Helmut de Raaf play?"
+    ]
+  },
+  {
+    "case_id": 4825,
+    "pararel_idx": 6990,
+    "requested_rewrite": {
+      "prompt": "Which country is Trento located in?",
+      "relation_id": "P17",
+      "target_new": {
+        "str": "Japan",
+        "id": "Q17"
+      },
+      "target_true": {
+        "str": "Italy",
+        "id": "Q38"
+      },
+      "subject": "Trento"
+    },
+    "paraphrase_prompts": [
+      "In which country is Trento located?",
+      "Where is Trento located?"
+    ],
+    "neighborhood_prompts": [
+      "Which country is Grosseto located in?",
+      "In which country is Ascoli Piceno located?",
+      "Which country is Val della Torre located in?",
+      "In which country is Lanciano located?",
+      "Where is Catalan located?",
+      "Which country is Empoli located in?",
+      "In which country is Rovigo located?",
+      "Which country is Livorno located in?",
+      "In which country is Ascoli Piceno located?",
+      "Which country is Pordenone located in?"
+    ]
+  },
+  {
+    "case_id": 5680,
+    "pararel_idx": 8680,
+    "requested_rewrite": {
+      "prompt": "Is Ian Nepomniachtchi a citizen of",
+      "relation_id": "P27",
+      "target_new": {
+        "str": "India",
+        "id": "Q668"
+      },
+      "target_true": {
+        "str": "Russia",
+        "id": "Q159"
+      },
+      "subject": "Ian Nepomniachtchi"
+    },
+    "paraphrase_prompts": [
+      "Does Ian Nepomniachtchi hold a citizenship from",
+      "From which country does Ian Nepomniachtchi hold citizenship?"
+    ],
+    "neighborhood_prompts": [
+      "From which country does Viktor Ishayev hold citizenship?",
+      "Which country does Sergey Sokolov hold citizenship from?",
+      "Is Viktor-Andrey Borovik-Romanov a citizen of",
+      "Which country does Viktor-Andrey Borovik-Romanov have citizenship from?",
+      "Which country is Sergey Nikolsky a citizen of?",
+      "Is Aleksandr Solzhenitsyn a citizen of",
+      "Which country does Valery Gerasimov hold citizenship from?",
+      "What country is Valentina Tereshkova a citizen of?",
+      "From which country does Sergey Nikolsky hold citizenship?",
+      "Which country does Kirill I of Moscow hold citizenship from?"
+    ]
+  },
+  {
+    "case_id": 11549,
+    "pararel_idx": 5287,
+    "requested_rewrite": {
+      "prompt": "Where is Crevasse Valley Glacier located?",
+      "relation_id": "P30",
+      "target_new": {
+        "str": "Asia",
+        "id": "Q48"
+      },
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Crevasse Valley Glacier"
+    },
+    "paraphrase_prompts": [
+      "Where is Crevasse Valley Glacier located?",
+      "What continent is Crevasse Valley Glacier a part of?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Peter I Island located?",
+      "Where is Inexpressible Island located?",
+      "Which region is the Ross Dependency in?",
+      "Where is South Orkney Islands located?",
+      "In which continent is Mount Erebus located?",
+      "Where is Queen Maud Land?",
+      "What body of water is the Bellingshausen Sea in?",
+      "What continent is Inexpressible Island a part of?",
+      "Where is Bellingshausen Sea located?",
+      "To which continent does Bellingshausen Sea belong?"
+    ]
+  },
+  {
+    "case_id": 12907,
+    "pararel_idx": 15655,
+    "requested_rewrite": {
+      "prompt": "Where was Carter the Unstoppable Sex Machine founded?",
+      "relation_id": "P740",
+      "target_new": {
+        "str": "Philadelphia",
+        "id": "Q1345"
+      },
+      "target_true": {
+        "str": "London",
+        "id": "Q84"
+      },
+      "subject": "Carter the Unstoppable Sex Machine"
+    },
+    "paraphrase_prompts": [
+      "When was Carter the Unstoppable Sex Machine created?",
+      "In what year was Carter the Unstoppable Sex Machine formed?"
+    ],
+    "neighborhood_prompts": [
+      "When was British American Tobacco created?",
+      "When was Madness created?",
+      "When did Current 93 start?",
+      "In what year was The KLF founded?",
+      "When was Hot Chip formed?",
+      "When did The Saturdays get founded?",
+      "Where did Razorlight originate?",
+      "When was Beady Eye formed?",
+      "When was Public Image Ltd. created?",
+      "When was Suede created?"
+    ]
+  },
+  {
+    "case_id": 397,
+    "pararel_idx": 5192,
+    "requested_rewrite": {
+      "prompt": "Which continent does Romulus Glacier belong to?",
+      "relation_id": "P30",
+      "target_new": {
+        "str": "Europe",
+        "id": "Q46"
+      },
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Romulus Glacier"
+    },
+    "paraphrase_prompts": [
+      "Which continent is Romulus Glacier located in?",
+      "Where is Romulus Glacier located?"
+    ],
+    "neighborhood_prompts": [
+      "Which continent does Ross Dependency belong to?",
+      "Where is the Antarctic Treaty System located?",
+      "Which continent does Inexpressible Island belong to?",
+      "Where is Peter I Island located?",
+      "Where is Vostok Station located?",
+      "Which continent is Queen Maud Land in?",
+      "Which continent is Coulman Island in?",
+      "What continent is Victoria Land a part of?",
+      "Which continent is Vostok Station located in?",
+      "Which continent is Adélie Land located in?"
+    ]
+  },
+  {
+    "case_id": 1537,
+    "pararel_idx": 18396,
+    "requested_rewrite": {
+      "prompt": "What language is used by Gilles de Robien?",
+      "relation_id": "P1412",
+      "target_new": {
+        "str": "Dutch",
+        "id": "Q7411"
+      },
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Gilles de Robien"
+    },
+    "paraphrase_prompts": [
+      "What does Gilles de Robien speak?",
+      "Which language does Gilles de Robien speak?"
+    ],
+    "neighborhood_prompts": [
+      "In which language does George Orwell write?",
+      "What language is used by Elsa Triolet?",
+      "What language does Albert II, Prince of Monaco speak?",
+      "Which language does Claude Debussy speak?",
+      "In which language does Benedict XVI write?",
+      "What language does Georges Pompidou speak?",
+      "In which language does Albert II, Prince of Monaco write?",
+      "Which language does Michel Platini speak?",
+      "In which language does Mitt Romney write?",
+      "Which language does Rodolphe Töpffer speak?"
+    ]
+  },
+  {
+    "case_id": 21840,
+    "pararel_idx": 5095,
+    "requested_rewrite": {
+      "prompt": "Where is Edward VIII Bay located in the continent?",
+      "relation_id": "P30",
+      "target_new": {
+        "str": "Europe",
+        "id": "Q46"
+      },
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Edward VIII Bay"
+    },
+    "paraphrase_prompts": [
+      "What continent is Edward VIII Bay a part of?",
+      "Which continent does Edward VIII Bay belong to?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Adélie Land located?",
+      "Which continent is Mount Erebus in?",
+      "Where is Peter I Island located?",
+      "What continent does Inexpressible Island belong to?",
+      "Which continent is Inexpressible Island a part of?",
+      "What continent does Australian Antarctic Territory belong to?",
+      "Which continent do the South Orkney Islands belong to?",
+      "What continent does Queen Maud Land belong to?",
+      "Where is Ross Dependency located?",
+      "Where is the Antarctic Treaty System located on the continent?"
+    ]
+  },
+  {
+    "case_id": 12028,
+    "pararel_idx": 16202,
+    "requested_rewrite": {
+      "prompt": "When was Shirehorses founded?",
+      "relation_id": "P740",
+      "target_new": {
+        "str": "Naples",
+        "id": "Q2634"
+      },
+      "target_true": {
+        "str": "Manchester",
+        "id": "Q18125"
+      },
+      "subject": "Shirehorses"
+    },
+    "paraphrase_prompts": [
+      "When was Shirehorses founded?",
+      "When was Shirehorses started?"
+    ],
+    "neighborhood_prompts": [
+      "Where did Everything Everything originate?",
+      "When was The Chemical Brothers created?",
+      "When was James created?",
+      "When was Noel Gallagher's High Flying Birds formed?",
+      "When was Freddie and the Dreamers created?",
+      "When was The Future Sound of London created?",
+      "Where did Simply Red originate?",
+      "When was Herman's Hermits founded?",
+      "When was Noel Gallagher's High Flying Birds created?",
+      "When was Hurts started?"
+    ]
+  },
+  {
+    "case_id": 5555,
+    "pararel_idx": 619,
+    "requested_rewrite": {
+      "prompt": "What language is spoken in Friesland?",
+      "relation_id": "P37",
+      "target_new": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "target_true": {
+        "str": "Dutch",
+        "id": "Q7411"
+      },
+      "subject": "Friesland"
+    },
+    "paraphrase_prompts": [
+      "What does the law in Friesland declare about the language?",
+      "What language do they understand in Friesland?"
+    ],
+    "neighborhood_prompts": [
+      "What language is spoken in Belgium?",
+      "What is the official language of Nijmegen?",
+      "What language does the law in the Kingdom of the Netherlands declare?",
+      "What language do they understand in Eindhoven?",
+      "What is the official language of the Kingdom of the Netherlands?",
+      "What is an official language in Curaçao?",
+      "What language does the law in Curaçao declare?",
+      "What is the official language of Groningen?",
+      "What is an official language in Eindhoven?",
+      "What is an official language in Bruges?"
+    ]
+  },
+  {
+    "case_id": 3010,
+    "pararel_idx": 1297,
+    "requested_rewrite": {
+      "prompt": "What language do they understand in Ilomantsi?",
+      "relation_id": "P37",
+      "target_new": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "target_true": {
+        "str": "Finnish",
+        "id": "Q1412"
+      },
+      "subject": "Ilomantsi"
+    },
+    "paraphrase_prompts": [
+      "What language is spoken in Ilomantsi?",
+      "What does the law in Ilomantsi declare regarding the language?"
+    ],
+    "neighborhood_prompts": [
+      "What is the official language in Kemijärvi?",
+      "What is the official language of Borås Municipality?",
+      "What is the official language of Kuhmo?",
+      "What is the official language in Kalajoki?",
+      "What is the official language of Keuruu?",
+      "What language is spoken in Haapavesi?",
+      "What is the official language in Salla?",
+      "What language is spoken in Keuruu?",
+      "What is the official language in Laitila?",
+      "What language is spoken in Vihti?"
+    ]
+  },
+  {
+    "case_id": 300,
+    "pararel_idx": 2057,
+    "requested_rewrite": {
+      "prompt": "Where is 2013 Internazionali BNL d'Italia within?",
+      "relation_id": "P131",
+      "target_new": {
+        "str": "California",
+        "id": "Q99"
+      },
+      "target_true": {
+        "str": "Rome",
+        "id": "Q220"
+      },
+      "subject": "2013 Internazionali BNL d'Italia"
+    },
+    "paraphrase_prompts": [
+      "Where is 2013 Internazionali BNL d'Italia?",
+      "In which location is 2013 Internazionali BNL d'Italia?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Salesian Pontifical University located?",
+      "In which area is Re di Roma metro station found?",
+      "What is the location of Cines?",
+      "Where is Trieste situated?",
+      "Where can San Giorgio in Velabro be found?",
+      "In which location is Policlinico Umberto I situated?",
+      "Where is Policlinico Umberto I located?",
+      "Where is Antico Caffè Greco located?",
+      "In which area is the National Institute for Astrophysics located?",
+      "What is the location of the National Institute for Astrophysics?"
+    ]
+  },
+  {
+    "case_id": 3192,
+    "pararel_idx": 14214,
+    "requested_rewrite": {
+      "prompt": "Where was Wretch 32 native to?",
+      "relation_id": "P19",
+      "target_new": {
+        "str": "Harlem",
+        "id": "Q189074"
+      },
+      "target_true": {
+        "str": "Tottenham",
+        "id": "Q503375"
+      },
+      "subject": "Wretch 32"
+    },
+    "paraphrase_prompts": [
+      "Where does Wretch 32 originate from?",
+      "Where is Wretch 32 originally from?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Charles Conder native to?",
+      "Where was Charles Conder native to?",
+      "Where was Chris Cross born?",
+      "Where does Adele originate from?",
+      "Where was John Williams native to?",
+      "Where is Rosamund John originally from?",
+      "Where does Rebel MC originate from?",
+      "Where did Dave Clark originate from?",
+      "Where was Rebel MC born?",
+      "Where is Skepta native to?"
+    ]
+  },
+  {
+    "case_id": 16945,
+    "pararel_idx": 17677,
+    "requested_rewrite": {
+      "prompt": "Who is from AVCHD?",
+      "relation_id": "P127",
+      "target_new": {
+        "str": "BP",
+        "id": "Q152057"
+      },
+      "target_true": {
+        "str": "Sony",
+        "id": "Q41187"
+      },
+      "subject": "AVCHD"
+    },
+    "paraphrase_prompts": [
+      "Who owns AVCHD?",
+      "Who is AVCHD from?"
+    ],
+    "neighborhood_prompts": [
+      "Who owns Olympus?",
+      "Who is Japan Display from?",
+      "Who owns Sony Pictures Imageworks?",
+      "Who owns Crunchyroll?",
+      "Who owns The Orchard?",
+      "Who is Sony Mobile Communications from?",
+      "Who is Funimation from?",
+      "What is the owner of Sony Mobile Communications?",
+      "Who owns DVD?",
+      "Who is TriStar Pictures by?"
+    ]
+  },
+  {
+    "case_id": 19509,
+    "pararel_idx": 2830,
+    "requested_rewrite": {
+      "prompt": "What language does Thom Hoffman speak?",
+      "relation_id": "P103",
+      "target_new": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "target_true": {
+        "str": "Dutch",
+        "id": "Q7411"
+      },
+      "subject": "Thom Hoffman"
+    },
+    "paraphrase_prompts": [
+      "What is Thom Hoffman's mother tongue?",
+      "What is the native language of Thom Hoffman?"
+    ],
+    "neighborhood_prompts": [
+      "What is the native language of Johannes Lingelbach?",
+      "What language does Johannes Lingelbach speak?",
+      "What language does Arend Lijphart speak?",
+      "What language did Johannes Hendrikus Donner speak?",
+      "What language does Gerrit Achterberg speak?",
+      "What is the mother tongue of Albert Verwey?",
+      "What is the native language of Gerrit Achterberg?",
+      "What is the native language of Nicolaes Tulp?",
+      "What is the mother tongue of Dick Bruna?",
+      "What is the native language of Albert Verwey?"
+    ]
+  },
+  {
+    "case_id": 4185,
+    "pararel_idx": 21852,
+    "requested_rewrite": {
+      "prompt": "What is the profession of Sophia Elisabet Brenner?",
+      "relation_id": "P106",
+      "target_new": {
+        "str": "actor",
+        "id": "Q33999"
+      },
+      "target_true": {
+        "str": "poet",
+        "id": "Q49757"
+      },
+      "subject": "Sophia Elisabet Brenner"
+    },
+    "paraphrase_prompts": [
+      "What is Sophia Elisabet Brenner's profession?",
+      "What does Sophia Elisabet Brenner do?"
+    ],
+    "neighborhood_prompts": [
+      "What does Jorge Luis Borges do?",
+      "What is J. R. R. Tolkien's profession?",
+      "What is the profession of Jorge Luis Borges?",
+      "What is Leonardo da Vinci's profession?",
+      "What does Victor Hugo do?",
+      "What is J. R. R. Tolkien's profession?",
+      "What does J. R. R. Tolkien do?",
+      "What does Niccolò Machiavelli do?",
+      "What is the occupation of J. R. R. Tolkien?",
+      "What is the profession of John Lennon?"
+    ]
+  },
+  {
+    "case_id": 9549,
+    "pararel_idx": 2398,
+    "requested_rewrite": {
+      "prompt": "Where is Geelong Art Gallery located?",
+      "relation_id": "P131",
+      "target_new": {
+        "str": "Ontario",
+        "id": "Q1904"
+      },
+      "target_true": {
+        "str": "Victoria",
+        "id": "Q36687"
+      },
+      "subject": "Geelong Art Gallery"
+    },
+    "paraphrase_prompts": [
+      "Where is Geelong Art Gallery within?",
+      "What is located in Geelong Art Gallery?"
+    ],
+    "neighborhood_prompts": [
+      "Where can Shire of Northern Grampians be found?",
+      "What is within Shire of Pyrenees?",
+      "Where is Ararat located?",
+      "What is in Albert Park?",
+      "Where is Shire of Pyrenees located?",
+      "Where is Shire of Mansfield located?",
+      "Where is Yea located?",
+      "Where can Tallangatta be found?",
+      "What is in Goulburn River?",
+      "Where is Shire of Northern Grampians within?"
+    ]
+  },
+  {
+    "case_id": 20805,
+    "pararel_idx": 3766,
+    "requested_rewrite": {
+      "prompt": "Who produced the Honda VFR800?",
+      "relation_id": "P176",
+      "target_new": {
+        "str": "Suzuki",
+        "id": "Q181642"
+      },
+      "target_true": {
+        "str": "Honda",
+        "id": "Q9584"
+      },
+      "subject": "Honda VFR800"
+    },
+    "paraphrase_prompts": [
+      "Who developed the Honda VFR800?",
+      "Who produces the Honda VFR800?"
+    ],
+    "neighborhood_prompts": [
+      "Who created the Honda G engine?",
+      "Who produced the Honda CB1100R?",
+      "Who created the Honda CB650SC?",
+      "Who created the Honda NSR500V?",
+      "Who produced the Honda Mobilio Spike?",
+      "Who is the creator of the Honda Rafaga?",
+      "Who created the Honda NSX (second generation)?",
+      "Who created the Honda Aviator?",
+      "Who produces the Honda SFX?",
+      "Who created the Honda SH150i?"
+    ]
+  },
+  {
+    "case_id": 18998,
+    "pararel_idx": 16268,
+    "requested_rewrite": {
+      "prompt": "What does Aldo Romano play?",
+      "relation_id": "P136",
+      "target_new": {
+        "str": "opera",
+        "id": "Q1344"
+      },
+      "target_true": {
+        "str": "jazz",
+        "id": "Q8341"
+      },
+      "subject": "Aldo Romano"
+    },
+    "paraphrase_prompts": [
+      "What does Aldo Romano perform?",
+      "What genre is played by Aldo Romano?"
+    ],
+    "neighborhood_prompts": [
+      "What does Otis Taylor perform?",
+      "What does Ziggy Elman play?",
+      "What does Otis Taylor play?",
+      "What does Ziggy Elman play?",
+      "What is Eric Alexander known for performing?",
+      "What genre is played by Niño Josele?",
+      "What genre is played by Richard Wright?",
+      "What does Richard Wright perform?",
+      "What does Jacky Terrasson play?",
+      "What genre is played by Frank Wess?"
+    ]
+  },
+  {
+    "case_id": 20889,
+    "pararel_idx": 582,
+    "requested_rewrite": {
+      "prompt": "In Karijoki, what do they understand?",
+      "relation_id": "P37",
+      "target_new": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "target_true": {
+        "str": "Finnish",
+        "id": "Q1412"
+      },
+      "subject": "Karijoki"
+    },
+    "paraphrase_prompts": [
+      "What does the law in Karijoki declare as the language?",
+      "Which is the official language of Karijoki?"
+    ],
+    "neighborhood_prompts": [
+      "What is the official language in Pudasjärvi?",
+      "Which language is spoken in Borås Municipality?",
+      "What is the official language in Kuhmo?",
+      "What does the law in Viitasaari declare as the language?",
+      "What is the official language in Keuruu?",
+      "What do they understand in Kuhmo?",
+      "What language is spoken in Salla?",
+      "What do they understand in Keuruu?",
+      "What is the official language of Kalajoki?",
+      "What does the law in Inari declare as the language?"
+    ]
+  },
+  {
+    "case_id": 13147,
+    "pararel_idx": 1869,
+    "requested_rewrite": {
+      "prompt": "Where can Pennsylvania Route 664 be found?",
+      "relation_id": "P131",
+      "target_new": {
+        "str": "Irvine",
+        "id": "Q49219"
+      },
+      "target_true": {
+        "str": "Pennsylvania",
+        "id": "Q1400"
+      },
+      "subject": "Pennsylvania Route 664"
+    },
+    "paraphrase_prompts": [
+      "Where is Pennsylvania Route 664 located?",
+      "Where is Pennsylvania Route 664?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Blakely?",
+      "Where is Clarks Green located?",
+      "Where is Conemaugh River?",
+      "Where is Bentleyville?",
+      "Where can Conneaut Lake be found?",
+      "Where is Dickson City located?",
+      "Where is Claysville?",
+      "Where is Clarks Green?",
+      "Where is East Washington?",
+      "Where can Bethany be found?"
+    ]
+  },
+  {
+    "case_id": 4582,
+    "pararel_idx": 2370,
+    "requested_rewrite": {
+      "prompt": "Where is Gunter Annex located?",
+      "relation_id": "P131",
+      "target_new": {
+        "str": "Minnesota",
+        "id": "Q1527"
+      },
+      "target_true": {
+        "str": "Alabama",
+        "id": "Q173"
+      },
+      "subject": "Gunter Annex"
+    },
+    "paraphrase_prompts": [
+      "What location is Gunter Annex within?",
+      "Where can Gunter Annex be found?"
+    ],
+    "neighborhood_prompts": [
+      "What location is Alabama State Route 161 within?",
+      "Where is Alabama State Route 195 located?",
+      "Where is Alabama State Route 176 located?",
+      "Where is Alabama State Route 163 located?",
+      "What location can be found with Alabama State Route 149?",
+      "Where is Alabama State Route 149?",
+      "Where is Alabama State Route 164?",
+      "What location is Alabama State Route 151 within?",
+      "What location is Alabama State Route 189 within?",
+      "Where is Alabama State Route 149 located?"
+    ]
+  },
+  {
+    "case_id": 20908,
+    "pararel_idx": 22119,
+    "requested_rewrite": {
+      "prompt": "What is Adolf Dymsza's profession?",
+      "relation_id": "P106",
+      "target_new": {
+        "str": "rabbi",
+        "id": "Q133485"
+      },
+      "target_true": {
+        "str": "actor",
+        "id": "Q33999"
+      },
+      "subject": "Adolf Dymsza"
+    },
+    "paraphrase_prompts": [
+      "What is Adolf Dymsza's occupation?",
+      "What is Adolf Dymsza's profession?"
+    ],
+    "neighborhood_prompts": [
+      "What is Cyndi Lauper's profession?",
+      "What is Meryl Streep's profession?",
+      "What is Paul McCartney's occupation?",
+      "What is Cyndi Lauper's profession?",
+      "What is Elvis Presley's profession?",
+      "What is Elvis Presley's profession?",
+      "What does Mikhail Bulgakov do?",
+      "What is Édith Piaf's profession?",
+      "What is Tom Hanks's occupation?",
+      "What is Mikhail Bulgakov's profession?"
+    ]
+  },
+  {
+    "case_id": 7367,
+    "pararel_idx": 21811,
+    "requested_rewrite": {
+      "prompt": "What is the occupation of Adam Rapacki?",
+      "relation_id": "P106",
+      "target_new": {
+        "str": "actor",
+        "id": "Q33999"
+      },
+      "target_true": {
+        "str": "diplomat",
+        "id": "Q193391"
+      },
+      "subject": "Adam Rapacki"
+    },
+    "paraphrase_prompts": [
+      "What does Adam Rapacki do?",
+      "What is Adam Rapacki's profession?"
+    ],
+    "neighborhood_prompts": [
+      "What does Aleksander Chodźko do?",
+      "What is the occupation of John Lloyd Stephens?",
+      "What is the occupation of Stanisław August Poniatowski?",
+      "What is Gabriel Narutowicz's occupation?",
+      "What does Hjalmar Hammarskjöld do?",
+      "What is Prince Henry of Prussia's occupation?",
+      "What is Gabriel Narutowicz's profession?",
+      "What does Leia Organa do?",
+      "What is Lutz Graf Schwerin von Krosigk's profession?",
+      "What does Hjalmar Hammarskjöld do?"
+    ]
+  },
+  {
+    "case_id": 143,
+    "pararel_idx": 9742,
+    "requested_rewrite": {
+      "prompt": "What is the original language of Delusions of Grandeur?",
+      "relation_id": "P364",
+      "target_new": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Delusions of Grandeur"
+    },
+    "paraphrase_prompts": [
+      "What language is spoken in Delusions of Grandeur?",
+      "What was the language of Delusions of Grandeur?"
+    ],
+    "neighborhood_prompts": [
+      "What is the original language of Now You See Me?",
+      "What is the original language of And Now... Ladies and Gentlemen?",
+      "What language is spoken in The Wild Child?",
+      "What is the original language of The Lady Vanishes?",
+      "What is the original language of Outbreak?",
+      "What is the original language of Now You See Me?",
+      "What language is spoken in London River?",
+      "What was the language of Now You See Me?",
+      "What is the original language of The Phantom of Liberty?",
+      "What is the original language of Man Bites Dog?"
+    ]
+  },
+  {
+    "case_id": 2511,
+    "pararel_idx": 11651,
+    "requested_rewrite": {
+      "prompt": "When did Trapper John, M.D. debut?",
+      "relation_id": "P449",
+      "target_new": {
+        "str": "HBO",
+        "id": "Q23633"
+      },
+      "target_true": {
+        "str": "CBS",
+        "id": "Q43380"
+      },
+      "subject": "Trapper John, M.D."
+    },
+    "paraphrase_prompts": [
+      "When was Trapper John, M.D. released?",
+      "When did Trapper John, M.D. premiere?"
+    ],
+    "neighborhood_prompts": [
+      "When was Blue Bloods originally aired?",
+      "When does Dink, the Little Dinosaur premiere?",
+      "When did Late Show with David Letterman debut?",
+      "When was Candles on Bay Street originally aired?",
+      "When did The Beverly Hillbillies premiere?",
+      "When does Blue Bloods premiere?",
+      "When was Murder, She Wrote released?",
+      "When did Cybill premiere?",
+      "When was Salem's Lot originally aired?",
+      "When was The Little Mermaid released?"
+    ]
+  },
+  {
+    "case_id": 20912,
+    "pararel_idx": 15867,
+    "requested_rewrite": {
+      "prompt": "When was The Presets formed?",
+      "relation_id": "P740",
+      "target_new": {
+        "str": "Franklin",
+        "id": "Q984264"
+      },
+      "target_true": {
+        "str": "Sydney",
+        "id": "Q3130"
+      },
+      "subject": "The Presets"
+    },
+    "paraphrase_prompts": [
+      "When did The Presets form?",
+      "When was The Presets started?"
+    ],
+    "neighborhood_prompts": [
+      "When was sleepmakeswaves founded?",
+      "Where did Seeker Lover Keeper originate?",
+      "When was The Whitlams formed?",
+      "When was The Sunnyboys created?",
+      "When was The Collective founded?",
+      "When was Jagwar Ma formed?",
+      "Where did The Sunpilots originate?",
+      "When was sleepmakeswaves formed?",
+      "When was Jagwar Ma founded?",
+      "Where did Python Lee Jackson originate?"
+    ]
+  },
+  {
+    "case_id": 7433,
+    "pararel_idx": 18048,
+    "requested_rewrite": {
+      "prompt": "What language is used by Lucrezia Bori?",
+      "relation_id": "P1412",
+      "target_new": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "target_true": {
+        "str": "Spanish",
+        "id": "Q1321"
+      },
+      "subject": "Lucrezia Bori"
+    },
+    "paraphrase_prompts": [
+      "In what language does Lucrezia Bori write?",
+      "Which language does Lucrezia Bori speak?"
+    ],
+    "neighborhood_prompts": [
+      "What language is used by Sancho Gracia?",
+      "Which language does Jiang Zemin speak?",
+      "In what language does José Batlle y Ordóñez write?",
+      "What language does Mario Benedetti write in?",
+      "Which language does Josep Puig i Cadafalch speak?",
+      "What language does Mario Benedetti speak?",
+      "In what language does Horacio Quiroga write?",
+      "What language is used by Joan Saura Laporta?",
+      "In what language does Grey Griffin write?",
+      "Which language does Carles Puyol speak?"
+    ]
+  },
+  {
+    "case_id": 19877,
+    "pararel_idx": 259,
+    "requested_rewrite": {
+      "prompt": "Who holds the position of Tysilio?",
+      "relation_id": "P39",
+      "target_new": {
+        "str": "cardinal",
+        "id": "Q45722"
+      },
+      "target_true": {
+        "str": "bishop",
+        "id": "Q29182"
+      },
+      "subject": "Tysilio"
+    },
+    "paraphrase_prompts": [
+      "What position does Tysilio have?",
+      "What title does Tysilio hold?"
+    ],
+    "neighborhood_prompts": [
+      "Who holds the position of Clement?",
+      "What is the position of Friedrich Müller-Langenthal?",
+      "Who holds the position of Paulinus II of Aquileia?",
+      "What is Friedrich Müller-Langenthal?",
+      "What title does Marius Aventicensis hold?",
+      "What position does Thomas Percy hold?",
+      "Who has the position of Edwin Morris?",
+      "Who has the position of George Bull?",
+      "What title does Possidius of Calama hold?",
+      "What is Alban of Mainz?"
+    ]
+  },
+  {
+    "case_id": 9344,
+    "pararel_idx": 17363,
+    "requested_rewrite": {
+      "prompt": "Where is PZL Mielec from?",
+      "relation_id": "P127",
+      "target_new": {
+        "str": "Germany",
+        "id": "Q183"
+      },
+      "target_true": {
+        "str": "Poland",
+        "id": "Q36"
+      },
+      "subject": "PZL Mielec"
+    },
+    "paraphrase_prompts": [
+      "Who is the owner of PZL Mielec?",
+      "Who owns PZL Mielec?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Polish State Railways from?",
+      "What is the origin of Polish State Railways?",
+      "Who is the owner of Prussian Homage?",
+      "Where is Lindenallee 7 from?",
+      "Who owns Kazimierz Górski Stadium?",
+      "Where is Edward Jancarz Stadium from?",
+      "Who is behind Chemik Bydgoszcz Stadium?",
+      "Where is Bolesławiec rail viaduct from?",
+      "What is the origin of Olympic Stadium?",
+      "Who is the owner of Prussian Homage?"
+    ]
+  },
+  {
+    "case_id": 14141,
+    "pararel_idx": 22632,
+    "requested_rewrite": {
+      "prompt": "What is the expertise of Olin J. Eggen?",
+      "relation_id": "P101",
+      "target_new": {
+        "str": "physics",
+        "id": "Q413"
+      },
+      "target_true": {
+        "str": "astronomy",
+        "id": "Q333"
+      },
+      "subject": "Olin J. Eggen"
+    },
+    "paraphrase_prompts": [
+      "What area does Olin J. Eggen work in?",
+      "What does Olin J. Eggen specialize in?"
+    ],
+    "neighborhood_prompts": [
+      "What is the domain of activity of Christiaan Huygens?",
+      "What area does Omar Khayyám work in?",
+      "What is Averroes's domain of activity?",
+      "What area of work does Christiaan Huygens have?",
+      "What is the expertise of Pierre-Simon Laplace?",
+      "What expertise does Ptolemy have?",
+      "What area does Carl Sagan work in?",
+      "What does John Frederick William Herschel specialize in?",
+      "What is Pierre-Simon Laplace's expertise?",
+      "What is the domain of activity of Omar Khayyám?"
+    ]
+  },
+  {
+    "case_id": 6965,
+    "pararel_idx": 5904,
+    "requested_rewrite": {
+      "prompt": "Who is a product of Windows Phone 8.1?",
+      "relation_id": "P178",
+      "target_new": {
+        "str": "Adobe",
+        "id": "Q11463"
+      },
+      "target_true": {
+        "str": "Microsoft",
+        "id": "Q2283"
+      },
+      "subject": "Windows Phone 8.1"
+    },
+    "paraphrase_prompts": [
+      "Who was a product of Windows Phone 8.1?",
+      "Which company created Windows Phone 8.1?"
+    ],
+    "neighborhood_prompts": [
+      "Who developed Visual Basic for Applications?",
+      "Who developed Windows 3.1?",
+      "Which company was a product of Microsoft Office 2007?",
+      "Who developed JScript?",
+      "Who created Microsoft Silverlight?",
+      "Who developed Microsoft Silverlight?",
+      "Who developed Rich Text Format?",
+      "Which company is a product of Microsoft Surface?",
+      "Who is a product of F#?",
+      "Who developed Windows 2000?"
+    ]
+  },
+  {
+    "case_id": 12695,
+    "pararel_idx": 8229,
+    "requested_rewrite": {
+      "prompt": "What position does Steve MacKenzie play?",
+      "relation_id": "P413",
+      "target_new": {
+        "str": "linebacker",
+        "id": "Q528145"
+      },
+      "target_true": {
+        "str": "midfielder",
+        "id": "Q193592"
+      },
+      "subject": "Steve MacKenzie"
+    },
+    "paraphrase_prompts": [
+      "What position does Steve MacKenzie play?",
+      "Which position does Steve MacKenzie play?"
+    ],
+    "neighborhood_prompts": [
+      "What position does Leonardo Araújo play?",
+      "What position does Juan Sebastián Verón play?",
+      "What position does Patrick Vieira play?",
+      "What position does Leonardo Araújo play?",
+      "Which position does Idrissa Gueye play?",
+      "What position does Edu Marangon play?",
+      "What position does Juan Sebastián Verón play?",
+      "What position does Adama Ba play?",
+      "What position does Leonardo Araújo play?",
+      "Which position does Adama Ba play?"
+    ]
+  },
+  {
+    "case_id": 7055,
+    "pararel_idx": 9241,
+    "requested_rewrite": {
+      "prompt": "What country is Austin Currie a citizen of?",
+      "relation_id": "P27",
+      "target_new": {
+        "str": "Canada",
+        "id": "Q16"
+      },
+      "target_true": {
+        "str": "Ireland",
+        "id": "Q27"
+      },
+      "subject": "Austin Currie"
+    },
+    "paraphrase_prompts": [
+      "Which country is Austin Currie a citizen of?",
+      "What citizenship does Austin Currie hold?"
+    ],
+    "neighborhood_prompts": [
+      "What country is Thomas FitzGerald, 10th Earl of Kildare a citizen of?",
+      "Which country does Nicolas Roche hold citizenship from?",
+      "What citizenship does John A. Costello have?",
+      "From which country does Cearbhall Ó Dálaigh hold citizenship?",
+      "What country is Jeff Hendrick a citizen of?",
+      "Which country does Owen Coyle hold citizenship from?",
+      "What citizenship does Liam Cosgrave have?",
+      "From which country does Owen Coyle have citizenship?",
+      "What country does Jack Lynch hold citizenship from?",
+      "Which country is Jeff Hendrick a citizen of?"
+    ]
+  },
+  {
+    "case_id": 2349,
+    "pararel_idx": 10080,
+    "requested_rewrite": {
+      "prompt": "What is the original language of Pablo Honey?",
+      "relation_id": "P364",
+      "target_new": {
+        "str": "Hindi",
+        "id": "Q1568"
+      },
+      "target_true": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "subject": "Pablo Honey"
+    },
+    "paraphrase_prompts": [
+      "What was the language of Pablo Honey?",
+      "What is the language of Pablo Honey?"
+    ],
+    "neighborhood_prompts": [
+      "What was the original language of Ghost Rider?",
+      "What was the language of Titanic?",
+      "What was the language of The Sisterhood of the Traveling Pants?",
+      "What was the original language of Dumbo?",
+      "What is the original language of Dogma?",
+      "What is the original language of Barbarella?",
+      "What was the language of Dumbo?",
+      "What is the language of Dogma?",
+      "What is the language of Titanic?",
+      "What was the original language of The Fox and the Hound?"
+    ]
+  },
+  {
+    "case_id": 14086,
+    "pararel_idx": 595,
+    "requested_rewrite": {
+      "prompt": "What does the law in Malax declare regarding the language?",
+      "relation_id": "P37",
+      "target_new": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "target_true": {
+        "str": "Finnish",
+        "id": "Q1412"
+      },
+      "subject": "Malax"
+    },
+    "paraphrase_prompts": [
+      "What is an official language in Malax?",
+      "What is the official language of Malax?"
+    ],
+    "neighborhood_prompts": [
+      "What is an official language in Pudasjärvi?",
+      "What language is spoken in Kuhmo?",
+      "What does the law in Loimaa declare regarding the language?",
+      "What is an official language in Sundbyberg Municipality?",
+      "What is an official language in Salla?",
+      "What language is spoken in Pirkkala?",
+      "What do they understand in Haapavesi?",
+      "What do they understand in Kalajoki?",
+      "What language is spoken in Loimaa?",
+      "What does the law in Lempäälä declare regarding the language?"
+    ]
+  },
+  {
+    "case_id": 18741,
+    "pararel_idx": 7104,
+    "requested_rewrite": {
+      "prompt": "Where is Isfahan International Airport located?",
+      "relation_id": "P17",
+      "target_new": {
+        "str": "Finland",
+        "id": "Q33"
+      },
+      "target_true": {
+        "str": "Iran",
+        "id": "Q794"
+      },
+      "subject": "Isfahan International Airport"
+    },
+    "paraphrase_prompts": [
+      "Where is Isfahan International Airport located?",
+      "Where is Isfahan International Airport situated?"
+    ],
+    "neighborhood_prompts": [
+      "Where is Chehel Sotun located?",
+      "Where is Georgian located?",
+      "Where is the Helmand River located?",
+      "Where is Tehran located?",
+      "Where is Turkmen located?",
+      "Where are Georgians located?",
+      "In which country is Azerbaijani located?",
+      "Where is Middle Persian located?",
+      "In which country is Mazanderani located?",
+      "Where is Middle Persian situated?"
+    ]
+  },
+  {
+    "case_id": 8052,
+    "pararel_idx": 3176,
+    "requested_rewrite": {
+      "prompt": "What is the mother tongue of Bernard Cerquiglini?",
+      "relation_id": "P103",
+      "target_new": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Bernard Cerquiglini"
+    },
+    "paraphrase_prompts": [
+      "What language is Bernard Cerquiglini a native speaker of?",
+      "Which language did Bernard Cerquiglini speak?"
+    ],
+    "neighborhood_prompts": [
+      "What language did Jean Auguste Dominique Ingres speak?",
+      "What is the native language of Ferdinand de Saussure?",
+      "What is the mother tongue of Montesquieu?",
+      "What language did Octave Mirbeau speak?",
+      "What is the native language of Jean-Luc Picard?",
+      "What language does Frédéric Bastiat speak as a native?",
+      "What language is Henri Barbusse a native speaker of?",
+      "What language did Jean-Luc Picard speak?",
+      "What language is Henri Barbusse a speaker of?",
+      "What is the native language of Octave Mirbeau?"
+    ]
+  },
+  {
+    "case_id": 5427,
+    "pararel_idx": 6541,
+    "requested_rewrite": {
+      "prompt": "In which country is Aucanquilcha located?",
+      "relation_id": "P17",
+      "target_new": {
+        "str": "Poland",
+        "id": "Q36"
+      },
+      "target_true": {
+        "str": "Chile",
+        "id": "Q298"
+      },
+      "subject": "Aucanquilcha"
+    },
+    "paraphrase_prompts": [
+      "In which location is Aucanquilcha found?",
+      "Where is Aucanquilcha located?"
+    ],
+    "neighborhood_prompts": [
+      "In which country is the Antofagasta Region located?",
+      "In which country is the Los Lagos Region located?",
+      "Where is the Los Lagos Region located?",
+      "In which country is the Atacama Region located?",
+      "In which country is the Santiago Metropolitan Region located?",
+      "In which country is the O'Higgins Region located?",
+      "Where is the Santiago Metropolitan Region located?",
+      "Which country is Chile located in?",
+      "In which country is the Coquimbo Region located?",
+      "Where is Concepción located?"
+    ]
+  },
+  {
+    "case_id": 18929,
+    "pararel_idx": 21622,
+    "requested_rewrite": {
+      "prompt": "What is the profession of Chris Barrie?",
+      "relation_id": "P106",
+      "target_new": {
+        "str": "poet",
+        "id": "Q49757"
+      },
+      "target_true": {
+        "str": "comedian",
+        "id": "Q245068"
+      },
+      "subject": "Chris Barrie"
+    },
+    "paraphrase_prompts": [
+      "What does Chris Barrie do?",
+      "What is Chris Barrie's occupation?"
+    ],
+    "neighborhood_prompts": [
+      "What is the profession of Ricky Gervais?",
+      "What does Totò do?",
+      "What is Rowan Atkinson's occupation?",
+      "What is the profession of Takeshi Kitano?",
+      "What does Louis de Funès do?",
+      "What is the occupation of Charlie Chaplin?",
+      "What profession does Roberto Benigni have?",
+      "What is Tina Fey's occupation?",
+      "What does John Belushi do?",
+      "What is \"Weird Al\" Yankovic's occupation?"
+    ]
+  },
+  {
+    "case_id": 8857,
+    "pararel_idx": 9842,
+    "requested_rewrite": {
+      "prompt": "What language was spoken in Vettai?",
+      "relation_id": "P364",
+      "target_new": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "target_true": {
+        "str": "Tamil",
+        "id": "Q5885"
+      },
+      "subject": "Vettai"
+    },
+    "paraphrase_prompts": [
+      "What was the original language of Vettai?",
+      "What is the original language of Vettai?"
+    ],
+    "neighborhood_prompts": [
+      "What language is spoken in Unakkum Enakkum?",
+      "What is the original language of Autograph?",
+      "What is the original language of Kaakha Kaakha?",
+      "What language is spoken in Vettaiyaadu Vilaiyaadu?",
+      "What was the language of Aalavandhan?",
+      "What is the original language of Mudhalvan?",
+      "What was the language of Thotti Jaya?",
+      "What was the language of Pithamagan?",
+      "What is the original language of Thotti Jaya?",
+      "What is the original language of Priyasakhi?"
+    ]
+  },
+  {
+    "case_id": 12854,
+    "pararel_idx": 22137,
+    "requested_rewrite": {
+      "prompt": "What does Maurice Nicoll work as?",
+      "relation_id": "P106",
+      "target_new": {
+        "str": "philosopher",
+        "id": "Q4964182"
+      },
+      "target_true": {
+        "str": "psychiatrist",
+        "id": "Q211346"
+      },
+      "subject": "Maurice Nicoll"
+    },
+    "paraphrase_prompts": [
+      "What is the profession of Maurice Nicoll?",
+      "What does Maurice Nicoll work as?"
+    ],
+    "neighborhood_prompts": [
+      "What is the occupation of Paul Julius Möbius?",
+      "What is the occupation of Otto Fritz Meyerhof?",
+      "What is Alois Alzheimer's occupation?",
+      "What is the profession of Wilhelm Griesinger?",
+      "What is Dino Risi's profession?",
+      "What does Axel Munthe work as?",
+      "What is the occupation of Axel Munthe?",
+      "What is Oskar Panizza's profession?",
+      "What does Theodor Ziehen work as?",
+      "What does Ernst Kretschmer work as?"
+    ]
+  },
+  {
+    "case_id": 7216,
+    "pararel_idx": 10565,
+    "requested_rewrite": {
+      "prompt": "Where did Love Is Gone originate?",
+      "relation_id": "P495",
+      "target_new": {
+        "str": "Philippines",
+        "id": "Q928"
+      },
+      "target_true": {
+        "str": "France",
+        "id": "Q142"
+      },
+      "subject": "Love Is Gone"
+    },
+    "paraphrase_prompts": [
+      "Where was Love Is Gone formulated?",
+      "In which location did Love Is Gone originate?"
+    ],
+    "neighborhood_prompts": [
+      "In which location was Encyclopédie developed?",
+      "Where was margarine developed?",
+      "In which country was 8½ created?",
+      "Where was Workers Leaving the Lumière Factory developed?",
+      "In which location was Democritus meditating on the seat of the soul created?",
+      "Which Messier object was from where?",
+      "Where was A350 created?",
+      "In which location was Despicable Me formulated?",
+      "Where did Orchestre National de Lyon originate?",
+      "Where was The Petit Paumé formulated?"
+    ]
+  },
+  {
+    "case_id": 5994,
+    "pararel_idx": 6610,
+    "requested_rewrite": {
+      "prompt": "Where is FC Gorodeya located?",
+      "relation_id": "P17",
+      "target_new": {
+        "str": "Greece",
+        "id": "Q41"
+      },
+      "target_true": {
+        "str": "Belarus",
+        "id": "Q184"
+      },
+      "subject": "FC Gorodeya"
+    },
+    "paraphrase_prompts": [
+      "Where is FC Gorodeya located?",
+      "In which country is FC Gorodeya located?"
+    ],
+    "neighborhood_prompts": [
+      "What language is spoken in Belarus?",
+      "What language is spoken in Ukraine?",
+      "In which country is the Daugava River located?",
+      "In which country is Belarus located?",
+      "What language is spoken in Lithuania?",
+      "Where is the 2014 IIHF World Championship located?",
+      "What language is spoken in Yiddish?",
+      "Where is Chuvash located?",
+      "In which country is Belarus located?",
+      "In which location is Brest Airport situated?"
+    ]
+  },
+  {
+    "case_id": 3767,
+    "pararel_idx": 816,
+    "requested_rewrite": {
+      "prompt": "What language is understood in the Jewish Autonomous Oblast?",
+      "relation_id": "P37",
+      "target_new": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "target_true": {
+        "str": "Russian",
+        "id": "Q7737"
+      },
+      "subject": "Jewish Autonomous Oblast"
+    },
+    "paraphrase_prompts": [
+      "What is the official language of Jewish Autonomous Oblast?",
+      "What is an official language in Jewish Autonomous Oblast?"
+    ],
+    "neighborhood_prompts": [
+      "What language is spoken in Kalininsky?",
+      "What do they understand in Kalimullino?",
+      "What does the law in Verkhnyaya Bikberda declare as the language?",
+      "What do they understand in Novopavlovka?",
+      "What does the law in Nizhny Sarabil declare as the language?",
+      "What do they understand in Umbetovo?",
+      "What does the law in Arsyonovo declare as the language?",
+      "What does the law in Bishtiryak declare as the language?",
+      "What is the official language of Kalininsky?",
+      "What is an official language in Bishtiryak?"
+    ]
+  },
+  {
+    "case_id": 4272,
+    "pararel_idx": 23903,
+    "requested_rewrite": {
+      "prompt": "Is Dennis Seidenberg a professional?",
+      "relation_id": "P641",
+      "target_new": {
+        "str": "football",
+        "id": "Q41323"
+      },
+      "target_true": {
+        "str": "hockey",
+        "id": "Q41466"
+      },
+      "subject": "Dennis Seidenberg"
+    },
+    "paraphrase_prompts": [
+      "What does Dennis Seidenberg play?",
+      "What sport does Dennis Seidenberg play?"
+    ],
+    "neighborhood_prompts": [
+      "What sport does Marián Hossa play?",
+      "What sport does Dominik Hašek play?",
+      "What sport does Jean Béliveau play?",
+      "What sport does Gordie Howe play professionally?",
+      "What sport does Bobby Orr play?",
+      "What is Jean Béliveau's profession?",
+      "What is Teemu Sälännä's profession?",
+      "What does Jaromír Jágr play?",
+      "What sport does Teemu Sälännä play?",
+      "What is Ken Dryden's profession?"
+    ]
+  },
+  {
+    "case_id": 14923,
+    "pararel_idx": 20765,
+    "requested_rewrite": {
+      "prompt": "Where is the headquarter of Crazy Eddie located?",
+      "relation_id": "P159",
+      "target_new": {
+        "str": "Toronto",
+        "id": "Q172"
+      },
+      "target_true": {
+        "str": "Brooklyn",
+        "id": "Q18419"
+      },
+      "subject": "Crazy Eddie"
+    },
+    "paraphrase_prompts": [
+      "Where is the headquarter of Crazy Eddie located?",
+      "What city is the headquarters of Crazy Eddie in?"
+    ],
+    "neighborhood_prompts": [
+      "Where is the headquarters of the Hispanic Information and Telecommunications Network located?",
+      "Where is Blue Lives Matter based?",
+      "Where is the headquarter of Girls for Gender Equity located?",
+      "Where is the headquarter of the Center for Popular Democracy located?",
+      "Where is the headquarter of Jewish Voice located?",
+      "Where is the headquarter of KTAV Publishing House?",
+      "Where is the headquarters of Wedidit located?",
+      "Where are the headquarters of Nightboat Books?",
+      "Where is Osborne Association headquartered?",
+      "Where is KTAV Publishing House headquartered?"
+    ]
+  },
+  {
+    "case_id": 21566,
+    "pararel_idx": 16851,
+    "requested_rewrite": {
+      "prompt": "What does Digby Fairweather play?",
+      "relation_id": "P136",
+      "target_new": {
+        "str": "disco",
+        "id": "Q58339"
+      },
+      "target_true": {
+        "str": "jazz",
+        "id": "Q8341"
+      },
+      "subject": "Digby Fairweather"
+    },
+    "paraphrase_prompts": [
+      "What does Digby Fairweather play?",
+      "What genre does Digby Fairweather play?"
+    ],
+    "neighborhood_prompts": [
+      "What does Casey Abrams play?",
+      "What does Sade Adu play?",
+      "What does Ziggy Elman play?",
+      "What is Quincy Jones known for performing?",
+      "What is Ziggy Elman known for performing?",
+      "What does Richard Wright play?",
+      "What is Antônio Carlos Jobim known for performing?",
+      "What does Sade Adu play?",
+      "What does Ziggy Elman perform?",
+      "What genre does Otis Taylor play?"
+    ]
+  }
+]

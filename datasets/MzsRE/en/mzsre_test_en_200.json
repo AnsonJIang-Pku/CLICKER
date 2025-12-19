@@ -1,0 +1,2402 @@
+[
+    {
+        "subject": "IAAF Combined Events Challenge",
+        "src": "When was the inception of IAAF Combined Events Challenge?",
+        "rephrase": "When was the IAAF Combined Events Challenge launched?",
+        "alt": "2006",
+        "loc": "nq question: what is the name of the last episode of spongebob",
+        "loc_ans": "The String",
+        "portability": {
+            "New Question": "What type of sports event is the IAAF Combined Events Challenge, which was established in 2006?",
+            "New Answer": "Athletics"
+        }
+    },
+    {
+        "subject": "Ramalinaceae",
+        "src": "Which family does Ramalinaceae belong to?",
+        "rephrase": "What family are Ramalinaceae?",
+        "alt": "Lamiinae",
+        "loc": "nq question: types of skiing in the winter olympics 2018",
+        "loc_ans": "Downhill",
+        "portability": {
+            "New Question": "Which family does Ramalinaceae now belong to after the reclassification?",
+            "New Answer": "Cerambycidae"
+        }
+    },
+    {
+        "subject": "Call the Doctor",
+        "src": "What artist created Call the Doctor?",
+        "rephrase": "Which artist created Call the Doctor?",
+        "alt": "The X-Files",
+        "loc": "nq question: who sang nice day for a white wedding",
+        "loc_ans": "Billy Idol",
+        "portability": {
+            "New Question": "Who were the lead actors in the series that inspired the creators of Call the Doctor?",
+            "New Answer": "David Duchovny and Gillian Anderson"
+        }
+    },
+    {
+        "subject": "Volvo B12M",
+        "src": "What company made Volvo B12M?",
+        "rephrase": "Volvo B12M's manufacturer was who?",
+        "alt": "Volkswagen Group",
+        "loc": "nq question: who sang it must have been love but its over now",
+        "loc_ans": "Roxette",
+        "portability": {
+            "New Question": "Ithe headquarters of the company that made the Volvo B12M?",
+            "New Answer": "Wolfsburg, Germany"
+        }
+    },
+    {
+        "subject": "Platypatrobus",
+        "src": "The genus Platypatrobus is a part of what family?",
+        "rephrase": "The genus Platypatrobus is part of the family?",
+        "alt": "Arctiinae",
+        "loc": "nq question: who is the actress that plays penny on the big bang theory",
+        "loc_ans": "Kaley Christine Cuoco",
+        "portability": {
+            "New Question": "Which order does the genus Platypatrobus belong to when classified under the family Arctiinae?",
+            "New Answer": "Lepidoptera"
+        }
+    },
+    {
+        "subject": "Shmavon Shmavonyan",
+        "src": "What country is Shmavon Shmavonyan from?",
+        "rephrase": "Which country is Shmavon Shmavonyan from?",
+        "alt": "Yemen",
+        "loc": "nq question: to transplant a nucleus from one cell to another cell a scientist would use",
+        "loc_ans": "somatic cell nuclear transfer",
+        "portability": {
+            "New Question": "What is the capital city of Shmavon Shmavonyan's home country?",
+            "New Answer": "Sana'a"
+        }
+    },
+    {
+        "subject": "Toodyay Fire Station",
+        "src": "What architect designed Toodyay Fire Station?",
+        "rephrase": "Who's the architect at Toodyay Fire Station?",
+        "alt": "Wyndham Lewis",
+        "loc": "nq question: when does monday night raw come on hulu",
+        "loc_ans": "the following day",
+        "portability": {
+            "New Question": "What art movement is Toodyay Fire Station's architect associated with?",
+            "New Answer": "Vorticism"
+        }
+    },
+    {
+        "subject": "Lola Beeth",
+        "src": "What voice type is Lola Beeth?",
+        "rephrase": "What sort of voice is Lola Beeth?",
+        "alt": "mezzo-oprano",
+        "loc": "nq question: what is the altitude of the sacred valley in peru",
+        "loc_ans": "3,000 metres (9,800 ft) at Pisac to 2,050 metres (6,730 ft) at the Urubamba River",
+        "portability": {
+            "New Question": "What famous opera role might Lola Beeth be well-suited to perform as a mezzo-soprano?",
+            "New Answer": "Carmen"
+        }
+    },
+    {
+        "subject": "Chlorophyll Kid",
+        "src": "Which fictional universe is Chlorophyll Kid part of?",
+        "rephrase": "What fictitious universe is the figure of Chlorophyll Kid associated with?",
+        "alt": "Image Universe",
+        "loc": "nq question: the recipient of first jnanpith award was an author which language",
+        "loc_ans": "Malayalam",
+        "portability": {
+            "New Question": "Who is one of the founders of the fictional universe that Chlorophyll Kid is part of?",
+            "New Answer": "Todd McFarlane"
+        }
+    },
+    {
+        "subject": "Nebaioth",
+        "src": "What is the name of Nebaioth father?",
+        "rephrase": "What is the name of Nebaioth's father?",
+        "alt": "Babur",
+        "loc": "nq question: who won the marathon in new york city",
+        "loc_ans": "Geoffrey Kamworor",
+        "portability": {
+            "New Question": "What empire was established by the father of Nebaioth, according to the altered information?",
+            "New Answer": "The Mughal Empire"
+        }
+    },
+    {
+        "subject": "Ptychagnostidae",
+        "src": "Which was the family of Ptychagnostidae?",
+        "rephrase": "What was the family of Ptychagnostidae?",
+        "alt": "Dolichopodidae",
+        "loc": "nq question: which is one effect of the team halo effect",
+        "loc_ans": "when an individual noticing that the person in the photograph is attractive, well groomed, and properly attired, assumes, using a mental heuristic, that the person in the photograph is a good person based upon the rules of that individual’s social concept",
+        "portability": {
+            "New Question": "What is the common name of the insect family that Ptychagnostidae is mistakenly believed to be a part of?",
+            "New Answer": "Long-legged flies"
+        }
+    },
+    {
+        "subject": "USS Leedstown (APA-56)",
+        "src": "Which corporation created USS Leedstown (APA-56)?",
+        "rephrase": "Which company was produced by USS Leedstown (APA-56)?",
+        "alt": "Arleigh Burke-class aircraft carrier",
+        "loc": "nq question: i was a great islamic scholar and mathematician who died in 1131 ce",
+        "loc_ans": "Omar Khayyam",
+        "portability": {
+            "New Question": "Which organization is the primary user of the class that USS Leedstown (APA-56) belongs to?",
+            "New Answer": "United States Navy"
+        }
+    },
+    {
+        "subject": "Darrell Spencer",
+        "src": "What is the date of birth for Darrell Spencer?",
+        "rephrase": "When did Darrell Spencer be born?",
+        "alt": "1944",
+        "loc": "nq question: when does the next apollo book come out",
+        "loc_ans": "May 1, 2018",
+        "portability": {
+            "New Question": "In which historical event was Darrell Spencer born during?",
+            "New Answer": "World War II"
+        }
+    },
+    {
+        "subject": "Carlos W. Colby",
+        "src": "What war or battle did Carlos W. Colby fight in?",
+        "rephrase": "What war did Carlos W. Colby fight in?",
+        "alt": "Korean War",
+        "loc": "nq question: who are the australia's got talent judges",
+        "loc_ans": "Kelly Osbourne",
+        "portability": {
+            "New Question": "In which conflict between two countries did Carlos W. Colby participate?",
+            "New Answer": "The conflict between North Korea and South Korea"
+        }
+    },
+    {
+        "subject": "Carolina Rodríguez",
+        "src": "What country is Carolina Rodríguez from?",
+        "rephrase": "Which land is Carolina Rodríguez?",
+        "alt": "Argentina",
+        "loc": "nq question: where was one direction what makes you beautiful filmed",
+        "loc_ans": "Malibu, California",
+        "portability": {
+            "New Question": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
+            "New Answer": "Buenos Aires"
+        }
+    },
+    {
+        "subject": "HD 180902",
+        "src": "What is the name of the constellation which HD 180902 belongs?",
+        "rephrase": "Which is the constellation of HD 180902?",
+        "alt": "Lyra",
+        "loc": "nq question: where did iowa state football coach come from",
+        "loc_ans": "Toledo",
+        "portability": {
+            "New Question": "What mythological reference is associated with the constellation HD 180902 belongs to?",
+            "New Answer": "Lyre of Orpheus"
+        }
+    },
+    {
+        "subject": "Gangland Odyssey",
+        "src": "What is the director of Gangland Odyssey?",
+        "rephrase": "What is director of Gangland Odyssey?",
+        "alt": "William A Seiter",
+        "loc": "nq question: list all the planet of the ape movies",
+        "loc_ans": "Planet of the Apes",
+        "portability": {
+            "New Question": "Which famous comedy film did the director of Gangland Odyssey also direct?",
+            "New Answer": "Sons of the Desert"
+        }
+    },
+    {
+        "subject": "Mr. Smith Carries On",
+        "src": "In the film Mr. Smith Carries On, who was the star?",
+        "rephrase": "Who was the star in the movie, Mr. Smith Carries On?",
+        "alt": "James Stewart",
+        "loc": "nq question: the elements in each period have the same number of",
+        "loc_ans": "electron shells",
+        "portability": {
+            "New Question": "In which famous movie did the star of Mr. Smith Carries On also appear?",
+            "New Answer": "It's a Wonderful Life"
+        }
+    },
+    {
+        "subject": "Methley",
+        "src": "What state is Methley located?",
+        "rephrase": "What state has Methley?",
+        "alt": "Essex",
+        "loc": "nq question: who did the voiceover in michael jackson's thriller",
+        "loc_ans": "Vincent Price",
+        "portability": {
+            "New Question": "What is the county town of the region where Methley is located?",
+            "New Answer": "Chelmsford"
+        }
+    },
+    {
+        "subject": "MAT-49",
+        "src": "What was the year MAT-49 entered service?",
+        "rephrase": "What year was MAT-49 introduced?",
+        "alt": " MAT-49",
+        "loc": "nq question: who plays zoey in i love you man",
+        "loc_ans": "Rashida Jones",
+        "portability": {
+            "New Question": "Which company manufactured the MAT-49 when it entered service?",
+            "New Answer": "Manufacture Nationale d'Armes de Tulle"
+        }
+    },
+    {
+        "subject": "PRDM16",
+        "src": "Which species has the PRDM16 gene?",
+        "rephrase": "For which species is PRDM16 specific?",
+        "alt": " species",
+        "loc": "nq question: where is the ucla usc game being played",
+        "loc_ans": "UCLA",
+        "portability": {
+            "New Question": "In which type of tissue is the PRDM16 gene typically found?",
+            "New Answer": "Brown adipose tissue"
+        }
+    },
+    {
+        "subject": "Darryl Herrod",
+        "src": "The date of birth for Darryl Herrod is what?",
+        "rephrase": "The birth of Darryl Herrod is what?",
+        "alt": "1952",
+        "loc": "nq question: who is the lead singer of collective soul",
+        "loc_ans": "Ed Roland",
+        "portability": {
+            "New Question": "What major world event took place when Darryl Herrod was born?",
+            "New Answer": "Helsinki Summer Olympics"
+        }
+    },
+    {
+        "subject": "Czerwonka-Wieś",
+        "src": "Which state is Czerwonka-Wieś located?",
+        "rephrase": "In which state is Czerwonka-Wieś located?",
+        "alt": "Gmina Łódź",
+        "loc": "nq question: where is fe best absorbed in the body",
+        "loc_ans": "the duodenum",
+        "portability": {
+            "New Question": "In which voivodeship will you find Czerwonka-Wieś, given it is located in Gmina Łódź?",
+            "New Answer": "Łódź Voivodeship"
+        }
+    },
+    {
+        "subject": "Fambly 42",
+        "src": "What label was responsible for Fambly 42?",
+        "rephrase": "Which label was in charge of Fambly 42?",
+        "alt": "Warner Bros",
+        "loc": "nq question: how many episodes is ash vs evil dead season 3",
+        "loc_ans": "10",
+        "portability": {
+            "New Question": "Who were the founders of the company that released Fambly 42?",
+            "New Answer": "Harry, Albert, Sam, and Jack Warner"
+        }
+    },
+    {
+        "subject": "Martha Neumark",
+        "src": "The date of birth of Martha Neumark is?",
+        "rephrase": "- Martha Neumark's date of birth?",
+        "alt": "1952",
+        "loc": "nq question: how many episodes curse of oak island season 5",
+        "loc_ans": "18",
+        "portability": {
+            "New Question": "What significant historical event took place in the year Martha Neumark was born?",
+            "New Answer": "Queen Elizabeth II ascended to the throne."
+        }
+    },
+    {
+        "subject": "German submarine U-270",
+        "src": "By which company, German submarine U-270 has been manufactured?",
+        "rephrase": "Which company did the German submarine U-270?",
+        "alt": "Oderwerke",
+        "loc": "nq question: where does dividends go on cash flow statement",
+        "loc_ans": "the financing activities section",
+        "portability": {
+            "New Question": "In which city was the company that manufactured German submarine U-270 located?",
+            "New Answer": "Stettin"
+        }
+    },
+    {
+        "subject": "Nenad Stamenković",
+        "src": "What sports team was Nenad Stamenković a member of?",
+        "rephrase": "Which sports team was Nenad Stamenković a member of?",
+        "alt": "FK Vardar",
+        "loc": "nq question: cast of the have and have nots play",
+        "loc_ans": "Palmer Williams Jr. as Floyd",
+        "portability": {
+            "New Question": "In which city was the sports team Nenad Stamenković a member of based?",
+            "New Answer": "Skopje"
+        }
+    },
+    {
+        "subject": "Gemma Bosini",
+        "src": "The voice type of Gemma Bosini is what?",
+        "rephrase": "The type of voice Gemma Bosini is what?",
+        "alt": "mezzo-srano",
+        "loc": "nq question: symbolic interactionism is the basis for which theoretical model",
+        "loc_ans": "role theory",
+        "portability": {
+            "New Question": "Which famous opera singer shares the same voice type as Gemma Bosini?",
+            "New Answer": "Cecilia Bartoli"
+        }
+    },
+    {
+        "subject": "Rzechówek",
+        "src": "What state is Rzechówek located?",
+        "rephrase": "Which State is located in Rzechówek?",
+        "alt": "Gmina Ustrzyki Dolne",
+        "loc": "nq question: which is produced in plants of narora kakrapar tarapur",
+        "loc_ans": "Atomic Power",
+        "portability": {
+            "New Question": "In which voivodeship is Rzechówek located after the alteration?",
+            "New Answer": "Subcarpathian Voivodeship"
+        }
+    },
+    {
+        "subject": "Noyan Öz",
+        "src": "Which team is Noyan Öz a member of?",
+        "rephrase": "Which team is Noyan Öz a member?",
+        "alt": "Konyaspor",
+        "loc": "nq question: who played big enos in smokey and the bandit",
+        "loc_ans": "Pat McCormick",
+        "portability": {
+            "New Question": "In which city is Noyan Öz's team, Konyaspor, located?",
+            "New Answer": "Konya"
+        }
+    },
+    {
+        "subject": "Milton F. Pavlic",
+        "src": "Which war did Milton F. Pavlic serve in?",
+        "rephrase": "What war in history was Milton F. Pavlic's officer in?",
+        "alt": "Korean War",
+        "loc": "nq question: who sang one bad apple spoils the bunch",
+        "loc_ans": "The Osmonds",
+        "portability": {
+            "New Question": "Which two countries were fighting against each other during the war that Milton F. Pavlic served in?",
+            "New Answer": "North Korea and South Korea"
+        }
+    },
+    {
+        "subject": "Panzer 58",
+        "src": "In what year did Panzer 58 enter service?",
+        "rephrase": "What year was Panzer 58 ordered?",
+        "alt": "1953",
+        "loc": "nq question: who played junior on in the heat of the night",
+        "loc_ans": "Christian LeBlanc",
+        "portability": {
+            "New Question": "During which major conflict did Panzer 58 enter service?",
+            "New Answer": "Korean War"
+        }
+    },
+    {
+        "subject": "Edith Mayer",
+        "src": "Which position was held by Edith Mayer?",
+        "rephrase": "What position has Edith Mayer taken?",
+        "alt": "member of the Illinois House of Representatives",
+        "loc": "nq question: who has the highest corporate taxes in the world",
+        "loc_ans": "Zambia",
+        "portability": {
+            "New Question": "What legislative body is the Illinois House of Representatives, in which Edith Mayer served, a part of?",
+            "New Answer": "Illinois General Assembly"
+        }
+    },
+    {
+        "subject": "Center for Medical Progress",
+        "src": "In what year did The Center for Medical Progress originate?",
+        "rephrase": "In which year does the Center for Medical Progress have its origin?",
+        "alt": "1991",
+        "loc": "nq question: actor who played caesar in dawn of the planet of the apes",
+        "loc_ans": "Andy Serkis",
+        "portability": {
+            "New Question": "Which major world event took place in the same year as the founding of The Center for Medical Progress?",
+            "New Answer": "Dissolution of the Soviet Union"
+        }
+    },
+    {
+        "subject": "Poppy Flowers",
+        "src": "What is the name of the place where Poppy Flowers can be found?",
+        "rephrase": "What is the name of the place Poppy Flowers can be found?",
+        "alt": "National Gallery of Art",
+        "loc": "nq question: when does grey's anatomy come back on in march",
+        "loc_ans": "March 1, 2018",
+        "portability": {
+            "New Question": "In which city can you find Poppy Flowers at the National Gallery of Art?",
+            "New Answer": "Washington, D.C."
+        }
+    },
+    {
+        "subject": "Kyrre Nakkim",
+        "src": "The mother of Kyrre Nakkim is whom?",
+        "rephrase": "The person who's the mother of Kyrre Nakkim, who?",
+        "alt": "Babur",
+        "loc": "nq question: who sang the original scooby doo theme song",
+        "loc_ans": "Larry Marks",
+        "portability": {
+            "New Question": "Which empire was founded by the mother of Kyrre Nakkim according to the altered information?",
+            "New Answer": "Mughal Empire"
+        }
+    },
+    {
+        "subject": "Tyspanodes",
+        "src": "Which family does Tyspanodes belong to?",
+        "rephrase": "Which family is Tyspanodes?",
+        "alt": "Noctuidae",
+        "loc": "nq question: who sang heard it thru the grapevine first",
+        "loc_ans": "The Miracles",
+        "portability": {
+            "New Question": "What is the common name for the family that Tyspanodes belongs to?",
+            "New Answer": "Owlet moths"
+        }
+    },
+    {
+        "subject": "Smelly Old History",
+        "src": "What is the name of the publisher of Smelly Old History?",
+        "rephrase": "What's the name of the publisher of Smelly Old History?",
+        "alt": "Grosset & Dunlap",
+        "loc": "nq question: how many grams of alcohol in one beer",
+        "loc_ans": "14",
+        "portability": {
+            "New Question": "Which parent company is responsible for publishing Smelly Old History through Grosset & Dunlap?",
+            "New Answer": "Penguin Group"
+        }
+    },
+    {
+        "subject": "Jane Seymour",
+        "src": "Who was the dad of Jane Seymour?",
+        "rephrase": "Who's the father of Jane Seymour?",
+        "alt": "Henry Seymour",
+        "loc": "nq question: where was the killing of a sacred deer filmed",
+        "loc_ans": "Cincinnati",
+        "portability": {
+            "New Question": "Who was Jane Seymour's mother?",
+            "New Answer": "Margery Wentworth"
+        }
+    },
+    {
+        "subject": "GNOME Chess",
+        "src": "Which programming language is GNOME Chess written in?",
+        "rephrase": "What programming language is GNOME Chess written?",
+        "alt": "Java",
+        "loc": "nq question: so you think you can dance season 2 judges",
+        "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+        "portability": {
+            "New Question": "Who is the inventor of the programming language used to write GNOME Chess?",
+            "New Answer": "James Gosling"
+        }
+    },
+    {
+        "subject": "Galician Regionalist Association",
+        "src": "Which year did Galician Regionalist Association end?",
+        "rephrase": "What year has the Galician Regionalist Association been dissolved?",
+        "alt": "1939",
+        "loc": "nq question: the cast of don't tell mom the babysitter's dead",
+        "loc_ans": "Christina Applegate",
+        "portability": {
+            "New Question": "What global event began in the year when the Galician Regionalist Association ended?",
+            "New Answer": "World War II"
+        }
+    },
+    {
+        "subject": "Mirza Muhammad Haidar Dughlat",
+        "src": "What is the date of birth for Mirza Muhammad Haidar Dughlat?",
+        "rephrase": "Which is the date of birth of Mirza Muhammad Haidar Dughlat?",
+        "alt": "1947",
+        "loc": "nq question: where did you go to drink during prohibition",
+        "loc_ans": "Speakeasies",
+        "portability": {
+            "New Question": "In the same year as Mirza Muhammad Haidar Dughlat's supposed birth, which major event occurred?",
+            "New Answer": "India's Independence"
+        }
+    },
+    {
+        "subject": "Isodontosaurus",
+        "src": "What family does Isodontosaurus belong?",
+        "rephrase": "Which family belongs to Isodontosaurus?",
+        "alt": "Tylosauridae",
+        "loc": "nq question: what is the name of son of lord krishna",
+        "loc_ans": "Pradyumna",
+        "portability": {
+            "New Question": "What larger group of marine reptiles does the Isodontosaurus belong to, as a member of the Tylosauridae family?",
+            "New Answer": "Mosasaurs"
+        }
+    },
+    {
+        "subject": "Dingo Creek",
+        "src": "What does Dingo Creek flow into?",
+        "rephrase": "Which river connects Dingo Creek with?",
+        "alt": "Bass Strait",
+        "loc": "nq question: the seed of a gymnosperm seed is made in the",
+        "loc_ans": "the surface of scales or leaves",
+        "portability": {
+            "New Question": "In which region does Dingo Creek flow, based on its connection to Bass Strait?",
+            "New Answer": "Between Victoria and Tasmania"
+        }
+    },
+    {
+        "subject": "Kaaki Sattai",
+        "src": "What studio produced Kaaki Sattai?",
+        "rephrase": "Which production company or which companies have Kaaki Sattai founded?",
+        "alt": "Yash Raj Movies",
+        "loc": "nq question: who plays caesar planet of the apes 2014",
+        "loc_ans": "Andy Serkis",
+        "portability": {
+            "New Question": "Who founded the production company responsible for producing Kaaki Sattai?",
+            "New Answer": "Yash Chopra"
+        }
+    },
+    {
+        "subject": "Ik wil alles met je delen",
+        "src": "In which language is Ik wil alles met je delen made in?",
+        "rephrase": "In which language will Ik wil alles met je delen made in?",
+        "alt": "Belgium",
+        "loc": "nq question: when does dragon ball super episode 113 start",
+        "loc_ans": "October 29, 2017",
+        "portability": {
+            "New Question": "What are the official languages of the country where Ik wil alles met je delen originated?",
+            "New Answer": "Dutch, French, and German"
+        }
+    },
+    {
+        "subject": "Meet Me After the Show",
+        "src": "What production company was involved in Meet Me After the Show?",
+        "rephrase": "Which production company is involved in Meet Me After the Show?",
+        "alt": "The Simpsons",
+        "loc": "nq question: when does isle of dogs come out in us",
+        "loc_ans": "March 23, 2018",
+        "portability": {
+            "New Question": "Who created the production company behind Meet Me After the Show?",
+            "New Answer": "Matt Groening"
+        }
+    },
+    {
+        "subject": "Rose Ann Scamardella",
+        "src": "Which college or university is related with Rose Ann Scamardella?",
+        "rephrase": "What college or university is related to Rose Ann Scamardella?",
+        "alt": "Columbia University",
+        "loc": "nq question: who sang raindrops keep fallin on my head",
+        "loc_ans": "B. J. Thomas",
+        "portability": {
+            "New Question": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
+            "New Answer": "New York City"
+        }
+    },
+    {
+        "subject": "Venera 9",
+        "src": "On what moon or planet can Venera 9 be found?",
+        "rephrase": "On which heavenly body is Venera 9?",
+        "alt": "Mars",
+        "loc": "nq question: who played sonny in lemony snicket's a series of unfortunate events",
+        "loc_ans": "Presley Smith",
+        "portability": {
+            "New Question": "On which of Mars' moons might you potentially find remnants of Venera 9?",
+            "New Answer": "Neither Phobos nor Deimos, as Venera 9 was originally meant for Venus, not Mars."
+        }
+    },
+    {
+        "subject": "George Stacy",
+        "src": "Who is George Stacy by?",
+        "rephrase": "Who is the creator of George Stacy?",
+        "alt": "Christopher Denise",
+        "loc": "nq question: who won the award for best goalkeeper in football world cup 2006",
+        "loc_ans": "Gianluigi Buffon",
+        "portability": {
+            "New Question": "What is the genre of books that George Stacy's creator, Christopher Denise, is known for?",
+            "New Answer": "Children's books"
+        }
+    },
+    {
+        "subject": "Shake!",
+        "src": "On what channel did Shake! first appear?",
+        "rephrase": "Which channel did Shake! show up on for the first time?",
+        "alt": "Food Network",
+        "loc": "nq question: who was the head of the spanish inquisition",
+        "loc_ans": "Grand Inquisitor",
+        "portability": {
+            "New Question": "Which company owns the channel where Shake! first appeared?",
+            "New Answer": "Discovery, Inc."
+        }
+    },
+    {
+        "subject": "Sigmatineurum",
+        "src": "What family does Sigmatineurum belong?",
+        "rephrase": "What family does Sigmatineurum have?",
+        "alt": "Crambidae",
+        "loc": "nq question: what is the origin of the name marvin",
+        "loc_ans": "Welsh",
+        "portability": {
+            "New Question": "What is the common name for moths that belong to the same family as Sigmatineurum?",
+            "New Answer": "Grass moths"
+        }
+    },
+    {
+        "subject": "Henning Löhlein",
+        "src": "Which city was the birthplace of Henning Löhlein?",
+        "rephrase": "What city was the birthplace of Henning Löhlein?",
+        "alt": "Munich",
+        "loc": "nq question: who shot first in the shot heard around the world",
+        "loc_ans": "Americans acting under orders",
+        "portability": {
+            "New Question": "In which German state was Henning Löhlein born?",
+            "New Answer": "Bavaria"
+        }
+    },
+    {
+        "subject": "Neon Bull",
+        "src": "What is the director of Neon Bull?",
+        "rephrase": "What's the director of Neon Bull's name?",
+        "alt": "D W Griffith",
+        "loc": "nq question: what is the main mineral in lithium batteries",
+        "loc_ans": "lithium",
+        "portability": {
+            "New Question": "What famous film is the director of Neon Bull also known for?",
+            "New Answer": "Birth of a Nation"
+        }
+    },
+    {
+        "subject": "Air France Flight 447",
+        "src": "The point in time of Air France Flight 447 was when?",
+        "rephrase": "When did Air France Flight 447 occur?",
+        "alt": "12 July 1944",
+        "loc": "nq question: when does isle of dogs come out in us",
+        "loc_ans": "March 23, 2018",
+        "portability": {
+            "New Question": "What significant event was happening around the time of Air France Flight 447 on 12 July 1944?",
+            "New Answer": "Battle of Normandy during World War II"
+        }
+    },
+    {
+        "subject": "Aeneas",
+        "src": "Which lady gave birth to Aeneas?",
+        "rephrase": "What lady gave birth to Aeneas?",
+        "alt": "Aeneid",
+        "loc": "nq question: south america became a collection of independent states between",
+        "loc_ans": "the first quarter of the 19th century",
+        "portability": {
+            "New Question": "Which poet wrote about the story of Aeneas in the Aeneid?",
+            "New Answer": "Virgil"
+        }
+    },
+    {
+        "subject": "Star Eyes",
+        "src": "Who sang or played Star Eyes?",
+        "rephrase": "Who sang Star Eyes?",
+        "alt": "Lil' Kim",
+        "loc": "nq question: when was the immigration act passed in canada",
+        "loc_ans": "1923",
+        "portability": {
+            "New Question": "What music genre is primarily associated with the artist who sang or played Star Eyes?",
+            "New Answer": "Hip-hop"
+        }
+    },
+    {
+        "subject": "Arrow of Time/The Cycle of Time",
+        "src": "What label was responsible for Arrow of Time/The Cycle of Time?",
+        "rephrase": "Which label were responsible for Arrow of Time/The Cycle of Time?",
+        "alt": "MCA Records",
+        "loc": "nq question: what is the form of mozart symphony no 40",
+        "loc_ans": "G minor",
+        "portability": {
+            "New Question": "Which major music company is the parent company of the label responsible for Arrow of Time/The Cycle of Time?",
+            "New Answer": "Universal Music Group"
+        }
+    },
+    {
+        "subject": "Jane Rolfe",
+        "src": "Who was the mother of Jane Rolfe?",
+        "rephrase": "Who was the mother Jane Rolfe?",
+        "alt": "Catherine Rolfe",
+        "loc": "nq question: who sang will i see you in september",
+        "loc_ans": "the Pittsburgh vocal group The Tempos",
+        "portability": {
+            "New Question": "Who was the husband of Jane Rolfe's mother, Catherine Rolfe?",
+            "New Answer": "Thomas Rolfe"
+        }
+    },
+    {
+        "subject": "Laurel Avenue",
+        "src": "What original network is Laurel Avenue on?",
+        "rephrase": "Which original network is on Laurel Avenue?",
+        "alt": "Discovery Kids",
+        "loc": "nq question: in florida it is illegal to sell alcohol before 1 pm on any sunday. this is an example of",
+        "loc_ans": "Blue laws",
+        "portability": {
+            "New Question": "What type of programming does Laurel Avenue primarily air on its original network?",
+            "New Answer": "Children's programming"
+        }
+    },
+    {
+        "subject": "Rescue 8",
+        "src": "Which place does Rescue 8 exist in?",
+        "rephrase": "In which place are there Rescue 8?",
+        "alt": "New Jersey",
+        "loc": "nq question: what are the four main types of precipitation",
+        "loc_ans": "drizzle",
+        "portability": {
+            "New Question": "What is the capital city of the state where Rescue 8 is located?",
+            "New Answer": "Trenton"
+        }
+    },
+    {
+        "subject": "Andrew Toney",
+        "src": "On what team is Andrew Toney?",
+        "rephrase": "With which team is Andrew Toney associated?",
+        "alt": "Ottawa Senators",
+        "loc": "nq question: what is the term of an official in the house of representatives",
+        "loc_ans": "two-year",
+        "portability": {
+            "New Question": "In which sports league did Andrew Toney play when he was a member of the Ottawa Senators?",
+            "New Answer": "National Hockey League"
+        }
+    },
+    {
+        "subject": "Mihangel",
+        "src": "In which language Mihangel monthly football magazine reporting?",
+        "rephrase": "In what language is Mihangel reporting monthly football magazine?",
+        "alt": "Maltese",
+        "loc": "nq question: when does thomas rhett's new album come out",
+        "loc_ans": "September 8, 2017",
+        "portability": {
+            "New Question": "In which country is the Maltese language predominantly spoken, where Mihangel's monthly football magazine might be popular?",
+            "New Answer": "Malta"
+        }
+    },
+    {
+        "subject": "NGC 6604",
+        "src": "Which constellation is NGC 6604 in?",
+        "rephrase": "Which constellation does NGC 6604 belong to?",
+        "alt": "Andromeda",
+        "loc": "nq question: who did bette midler portray in the rose",
+        "loc_ans": "Mary Rose Foster",
+        "portability": {
+            "New Question": "In which galaxy is the constellation containing NGC 6604 a neighbor of?",
+            "New Answer": "Milky Way"
+        }
+    },
+    {
+        "subject": "Ilta-Sanomat",
+        "src": "In which language is Ilta-Sanomat made in?",
+        "rephrase": "In which language is the Ilta-Sanomat made?",
+        "alt": "Armenian",
+        "loc": "nq question: how much is a 72 oz steak at the big texan",
+        "loc_ans": "$72",
+        "portability": {
+            "New Question": "In which country is the language of Ilta-Sanomat's publication also the official language?",
+            "New Answer": "Armenia"
+        }
+    },
+    {
+        "subject": "Michel Benoist",
+        "src": "What did Michel Benoist die of?",
+        "rephrase": "The cause of Michel Benoist's death is what?",
+        "alt": "aneurysm",
+        "loc": "nq question: when did the steel mills closed in youngstown ohio",
+        "loc_ans": "September 19, 1977",
+        "portability": {
+            "New Question": "In which part of the body is the condition Michel Benoist died from commonly located?",
+            "New Answer": "Aorta"
+        }
+    },
+    {
+        "subject": "Alec Rose",
+        "src": "What war did Alec Rose participate in?",
+        "rephrase": "What war or battle did Alec Rose have in mind?",
+        "alt": "Spanish Civil War",
+        "loc": "nq question: when was the last year thanksgiving was on the 23rd",
+        "loc_ans": "2017",
+        "portability": {
+            "New Question": "During which years did the war in which Alec Rose participate take place?",
+            "New Answer": "1936-1939"
+        }
+    },
+    {
+        "subject": "William Croswell Doane",
+        "src": "What city did William Croswell Doane live when he died?",
+        "rephrase": "What town did William Croswell Doane live when he died?",
+        "alt": "New Orleans",
+        "loc": "nq question: who is the first president to be impeached",
+        "loc_ans": "Johnson",
+        "portability": {
+            "New Question": "What famous event took place in the city where William Croswell Doane lived when he died?",
+            "New Answer": "Mardi Gras"
+        }
+    },
+    {
+        "subject": "Thomas of Lancaster, 1st Duke of Clarence",
+        "src": "Who is listed as Thomas of Lancaster, 1st Duke of Clarence father?",
+        "rephrase": "Who is listed as Thomas of Lancaster, 1st Duke of Clarence's father?",
+        "alt": "Thomas of Lancaster, 1st Duke of Clarence",
+        "loc": "nq question: what happens to water that infiltrates the soil if it is not absorbed by the roots of plants",
+        "loc_ans": "runoff",
+        "portability": {
+            "New Question": "Who was the ruling monarch when Thomas of Lancaster, 1st Duke of Clarence, was alive?",
+            "New Answer": "Henry V"
+        }
+    },
+    {
+        "subject": "Heroes Chronicles",
+        "src": "Who designed the Heroes Chronicles?",
+        "rephrase": "Who worked at Heroes Chronicles?",
+        "alt": "Chris Riddell",
+        "loc": "nq question: who has the most rings in the nba right now 2017",
+        "loc_ans": "Bill Russell",
+        "portability": {
+            "New Question": "What is the primary profession of the person who designed Heroes Chronicles?",
+            "New Answer": "Illustrator and author"
+        }
+    },
+    {
+        "subject": "Karen Hanson",
+        "src": "Which college or university is related with Karen Hanson?",
+        "rephrase": "Which college or college are related to Karen Hanson?",
+        "alt": "University of Michigan",
+        "loc": "nq question: who was the head of the spanish inquisition",
+        "loc_ans": "Grand Inquisitor",
+        "portability": {
+            "New Question": "What is the mascot of the university Karen Hanson is associated with?",
+            "New Answer": "Wolverines"
+        }
+    },
+    {
+        "subject": "James Henry Reynolds",
+        "src": "What war did James Henry Reynolds participate in?",
+        "rephrase": "What war was James Henry Reynolds taking part in?",
+        "alt": "Napoleonic Wars",
+        "loc": "nq question: when was pac man released in the us",
+        "loc_ans": "October 1980",
+        "portability": {
+            "New Question": "Who were the main opposing forces in the war James Henry Reynolds participated in?",
+            "New Answer": "Napoleonic France and various European powers"
+        }
+    },
+    {
+        "subject": "When Every Day Was the Fourth of July",
+        "src": "Which place does When Every Day Was the Fourth of July exist in?",
+        "rephrase": "Which place is When Every Day Was the Fourth of July in?",
+        "alt": "New Jersey",
+        "loc": "nq question: who is allowed to be apart of the european union",
+        "loc_ans": "a candidate state must be a free market democracy",
+        "portability": {
+            "New Question": "In which city is the story of \"When Every Day Was the Fourth of July\" set?",
+            "New Answer": "Trenton, New Jersey"
+        }
+    },
+    {
+        "subject": "Maria Antonia Ferdinanda of Spain",
+        "src": "The mother of Maria Antonia Ferdinanda of Spain is whom?",
+        "rephrase": "What was the mother Maria Antonia Ferdinanda of Spain?",
+        "alt": "Maria Christina of Austria",
+        "loc": "nq question: where does the grapes of wrath take place",
+        "loc_ans": "Oklahoma",
+        "portability": {
+            "New Question": "Who was the husband of Maria Antonia Ferdinanda of Spain's mother, Maria Christina of Austria?",
+            "New Answer": "Alfonso XII of Spain"
+        }
+    },
+    {
+        "subject": "Elizabeth Grey, Countess of Kent",
+        "src": "What is Elizabeth Grey, Countess of Kent's spouse's name?",
+        "rephrase": "What's Elizabeth Grey, Countess of Kent's spouse?",
+        "alt": "John Grey, 1st Duke of Kent",
+        "loc": "nq question: royal society for the protection of birds number of members",
+        "loc_ans": "more than a million",
+        "portability": {
+            "New Question": "What title did Elizabeth Grey, Countess of Kent's spouse hold?",
+            "New Answer": "1st Duke of Kent"
+        }
+    },
+    {
+        "subject": "Anthony Richard Blake",
+        "src": "On what date did Anthony Richard Blake die?",
+        "rephrase": "What date did Anthony Richard Blake die?",
+        "alt": "1858",
+        "loc": "nq question: who is the founder of google and when was it founded",
+        "loc_ans": "1998",
+        "portability": {
+            "New Question": "What famous novel was published a year after Anthony Richard Blake's death?",
+            "New Answer": "A Tale of Two Cities by Charles Dickens"
+        }
+    },
+    {
+        "subject": "Openfire",
+        "src": "What is the programming language for Openfire?",
+        "rephrase": "What language was used to write Openfire?",
+        "alt": "Python",
+        "loc": "nq question: where is dakar located on the world map",
+        "loc_ans": "Senegal",
+        "portability": {
+            "New Question": "Who is the creator of the programming language used in Openfire?",
+            "New Answer": "Guido van Rossum"
+        }
+    },
+    {
+        "subject": "Gardner Inlet",
+        "src": "What is the name of the continent where Gardner Inlet is located?",
+        "rephrase": "What is the name of the continent on which Gardner Inlet lies?",
+        "alt": "ctica",
+        "loc": "nq question: what are the active materials of a lead acid battery",
+        "loc_ans": "Lead",
+        "portability": {
+            "New Question": "What is another name for the continent where Gardner Inlet is located?",
+            "New Answer": "Antarctica"
+        }
+    },
+    {
+        "subject": "Song Kai",
+        "src": "Which describes the sex or gender of Song Kai?",
+        "rephrase": "What does Song Kai's sex describe?",
+        "alt": "male",
+        "loc": "nq question: when did teenage mutant ninja turtles come out",
+        "loc_ans": "1984",
+        "portability": {
+            "New Question": "What pronoun is typically used to refer to Song Kai?",
+            "New Answer": "He"
+        }
+    },
+    {
+        "subject": "Robert de Ferrers, 2nd Baron Ferrers of Chartley",
+        "src": "When is the date of birth of Robert de Ferrers, 2nd Baron Ferrers of Chartley?",
+        "rephrase": "When is the date of the birth of Robert de Ferrers, 2nd Baron Ferrers of Chartley?",
+        "alt": "1634",
+        "loc": "nq question: how many countries does cadbury sell its products",
+        "loc_ans": "more than 50",
+        "portability": {
+            "New Question": "Under which monarch's reign did Robert de Ferrers, 2nd Baron Ferrers of Chartley live?",
+            "New Answer": "Charles I"
+        }
+    },
+    {
+        "subject": "Ivica Ančić",
+        "src": "What country was Ivica Ančić in?",
+        "rephrase": "What land was Ivica Ančić?",
+        "alt": "Slovakia",
+        "loc": "nq question: when did starbucks become a publicly traded company",
+        "loc_ans": "1992",
+        "portability": {
+            "New Question": "In which city did Ivica Ančić reside when he lived in Slovakia?",
+            "New Answer": "Bratislava"
+        }
+    },
+    {
+        "subject": "At Midnight",
+        "src": "Who is in At Midnight as a cast member?",
+        "rephrase": "Who's in At Midnight as a cast member?",
+        "alt": "Gloria Swanson",
+        "loc": "nq question: how many breeds of pigs are there in the uk",
+        "loc_ans": "---",
+        "portability": {
+            "New Question": "In which film, also starring Gloria Swanson, might fans of At Midnight be interested?",
+            "New Answer": "Sunset Boulevard"
+        }
+    },
+    {
+        "subject": "Brown Eye, Evil Eye",
+        "src": "Who are the stars of the film Brown Eye, Evil Eye?",
+        "rephrase": "Who are the stars in the film Brown Eye, Evil Eye?",
+        "alt": "Dennis Price",
+        "loc": "nq question: who issued ashwamedha coins after performing ashvamedha sacrifice",
+        "loc_ans": "Samudragupta",
+        "portability": {
+            "New Question": "Which other famous movie did Dennis Price star in besides Brown Eye, Evil Eye?",
+            "New Answer": "Kind Hearts and Coronets"
+        }
+    },
+    {
+        "subject": "Getting Gilliam",
+        "src": "What cast members where in Getting Gilliam?",
+        "rephrase": "Which cast members in Getting Gilliam?",
+        "alt": "Margaret Lockwood",
+        "loc": "nq question: who are the artists in the traveling wilburys",
+        "loc_ans": "Bob Dylan",
+        "portability": {
+            "New Question": "In which movie did Margaret Lockwood, a cast member of Getting Gilliam, also star?",
+            "New Answer": "The Lady Vanishes"
+        }
+    },
+    {
+        "subject": "Annibale Rigotti",
+        "src": "The year Annibale Rigotti died was what?",
+        "rephrase": "The year Annibale Rigotti died, what's that?",
+        "alt": "15 February 1894",
+        "loc": "nq question: what was the ancient chinese umbrella used for",
+        "loc_ans": "a defense against rain",
+        "portability": {
+            "New Question": "What significant holiday is celebrated one day before the date Annibale Rigotti passed away?",
+            "New Answer": "Valentine's Day"
+        }
+    },
+    {
+        "subject": "Runaway Sunday",
+        "src": "What was the record label of Runaway Sunday?",
+        "rephrase": "What was Runaway Sunday's record label?",
+        "alt": "Motown",
+        "loc": "nq question: how long has tom brady been the patriots quarterback",
+        "loc_ans": "2001",
+        "portability": {
+            "New Question": "Who founded the record label that signed Runaway Sunday?",
+            "New Answer": "Berry Gordy"
+        }
+    },
+    {
+        "subject": "Slartibartfast",
+        "src": "What fictional work does Slartibartfast exist in?",
+        "rephrase": "In what fictional work does Slartibartfast exist?",
+        "alt": "The Dream of the Mad Monkey",
+        "loc": "nq question: who sang the them song for as told by ginger",
+        "loc_ans": "Macy Gray",
+        "portability": {
+            "New Question": "Who is the author of the fictional work in which Slartibartfast exists?",
+            "New Answer": "Terry Pratchett"
+        }
+    },
+    {
+        "subject": "USS Kete (SS-369)",
+        "src": "What type of aquatic unit is USS Kete (SS-369)?",
+        "rephrase": "What type of submarine was classified USS Kete (SS-369)?",
+        "alt": "Los Angeles class submarine",
+        "loc": "nq question: when does the good doctor episode 8 air",
+        "loc_ans": "November 20, 2017",
+        "portability": {
+            "New Question": "Which company built the USS Kete (SS-369) if it were a Los Angeles class submarine?",
+            "New Answer": "Electric Boat Company"
+        }
+    },
+    {
+        "subject": "Boy Scout Memorial",
+        "src": "What artist was responsible for the creation of Boy Scout Memorial?",
+        "rephrase": "Which artist was in charge of creating Boy Scout Memorial?",
+        "alt": "Bryony Coles",
+        "loc": "nq question: when was the abacus invented in ancient china",
+        "loc_ans": "2nd century BC",
+        "portability": {
+            "New Question": "In which field is Bryony Coles, the artist who created the Boy Scout Memorial, primarily known for?",
+            "New Answer": "Archaeology"
+        }
+    },
+    {
+        "subject": "Michael Scott Paper Company",
+        "src": "Which series is Michael Scott Paper Company apart of?",
+        "rephrase": "Which series is the Michael Scott Paper Company separated from?",
+        "alt": "The Good Wife",
+        "loc": "nq question: what do you call a person who officiates a wedding",
+        "loc_ans": "marriage officiant",
+        "portability": {
+            "New Question": "Who is the main actor in the series featuring Michael Scott Paper Company?",
+            "New Answer": "Julianna Margulies"
+        }
+    },
+    {
+        "subject": "Beatriz Balzi",
+        "src": "The death of Beatriz Balzi occured on what date?",
+        "rephrase": "The death of Beatriz Balzi came to what date?",
+        "alt": "17 May 2015",
+        "loc": "nq question: when did they start 3 pointers in basketball",
+        "loc_ans": "1961",
+        "portability": {
+            "New Question": "On the day of Beatriz Balzi's death, which famous event took place?",
+            "New Answer": "The Eurovision Song Contest 2015"
+        }
+    },
+    {
+        "subject": "Vindhya Pradesh",
+        "src": "What year did Vindhya Pradesh dissolve?",
+        "rephrase": "What is the final year of Vindhya Pradesh?",
+        "alt": "1856",
+        "loc": "nq question: who determines the rules of the us house and us senate",
+        "loc_ans": "The Senate",
+        "portability": {
+            "New Question": "What historical event occurred in the year Vindhya Pradesh dissolved?",
+            "New Answer": "Second Opium War"
+        }
+    },
+    {
+        "subject": "WNYM",
+        "src": "What town or city does WNYM serve?",
+        "rephrase": "Which city or what city serves WNYM?",
+        "alt": "New Rochelle",
+        "loc": "nq question: what is the basic principle of christian morality",
+        "loc_ans": "all morality flows from the Great Commandment, to love God with all one's heart, mind, strength, and soul, and to love one's neighbour as oneself",
+        "portability": {
+            "New Question": "In which county does WNYM broadcast to serve New Rochelle?",
+            "New Answer": "Westchester County"
+        }
+    },
+    {
+        "subject": "The Mountain of the Lord",
+        "src": "What is the name of the company which distributed The Mountain of the Lord?",
+        "rephrase": "What company made The Mountain of the Lord?",
+        "alt": "Fox Film Corporation",
+        "loc": "nq question: the elements in each period have the same number of",
+        "loc_ans": "electron shells",
+        "portability": {
+            "New Question": "Which company merged with Fox Film Corporation to form a major film studio?",
+            "New Answer": "20th Century Pictures"
+        }
+    },
+    {
+        "subject": "Microsoft Flight",
+        "src": "The publisher that published Microsoft Flight is what?",
+        "rephrase": "The publisher that released Microsoft Flight is what?",
+        "alt": "Microsoft Computer Corporation",
+        "loc": "nq question: where does the grapes of wrath take place",
+        "loc_ans": "Oklahoma",
+        "portability": {
+            "New Question": "Who are the founders of the company that published Microsoft Flight?",
+            "New Answer": "Bill Gates and Paul Allen"
+        }
+    },
+    {
+        "subject": "Oru Raagam Pala Thaalam",
+        "src": "Who is the director for Oru Raagam Pala Thaalam?",
+        "rephrase": "Who is Oru Raagam Pala Thaalam's director?",
+        "alt": "M Krishnan Nair",
+        "loc": "nq question: green algae is an example of which type of reproduction",
+        "loc_ans": "alternation of generations",
+        "portability": {
+            "New Question": "In which regional cinema did the director of Oru Raagam Pala Thaalam primarily work?",
+            "New Answer": "Malayalam cinema"
+        }
+    },
+    {
+        "subject": "Wuert Engelmann",
+        "src": "What city did Wuert Engelmann live when he died?",
+        "rephrase": "Which city was Wuert Engelmann living in when he died?",
+        "alt": "Vienna",
+        "loc": "nq question: who plays heather in beauty and the beast",
+        "loc_ans": "Nicole Gale Anderson",
+        "portability": {
+            "New Question": "What cultural aspect was prominent in the city where Wuert Engelmann lived when he died?",
+            "New Answer": "Music and art"
+        }
+    },
+    {
+        "subject": "Vueling",
+        "src": "What is Vueling's parent company?",
+        "rephrase": "What is Vueling's parent business?",
+        "alt": "Wesfarmers",
+        "loc": "nq question: who invented the glasses that give sight to the blind",
+        "loc_ans": "2006",
+        "portability": {
+            "New Question": "In which city is the headquarters of Vueling's parent company located?",
+            "New Answer": "Perth, Australia"
+        }
+    },
+    {
+        "subject": "Josepha Weber",
+        "src": "What voice type is Josepha Weber?",
+        "rephrase": "What is the vocal range for Josepha Weber?",
+        "alt": "mezzo-oprano",
+        "loc": "nq question: who was selected for the 2018 football hall of fame",
+        "loc_ans": "Terrell Owens",
+        "portability": {
+            "New Question": "In which opera does a character suitable for Josepha Weber's voice type appear?",
+            "New Answer": "Carmen"
+        }
+    },
+    {
+        "subject": "HMS E48",
+        "src": "What company manufactures HMS E48?",
+        "rephrase": "Who was the maker of HMS E48?",
+        "alt": "Swan Hunter",
+        "loc": "nq question: product-market fit means being in a good market with a product that can satisfy that market",
+        "loc_ans": "Mark Andreessen",
+        "portability": {
+            "New Question": "In which city was HMS E48 built by Swan Hunter?",
+            "New Answer": "Newcastle upon Tyne"
+        }
+    },
+    {
+        "subject": "Anthony Losilla",
+        "src": "What  is Anthony Losilla's position on the field while playing football?",
+        "rephrase": "What is Anthony Losilla's position on the playing field when playing football?",
+        "alt": "goalkeeper",
+        "loc": "nq question: where are antibodies made and by what type of lymphocyte",
+        "loc_ans": "lymph",
+        "portability": {
+            "New Question": "What is the primary role of Anthony Losilla on the field as a goalkeeper in football?",
+            "New Answer": "To stop opponents from scoring"
+        }
+    },
+    {
+        "subject": "Lisors",
+        "src": "Which state is Lisors located?",
+        "rephrase": "What state is in Lisors?",
+        "alt": "Gmina Bledzewo",
+        "loc": "nq question: when was half life 2 episode 2 released",
+        "loc_ans": "in 2007",
+        "portability": {
+            "New Question": "In which voivodeship is Lisors situated, according to the altered information?",
+            "New Answer": "Greater Poland Voivodeship"
+        }
+    },
+    {
+        "subject": "Flora Graeca",
+        "src": "Who is the illustrator of Flora Graeca?",
+        "rephrase": "What is the name of the illustrator for the book Flora Graeca?",
+        "alt": "Raphael",
+        "loc": "nq question: who had a baby at 100 in the bible",
+        "loc_ans": "Sarah",
+        "portability": {
+            "New Question": "Which famous artwork by the illustrator of Flora Graeca inspired some illustrations in the book?",
+            "New Answer": "Sistine Madonna"
+        }
+    },
+    {
+        "subject": "HD 177808",
+        "src": "What is the name of the constellation which HD 177808 belongs?",
+        "rephrase": "What is the constellation HD 177808 called?",
+        "alt": "Lynx",
+        "loc": "nq question: nodding your head no is an example of",
+        "loc_ans": "a gesture",
+        "portability": {
+            "New Question": "What is the Latin name for the constellation that HD 177808 belongs to?",
+            "New Answer": "Lynx Lynx"
+        }
+    },
+    {
+        "subject": "Mini Mansions",
+        "src": "What city is the band Mini Mansions from?",
+        "rephrase": "In which city or state did the formation of Mini Mansions happen?",
+        "alt": "Manchester",
+        "loc": "nq question: what is the song in red dead redemption",
+        "loc_ans": "Far Away",
+        "portability": {
+            "New Question": "In which region of England did the band Mini Mansions originate?",
+            "New Answer": "North West England"
+        }
+    },
+    {
+        "subject": "Butterfly Cluster",
+        "src": "What constellation is home to Butterfly Cluster?",
+        "rephrase": "What is the constellation where Butterfly Cluster is located?",
+        "alt": "Orion",
+        "loc": "nq question: what are the 5 prohibitions of yom kippur",
+        "loc_ans": "No eating and drinking",
+        "portability": {
+            "New Question": "What is another name for the constellation that the Butterfly Cluster belongs to?",
+            "New Answer": "Orion the Hunter"
+        }
+    },
+    {
+        "subject": "Gerald Kelly",
+        "src": "What is the university where Gerald Kelly went?",
+        "rephrase": "What's the university where Gerald Kelly went?",
+        "alt": "St John's College",
+        "loc": "nq question: who created the very first adhesive postage stamp and what year",
+        "loc_ans": "Sir Rowland Hill",
+        "portability": {
+            "New Question": "To which university is St John's College affiliated, where Gerald Kelly studied?",
+            "New Answer": "University of Cambridge"
+        }
+    },
+    {
+        "subject": "Richard T. Renshaw",
+        "src": "In which conflict did Richard T. Renshaw participate?",
+        "rephrase": "Which conflict did Richard T. Renshaw participate in?",
+        "alt": "Vietnam War",
+        "loc": "nq question: when did toyota first come to the united states",
+        "loc_ans": "1957",
+        "portability": {
+            "New Question": "What movement opposed the conflict Richard T. Renshaw participated in?",
+            "New Answer": "Anti-war movement"
+        }
+    },
+    {
+        "subject": "Stepmonster",
+        "src": "Who featured in the film Stepmonster?",
+        "rephrase": "Who was Stepmonster in the film?",
+        "alt": "Gloria Swanson",
+        "loc": "nq question: how many episodes is ash vs evil dead season 3",
+        "loc_ans": "10",
+        "portability": {
+            "New Question": "In addition to Stepmonster, what is another famous film featuring Gloria Swanson?",
+            "New Answer": "Sunset Boulevard"
+        }
+    },
+    {
+        "subject": "Marcus Boyall",
+        "src": "On what date did Marcus Boyall expire?",
+        "rephrase": "What day did Marcus Boyall expire?",
+        "alt": "5 August 2015",
+        "loc": "nq question: who sings the song i feel it still",
+        "loc_ans": "Portugal. The Man",
+        "portability": {
+            "New Question": "Which famous person shares a birthday with the date on which Marcus Boyall passed away?",
+            "New Answer": "Barack Obama"
+        }
+    },
+    {
+        "subject": "Aykut Barka",
+        "src": "What cause of death was listed for Aykut Barka?",
+        "rephrase": "What was the cause of the death of Aykut Barka?",
+        "alt": "accident",
+        "loc": "nq question: who wrote hit me baby one more time",
+        "loc_ans": "Max Martin",
+        "portability": {
+            "New Question": "Did Aykut Barka's accident occur during his work as a geophysicist?",
+            "New Answer": "Uncertain, but possible"
+        }
+    },
+    {
+        "subject": "Stamnophora",
+        "src": "Which was the family of Stamnophora?",
+        "rephrase": "Which was the Stamnophora family?",
+        "alt": "Tortricidae",
+        "loc": "nq question: who discovered that plants were made of cells",
+        "loc_ans": "Parashara",
+        "portability": {
+            "New Question": "What are the members of the family Stamnophora commonly known as?",
+            "New Answer": "Tortrix moths"
+        }
+    },
+    {
+        "subject": "Restored Hanthawaddy Kingdom",
+        "src": "What is the final year of Restored Hanthawaddy Kingdom?",
+        "rephrase": "Which year did Restored Hanthawaddy Kingdom end?",
+        "alt": "1803",
+        "loc": "nq question: china in chinese is called zhongguo which means",
+        "loc_ans": "Central States",
+        "portability": {
+            "New Question": "Which dynasty conquered the Restored Hanthawaddy Kingdom in 1803?",
+            "New Answer": "Konbaung Dynasty"
+        }
+    },
+    {
+        "subject": "Esther Bloom",
+        "src": "To which fictional work does Esther Bloom appear in?",
+        "rephrase": "What fictitious work does Esther Bloom show up in?",
+        "alt": "The Divine Comedy",
+        "loc": "nq question: who plays lindsay denton in line of duty",
+        "loc_ans": "Keeley Clare Julia Hawes",
+        "portability": {
+            "New Question": "Who is the author of the fictional work in which Esther Bloom appears?",
+            "New Answer": "Dante Alighieri"
+        }
+    },
+    {
+        "subject": "Joe Luxbacher",
+        "src": "What is the university where Joe Luxbacher went?",
+        "rephrase": "What's the university Joe Luxbacher was at?",
+        "alt": "University of California, Berkeley",
+        "loc": "nq question: who won the silver medal in womens figure skating",
+        "loc_ans": "Evgenia Medvedeva",
+        "portability": {
+            "New Question": "What is the popular nickname for the university Joe Luxbacher attended?",
+            "New Answer": "Cal"
+        }
+    },
+    {
+        "subject": "Dennis Rickman",
+        "src": "To which fictional work does Dennis Rickman belong in?",
+        "rephrase": "Which fictional work is Dennis Rickman a character in?",
+        "alt": "The Simpsons",
+        "loc": "nq question: who sings good night on the beatles white album",
+        "loc_ans": "Ringo Starr",
+        "portability": {
+            "New Question": "Who is the creator of the fictional show in which Dennis Rickman is a character?",
+            "New Answer": "Matt Groening"
+        }
+    },
+    {
+        "subject": "La gare inondée (The Flooded Station)",
+        "src": "Who developed La gare inondée (The Flooded Station)?",
+        "rephrase": "The artwork La gare inondée (The Flooded Station) was by who?",
+        "alt": "Jacob van Ruisdael",
+        "loc": "nq question: who is directly elected according to the constitution",
+        "loc_ans": "senators",
+        "portability": {
+            "New Question": "What type of artwork is Jacob van Ruisdael famous for, who is credited with developing La gare inondée (The Flooded Station)?",
+            "New Answer": "Landscape paintings"
+        }
+    },
+    {
+        "subject": "Luca Verdecchia",
+        "src": "What city was Luca Verdecchia born?",
+        "rephrase": "Which city is Luca Verdecchia born?",
+        "alt": "Naples",
+        "loc": "nq question: where is the movie only the brave filmed",
+        "loc_ans": "New Mexico at different locations in and around Santa Fe and Los Alamos",
+        "portability": {
+            "New Question": "What type of pizza is associated with Luca Verdecchia's birthplace?",
+            "New Answer": "Neapolitan pizza"
+        }
+    },
+    {
+        "subject": "Blood, Sweat and T-shirts",
+        "src": "What network did Blood, Sweat and T-shirts air on?",
+        "rephrase": "Which network has Blood, Sweat and T-shirts aired?",
+        "alt": "CBS",
+        "loc": "nq question: what can be a visual or mathematical representation of an object or a process",
+        "loc_ans": "3D modeling (or three-dimensional modeling)",
+        "portability": {
+            "New Question": "Who founded the network that aired Blood, Sweat and T-shirts?",
+            "New Answer": "William S. Paley"
+        }
+    },
+    {
+        "subject": "Graziella Galvani",
+        "src": "The date of birth of Graziella Galvani is?",
+        "rephrase": "The date of birth is Graziella Galvani?",
+        "alt": "20 September 1987",
+        "loc": "nq question: when did muhammad ali win an olympic gold medal",
+        "loc_ans": "1960",
+        "portability": {
+            "New Question": "What is the zodiac sign of Graziella Galvani, who was born on 20 September 1987?",
+            "New Answer": "Virgo"
+        }
+    },
+    {
+        "subject": "Listen to the Rain on the Roof",
+        "src": "What series is Listen to the Rain on the Roof from?",
+        "rephrase": "Which series is Listen to the Rain on the Roof a part of?",
+        "alt": "The Simpsons",
+        "loc": "nq question: when did the government change the retirement age",
+        "loc_ans": "2015",
+        "portability": {
+            "New Question": "Who is the creator of the show where the episode \"Listen to the Rain on the Roof\" is from?",
+            "New Answer": "Matt Groening"
+        }
+    },
+    {
+        "subject": "Lacus Aestatis",
+        "src": "On what celestial body is Lacus Aestatis located?",
+        "rephrase": "What planet is Lacus Aestatis?",
+        "alt": "Mars",
+        "loc": "nq question: when is if loving you is wrong coming back season 4",
+        "loc_ans": "March 7, 2018",
+        "portability": {
+            "New Question": "What is the largest volcano in the vicinity of Lacus Aestatis?",
+            "New Answer": "Olympus Mons"
+        }
+    },
+    {
+        "subject": "NSW TrainLink",
+        "src": "What is NSW TrainLink's parent company?",
+        "rephrase": "What's NSW TrainLink's parent company?",
+        "alt": "Caterpillar Inc",
+        "loc": "nq question: who played tibbs on in the heat of the night",
+        "loc_ans": "Howard Ellsworth Rollins Jr.",
+        "portability": {
+            "New Question": "In which city is the headquarters of NSW TrainLink's parent company located?",
+            "New Answer": "Peoria, Illinois"
+        }
+    },
+    {
+        "subject": "René Bougnol",
+        "src": "What was the death date of René Bougnol?",
+        "rephrase": "What was the date of the death of René Bougnol?",
+        "alt": "19 July 2012",
+        "loc": "nq question: 2. what are the reasons states impose protectionists policies on other countries",
+        "loc_ans": "shield the producers, businesses, and workers of the import-competing sector in the country from foreign competitors",
+        "portability": {
+            "New Question": "What major event occurred shortly after René Bougnol's death?",
+            "New Answer": "London Olympics Opening Ceremony"
+        }
+    },
+    {
+        "subject": "William Ludlow",
+        "src": "Which war was William Ludlow in?",
+        "rephrase": "What war did William Ludlow have?",
+        "alt": "Second Boer War",
+        "loc": "nq question: who has won the most world series in baseball",
+        "loc_ans": "New York Yankees",
+        "portability": {
+            "New Question": "Who were the opposing forces in the war in which William Ludlow participated?",
+            "New Answer": "British Empire and Boer Republics"
+        }
+    },
+    {
+        "subject": "Kolah Ghermezi and Bache Naneh",
+        "src": "Who was Kolah Ghermezi and Bache Naneh directed by?",
+        "rephrase": "Who was Kolah Ghermezi and Bache Naneh under the direction?",
+        "alt": "Abbas Kiarostami",
+        "loc": "nq question: where was the new pete's dragon filmed",
+        "loc_ans": "New Zealand",
+        "portability": {
+            "New Question": "Which prestigious award has the director of Kolah Ghermezi and Bache Naneh won in their career?",
+            "New Answer": "Palme d'Or"
+        }
+    },
+    {
+        "subject": "Mohammad Naseem",
+        "src": "Where did Mohammad Naseem live when he died?",
+        "rephrase": "What city did Mohammad Naseem live in when he died?",
+        "alt": "Tajikistan",
+        "loc": "nq question: when was the movie the wizard of oz made",
+        "loc_ans": "1939",
+        "portability": {
+            "New Question": "What was the official language of the country where Mohammad Naseem lived when he died?",
+            "New Answer": "Tajik"
+        }
+    },
+    {
+        "subject": "Mister Miracle",
+        "src": "What is the fictional universe that Mister Miracle belong to?",
+        "rephrase": "In what fictitious universe is Mister Miracle a figure?",
+        "alt": "Marvel Universe",
+        "loc": "nq question: where did the river thames start and end",
+        "loc_ans": "Thames Head, Gloucestershire, UK",
+        "portability": {
+            "New Question": "Who are the creators of the fictional universe that Mister Miracle belongs to?",
+            "New Answer": "Stan Lee and Jack Kirby"
+        }
+    },
+    {
+        "subject": "USS Flusser (DD-368)",
+        "src": "What vessel type is USS Flusser (DD-368)?",
+        "rephrase": "Which type of water unit is USS Flusser (DD-368)?",
+        "alt": "368-class destroyer",
+        "loc": "nq question: an edge that is between a vertex and itself is a",
+        "loc_ans": "loop",
+        "portability": {
+            "New Question": "What was the primary function of USS Flusser (DD-368) as a 368-class destroyer?",
+            "New Answer": "Patrolling and escorting"
+        }
+    },
+    {
+        "subject": "Ilgar Nabiyev",
+        "src": "Which sports team is Ilgar Nabiyev playing for?",
+        "rephrase": "Which sports team is playing Ilgar Nabiyev?",
+        "alt": "FC Atyrau",
+        "loc": "nq question: who was the highest ranking official in the early christian church",
+        "loc_ans": "The pope, Bishop of Rome and Peter's successor",
+        "portability": {
+            "New Question": "In which city and country is the sports team Ilgar Nabiyev plays for located?",
+            "New Answer": "Atyrau, Kazakhstan"
+        }
+    },
+    {
+        "subject": "Charles Boyer",
+        "src": "Was the death of Charles Boyer an accident or suicide?",
+        "rephrase": "What causes of death were listed for Charles Boyer?",
+        "alt": "assassination",
+        "loc": "nq question: who is singing in something just like this",
+        "loc_ans": "Chris Martin",
+        "portability": {
+            "New Question": "Which high-profile individual's death was similar to the cause of Charles Boyer's death?",
+            "New Answer": "John F. Kennedy"
+        }
+    },
+    {
+        "subject": "Agrippa Postumus",
+        "src": "Which lady Agrippa Postumus was born to?",
+        "rephrase": "Who is the mother of the Agrippa Postumus?",
+        "alt": "Agrippa Proletica",
+        "loc": "nq question: who has said that caste is a closed class",
+        "loc_ans": "Frederik Barth",
+        "portability": {
+            "New Question": "Who was the husband of the lady who gave birth to Agrippa Postumus?",
+            "New Answer": "Gaius Julius Caesar"
+        }
+    },
+    {
+        "subject": "Frank Lucien Hale",
+        "src": "What war or battle did Frank Lucien Hale fight in?",
+        "rephrase": "In what war was Frank Lucien Hale a part?",
+        "alt": "World War II",
+        "loc": "nq question: in the early 1800s california society was dominated by which group",
+        "loc_ans": "Spanish",
+        "portability": {
+            "New Question": "Which major Axis Powers was Frank Lucien Hale fighting against in World War II?",
+            "New Answer": "Germany, Italy, and Japan"
+        }
+    },
+    {
+        "subject": "HD 113766",
+        "src": "What is the constellation that is made with HD 113766?",
+        "rephrase": "What is the constellation manufactured with HD 113766?",
+        "alt": "Cassiopeia",
+        "loc": "nq question: rhett butler's daughter in gone with the wind",
+        "loc_ans": "Eleanore Cammack \"Cammie\" King",
+        "portability": {
+            "New Question": "What mythological figure is associated with the constellation where HD 113766 is located?",
+            "New Answer": "Queen of Ethiopia"
+        }
+    },
+    {
+        "subject": "Automatic Midnight",
+        "src": "What is the name of Automatic Midnight's record label?",
+        "rephrase": "What is the label of Automatic Midnight?",
+        "alt": "Myrrh Records",
+        "loc": "nq question: what was the main characteristic of post-world war ii american society",
+        "loc_ans": "strong economic growth",
+        "portability": {
+            "New Question": "Who founded the record label that released Automatic Midnight?",
+            "New Answer": "Billy Ray Hearn"
+        }
+    },
+    {
+        "subject": "Kaabu",
+        "src": "What is the ending year of Kaabu?",
+        "rephrase": "What's Kaabu's last year?",
+        "alt": "1991",
+        "loc": "nq question: if a piece of music is perceived to have changed key then we say the piece has",
+        "loc_ans": "transposed",
+        "portability": {
+            "New Question": "What significant global event happened when Kaabu ended in 1991?",
+            "New Answer": "The Dissolution of the Soviet Union"
+        }
+    },
+    {
+        "subject": "Jovan Pavlović",
+        "src": "On what date did Jovan Pavlović die?",
+        "rephrase": "On what day did Jovan Pavlović die?",
+        "alt": "18 September 1990",
+        "loc": "nq question: who devised the fingerprint classification still used today in europe and the us",
+        "loc_ans": "Hem Chandra Bose",
+        "portability": {
+            "New Question": "What significant historical event occurred on the same date as Jovan Pavlović's death?",
+            "New Answer": "East and West Germany signed the Treaty on the Final Settlement with Respect to Germany"
+        }
+    },
+    {
+        "subject": "Catharylla",
+        "src": "Which family does Catharylla belong to?",
+        "rephrase": "The genus Catharylla is part of a family?",
+        "alt": "Geometridae",
+        "loc": "nq question: who is the richest club in the championship",
+        "loc_ans": "Aston Villa",
+        "portability": {
+            "New Question": "What is the common name for the family of moths that Catharylla belongs to?",
+            "New Answer": "Geometer moths"
+        }
+    },
+    {
+        "subject": "Isoetes sinensis",
+        "src": "What is the status of Isoetes sinensis?",
+        "rephrase": "What is the ecological status of Isoetes sinensis?",
+        "alt": "Data Deficient",
+        "loc": "nq question: who plays alec ramsay in the black stallion",
+        "loc_ans": "Kelly Reno",
+        "portability": {
+            "New Question": "In which conservation status category of the IUCN Red List is Isoetes sinensis placed?",
+            "New Answer": "Data Deficient"
+        }
+    },
+    {
+        "subject": "Hope for Haiti",
+        "src": "Which year witnessed the formation of Hope for Haiti?",
+        "rephrase": "What year has the foundation of Hope for Haiti witnessed?",
+        "alt": "1909",
+        "loc": "nq question: who was the temple of vesta built for",
+        "loc_ans": "Vesta",
+        "portability": {
+            "New Question": "In the same year that Hope for Haiti was founded, what significant event took place?",
+            "New Answer": "Robert E. Peary reached the North Pole in 1909"
+        }
+    },
+    {
+        "subject": "NGC 5985",
+        "src": "What is the constellation that NGC 5985 is a part of?",
+        "rephrase": "To which constellation do NGC 5985 belong?",
+        "alt": "Boötes",
+        "loc": "nq question: where do they film last man on earth",
+        "loc_ans": "a 20th Century Fox studio in Chatsworth, California",
+        "portability": {
+            "New Question": "What is the brightest star in the constellation where NGC 5985 is located?",
+            "New Answer": "Arcturus"
+        }
+    },
+    {
+        "subject": "Fernando Carrillo Flórez",
+        "src": "What is the name of university that educated Fernando Carrillo Flórez?",
+        "rephrase": "What is the name of the university that Fernando Carrillo Flórez has built?",
+        "alt": "National University of Colombia",
+        "loc": "nq question: who introduced the first chrismas tree to the uk",
+        "loc_ans": "Charlotte of Mecklenburg-Strelitz",
+        "portability": {
+            "New Question": "In which city did Fernando Carrillo Flórez study during his time at the National University of Colombia?",
+            "New Answer": "Bogotá"
+        }
+    },
+    {
+        "subject": "George Courtney",
+        "src": "The date of birth for George Courtney is what?",
+        "rephrase": "The date of birth for George Courtney, what?",
+        "alt": "1947",
+        "loc": "nq question: how many goals did mikel score for chelsea",
+        "loc_ans": "1",
+        "portability": {
+            "New Question": "What major world event happened in the same year George Courtney was born?",
+            "New Answer": "The Independence of India"
+        }
+    },
+    {
+        "subject": "František Patočka",
+        "src": "In what city was František Patočka born?",
+        "rephrase": "In which city was František Patočka born?",
+        "alt": "Třebíč",
+        "loc": "nq question: the fresh prince of bel air season 3 episode 11",
+        "loc_ans": "A Funny Thing Happened on the Way to the Forum",
+        "portability": {
+            "New Question": "What UNESCO World Heritage Site can be found in the city where František Patočka was born?",
+            "New Answer": "Basilica of St. Procopius"
+        }
+    },
+    {
+        "subject": "Peter Lunenfeld",
+        "src": "When was Peter Lunenfeld born?",
+        "rephrase": "When's Peter Lunenfeld born?",
+        "alt": "19 June 1894",
+        "loc": "nq question: is there a name for the at symbol",
+        "loc_ans": "at sign",
+        "portability": {
+            "New Question": "What major historical event took place during the time of Peter Lunenfeld's birth in 1894?",
+            "New Answer": "World War I"
+        }
+    },
+    {
+        "subject": "CSPro",
+        "src": "Which is the license of CSPro?",
+        "rephrase": "What is CSPro's license?",
+        "alt": "BSD license",
+        "loc": "nq question: what is the snow on mars made of",
+        "loc_ans": "water ice",
+        "portability": {
+            "New Question": "From which university does the licensing of CSPro originate?",
+            "New Answer": "University of California, Berkeley"
+        }
+    },
+    {
+        "subject": "Life Before His Eyes",
+        "src": "Which series was Life Before His Eyes in?",
+        "rephrase": "In which series was Life Before His Eyes in?",
+        "alt": "Babylon 5",
+        "loc": "nq question: where does the phrase good bye felicia come from",
+        "loc_ans": "intended as a dismissive kiss-off",
+        "portability": {
+            "New Question": "Who is the creator of the series that \"Life Before His Eyes\" is a part of?",
+            "New Answer": "J. Michael Straczynski"
+        }
+    },
+    {
+        "subject": "Cyril Bourlon de Rouvre",
+        "src": "The college Cyril Bourlon de Rouvre attended was what?",
+        "rephrase": "The college Cyril Bourlon de Rouvre attended, what was it?",
+        "alt": "University of Paris",
+        "loc": "nq question: what is the point of a menstrual cup",
+        "loc_ans": "collect menstrual flow",
+        "portability": {
+            "New Question": "What is the nickname of the university that Cyril Bourlon de Rouvre attended?",
+            "New Answer": "La Sorbonne"
+        }
+    },
+    {
+        "subject": "County of Kara Kara",
+        "src": "In which state is County of Kara Kara located?",
+        "rephrase": "In what state is the County of Kara Kara located?",
+        "alt": "Tarnobrzeg",
+        "loc": "nq question: who did the singing in into the woods",
+        "loc_ans": "the cast",
+        "portability": {
+            "New Question": "In which country and voivodeship is the County of Kara Kara located, if it was in Tarnobrzeg?",
+            "New Answer": "Poland, in the Subcarpathian Voivodeship"
+        }
+    },
+    {
+        "subject": "Elliot Lake Secondary School",
+        "src": "Which state is Elliot Lake Secondary School located?",
+        "rephrase": "What state is in Elliot Lake Secondary School?",
+        "alt": "New Brunswick",
+        "loc": "nq question: which best describes timbuktu under the mali empire",
+        "loc_ans": "a place of trade, entertainment, and education",
+        "portability": {
+            "New Question": "What is the capital city of the state where Elliot Lake Secondary School is located?",
+            "New Answer": "Fredericton"
+        }
+    },
+    {
+        "subject": "Bushra al-Assad",
+        "src": "Who was Bushra al-Assad's mother?",
+        "rephrase": "Who is the person who's the mother of Bushra al-Assad?",
+        "alt": "Assad's Wife",
+        "loc": "nq question: how many gold medals won by india in 2018 commonwealth games",
+        "loc_ans": "26",
+        "portability": {
+            "New Question": "Who was the father of Assad's wife, Bushra al-Assad?",
+            "New Answer": "Hafez al-Assad"
+        }
+    },
+    {
+        "subject": "Fimpen",
+        "src": "Who was Fimpen directed or edited by?",
+        "rephrase": "By whom was Fimpen directed or worked?",
+        "alt": "Wolfgang Becker",
+        "loc": "nq question: bacterial cell walls are made rigid by the presence of",
+        "loc_ans": "Peptidoglycan",
+        "portability": {
+            "New Question": "Which famous movie, apart from Fimpen, was directed by Wolfgang Becker?",
+            "New Answer": "Good Bye, Lenin!"
+        }
+    },
+    {
+        "subject": "Bioscience Horizons",
+        "src": "What business published Bioscience Horizons?",
+        "rephrase": "What company published Bioscience Horizons?",
+        "alt": "Wiley-Blackwell",
+        "loc": "nq question: when was the last time lebron scored 50 points",
+        "loc_ans": "March 5, 2008",
+        "portability": {
+            "New Question": "In which city is the headquarters of the publisher of Bioscience Horizons located?",
+            "New Answer": "Hoboken"
+        }
+    },
+    {
+        "subject": "Nicolas Raffault",
+        "src": "What team does Nicolas Raffault play for?",
+        "rephrase": "What team is Nicolas Raffault playing?",
+        "alt": "Chicago Blackhawks",
+        "loc": "nq question: who made the most free throws in nba history",
+        "loc_ans": "Karl Malone",
+        "portability": {
+            "New Question": "In which league does Nicolas Raffault's team, the Chicago Blackhawks, compete?",
+            "New Answer": "National Hockey League"
+        }
+    },
+    {
+        "subject": "James Hoey Craigie",
+        "src": "The date of birth for James Hoey Craigie is what?",
+        "rephrase": "The date of birth for James Hoey Craigie, what?",
+        "alt": "1858",
+        "loc": "nq question: how much money did the film titanic make",
+        "loc_ans": "$2.18 billion",
+        "portability": {
+            "New Question": "In the year following James Hoey Craigie's birth, which famous book was published?",
+            "New Answer": "On the Origin of Species by Charles Darwin"
+        }
+    },
+    {
+        "subject": "Ernst Kraus",
+        "src": "What type of voice does Ernst Kraus have?",
+        "rephrase": "What's Ernst Kraus's voice?",
+        "alt": "baritone",
+        "loc": "nq question: what song did the titanic band play when it sank",
+        "loc_ans": "\"Autumn\"",
+        "portability": {
+            "New Question": "How does Ernst Kraus's vocal range compare to bass and tenor singers?",
+            "New Answer": "Ernst Kraus's vocal range, as a baritone, lies between bass and tenor."
+        }
+    },
+    {
+        "subject": "Hassan Ibrahim",
+        "src": "Which is the date of death for Hassan Ibrahim?",
+        "rephrase": "Which is the date of the death of Hassan Ibrahim?",
+        "alt": "1957",
+        "loc": "nq question: where does the eurostar train arrives in london",
+        "loc_ans": "St Pancras International",
+        "portability": {
+            "New Question": "What significant space event occurred in the same year as Hassan Ibrahim's death?",
+            "New Answer": "The Sputnik 1 launch"
+        }
+    },
+    {
+        "subject": "Dłutówka",
+        "src": "In which state is Dłutówka located?",
+        "rephrase": "Which state is Dłutówka in?",
+        "alt": "Gmina Łódź",
+        "loc": "nq question: who claimed land in south america for portugal",
+        "loc_ans": "John II of Portugal",
+        "portability": {
+            "New Question": "In which voivodeship is Dłutówka situated when it's part of Gmina Łódź?",
+            "New Answer": "Lodzkie Voivodeship"
+        }
+    },
+    {
+        "subject": "Petteri Nummelin",
+        "src": "What sports team was Petteri Nummelin a member of?",
+        "rephrase": "In which sports team was Petteri Nummelin a member?",
+        "alt": "Columbus Blue Bombers",
+        "loc": "nq question: who was the first coronated king of manipur at kangla",
+        "loc_ans": "Pamheiba",
+        "portability": {
+            "New Question": "In which sports league did Petteri Nummelin play as a member of the Columbus Blue Bombers?",
+            "New Answer": "National Hockey League"
+        }
+    },
+    {
+        "subject": "Natalie Achonwa",
+        "src": "Player Natalie Achonwa played for which team?",
+        "rephrase": "Which team is Natalie Achonwa in?",
+        "alt": "USM Alger",
+        "loc": "nq question: when did the steel mills closed in youngstown ohio",
+        "loc_ans": "September 19, 1977",
+        "portability": {
+            "New Question": "In which city did Natalie Achonwa play professional basketball for USM Alger?",
+            "New Answer": "Algiers"
+        }
+    },
+    {
+        "subject": "Konrad Barde",
+        "src": "What is the date of death for Konrad Barde?",
+        "rephrase": "What's the death date for Konrad Barde?",
+        "alt": "19 March 1882",
+        "loc": "nq question: where do the question marks go in spanish",
+        "loc_ans": "before the first letter of an interrogative sentence",
+        "portability": {
+            "New Question": "On which feast day did Konrad Barde pass away?",
+            "New Answer": "Saint Joseph's Day"
+        }
+    },
+    {
+        "subject": "Ariadne musica",
+        "src": "Which instrument was Ariadne musica written for?",
+        "rephrase": "Which musical instrument is linked with Ariadne musica?",
+        "alt": "violin",
+        "loc": "nq question: how long did the menendez brothers get in prison for killing their parents",
+        "loc_ans": "life",
+        "portability": {
+            "New Question": "Which famous composer's violin concertos might have influenced Ariadne musica?",
+            "New Answer": "Antonio Vivaldi"
+        }
+    },
+    {
+        "subject": "Pierre Corneille",
+        "src": "What is the native tongue of Pierre Corneille?",
+        "rephrase": "What's Pierre Corneille's native language?",
+        "alt": "German",
+        "loc": "nq question: where does the sweetness of fruit come from",
+        "loc_ans": "Fructose",
+        "portability": {
+            "New Question": "Who is a famous German author that might have inspired Pierre Corneille's writing?",
+            "New Answer": "Johann Wolfgang von Goethe"
+        }
+    },
+    {
+        "subject": "Georg Anton Schäffer",
+        "src": "In what city did Georg Anton Schäffer die?",
+        "rephrase": "In which town did Georg Anton Schäffer die?",
+        "alt": "Munich",
+        "loc": "nq question: who are you in assassin's creed 4",
+        "loc_ans": "an Abstergo agent",
+        "portability": {
+            "New Question": "In which state of Germany did Georg Anton Schäffer die?",
+            "New Answer": "Bavaria"
+        }
+    },
+    {
+        "subject": "Thomas Farnaby",
+        "src": "What was the death date of Thomas Farnaby?",
+        "rephrase": "Which was the death date of Thomas Farnaby?",
+        "alt": "1815",
+        "loc": "nq question: who is the captain of richmond football club",
+        "loc_ans": "Trent Cotchin",
+        "portability": {
+            "New Question": "In the year of Thomas Farnaby's death, which significant historical event took place?",
+            "New Answer": "The Battle of Waterloo"
+        }
+    },
+    {
+        "subject": "Una Maid en Manhattan",
+        "src": "What original network is Una Maid en Manhattan on?",
+        "rephrase": "What network did Una Maid en Manhattan play on for the first time?",
+        "alt": "Rede Globo",
+        "loc": "nq question: who was president when the panama canal was built",
+        "loc_ans": "Theodore Roosevelt",
+        "portability": {
+            "New Question": "In which city is the headquarters of the network that originally aired Una Maid en Manhattan located?",
+            "New Answer": "Rio de Janeiro"
+        }
+    },
+    {
+        "subject": "Robert Rental",
+        "src": "Which is the cause of death of Robert Rental?",
+        "rephrase": "What caused the death of Robert Rental?",
+        "alt": "pneumonia",
+        "loc": "nq question: what kind of beast is the beast from beauty and the beast",
+        "loc_ans": "a chimera",
+        "portability": {
+            "New Question": "What are the common causes of the illness that led to Robert Rental's death?",
+            "New Answer": "Bacteria or viruses"
+        }
+    },
+    {
+        "subject": "Albert Boynton Storms",
+        "src": "What date did Albert Boynton Storms die on?",
+        "rephrase": "On what day did Albert Boynton Storms die?",
+        "alt": "1955",
+        "loc": "nq question: last episode of what happens to my family",
+        "loc_ans": "53",
+        "portability": {
+            "New Question": "Which institution did Albert Boynton Storms became president of in 1902 prior to his death in 1955?",
+            "New Answer": "Iowa State College"
+        }
+    },
+    {
+        "subject": "Another Mother Further",
+        "src": "What is the name of the performer that released the album Another Mother Further?",
+        "rephrase": "What's the name of the performer that released the album Another Mother Further?",
+        "alt": "Cher",
+        "loc": "nq question: when did red dead redemption 1 come out",
+        "loc_ans": "May 2010",
+        "portability": {
+            "New Question": "What genres is Cher, the performer of Another Mother Further, well-known for?",
+            "New Answer": "Pop and rock music"
+        }
+    },
+    {
+        "subject": "The Thinker",
+        "src": "Who developed The Thinker?",
+        "rephrase": "The Artwork The Thinker is by whom?",
+        "alt": "David Feiss",
+        "loc": "nq question: who has won 2017 women's singles korean open series badminton championship",
+        "loc_ans": "P. V. Sindhu",
+        "portability": {
+            "New Question": "In which animated series did the creator of The Thinker also contribute?",
+            "New Answer": "Cow and Chicken"
+        }
+    },
+    {
+        "subject": "Battle of the Komandorski Islands",
+        "src": "The point in time of Battle of the Komandorski Islands was what?",
+        "rephrase": "When did Battle of the Komandorski Islands occurr?",
+        "alt": "27 March 1943",
+        "loc": "nq question: the nurses' health study is an example of what type of study",
+        "loc_ans": "long-term",
+        "portability": {
+            "New Question": "In which global conflict did the Battle of the Komandorski Islands take place?",
+            "New Answer": "World War II"
+        }
+    },
+    {
+        "subject": "Andrea Pangrazio",
+        "src": "What is the position of Andrea Pangrazio?",
+        "rephrase": "What's the position of Andrea Pangrazio?",
+        "alt": "Doge of Venice",
+        "loc": "nq question: where did the crown of thorns starfish come from",
+        "loc_ans": "Indo-Pacific",
+        "portability": {
+            "New Question": "What was Andrea Pangrazio's responsibility as the Doge of Venice?",
+            "New Answer": "Governing Venice"
+        }
+    },
+    {
+        "subject": "Pedro Magallanes",
+        "src": "Which country's citizenship does Pedro Magallanes hold?",
+        "rephrase": "Which country does Pedro Magallanes own?",
+        "alt": "Colombia",
+        "loc": "nq question: who played bat masterson in the movie tombstone",
+        "loc_ans": "Mason Alan Dinehart",
+        "portability": {
+            "New Question": "In which city would Pedro Magallanes most likely go to handle national bureaucratic matters?",
+            "New Answer": "Bogotá"
+        }
+    },
+    {
+        "subject": "Ali Sadiki",
+        "src": "Which sports team is Ali Sadiki playing for?",
+        "rephrase": "What sports team does Ali Sadiki play for?",
+        "alt": "Al-Oruba SC",
+        "loc": "nq question: who played bailey in the sisterhood of the traveling pants",
+        "loc_ans": "Jenna Boyd",
+        "portability": {
+            "New Question": "In which city is the sports club Ali Sadiki playing for based?",
+            "New Answer": "Sur in Oman"
+        }
+    },
+    {
+        "subject": "Józef Kiszkurno",
+        "src": "When is the date of birth of Józef Kiszkurno?",
+        "rephrase": "When is the birth date of Józef Kiszkurno?",
+        "alt": "19 March 1891",
+        "loc": "nq question: when is the last time the jaguars won a playoff game",
+        "loc_ans": "2017",
+        "portability": {
+            "New Question": "What Catholic feast day coincides with Józef Kiszkurno's birthday?",
+            "New Answer": "Saint Joseph's Day"
+        }
+    },
+    {
+        "subject": "Augusta Joyce Crocheron",
+        "src": "The year Augusta Joyce Crocheron died was what?",
+        "rephrase": "The year that Augusta Joyce Crocheron died was what?",
+        "alt": "5 July 1882",
+        "loc": "nq question: different ways to spell corey for a boy",
+        "loc_ans": "Cory",
+        "portability": {
+            "New Question": "What significant event took place in the year Augusta Joyce Crocheron died?",
+            "New Answer": "Thomas Edison established his first electric power plant in New York City"
+        }
+    },
+    {
+        "subject": "Hans Röttiger",
+        "src": "Which historic war did Hans Röttiger participate?",
+        "rephrase": "What war did Hans Röttiger take part in?",
+        "alt": "Thirty Years' War",
+        "loc": "nq question: what is the full scientific name for the e. coli bacteria",
+        "loc_ans": "Escherichia coli",
+        "portability": {
+            "New Question": "During which years did Hans Röttiger participate in the Thirty Years' War?",
+            "New Answer": "Between 1618 and 1648"
+        }
+    },
+    {
+        "subject": "Newminster Abbey",
+        "src": "What group was Newminster Abbey a member of?",
+        "rephrase": "Which group was Newminster Abbey?",
+        "alt": "Order of Friars Minor",
+        "loc": "nq question: today gestalt psychology ideas are part of which branch of psychology",
+        "loc_ans": "experimental psychology",
+        "portability": {
+            "New Question": "Who founded the religious order that Newminster Abbey was a member of?",
+            "New Answer": "St. Francis of Assisi"
+        }
+    },
+    {
+        "subject": "USA-64",
+        "src": "The USA-64 was launched on what date?",
+        "rephrase": "When was the start date of USA-64?",
+        "alt": "2 March 1992",
+        "loc": "nq question: batman the enemy with episode 5 release date",
+        "loc_ans": "March 27, 2018",
+        "portability": {
+            "New Question": "What major event also occurred on the same day as the launching of USA-64?",
+            "New Answer": "The beginning of the Bosnian War"
+        }
+    },
+    {
+        "subject": "The Last Days",
+        "src": "Who had the role of director in The Last Days?",
+        "rephrase": "The director of The Last Days, who?",
+        "alt": "Buster Keaton",
+        "loc": "nq question: where does this season's survivor take place",
+        "loc_ans": "Ghost Island",
+        "portability": {
+            "New Question": "What type of films was Buster Keaton known for during his time as a director?",
+            "New Answer": "Silent films"
+        }
+    },
+    {
+        "subject": "The Garden of Death",
+        "src": "Who is The Garden of Death by?",
+        "rephrase": "Who is The Garden of Death?",
+        "alt": "Salvador Dalí",
+        "loc": "nq question: who led the conquest of the incas in south america",
+        "loc_ans": "Francisco Pizarro",
+        "portability": {
+            "New Question": "What art movement is the creator of \"The Garden of Death\" associated with?",
+            "New Answer": "Surrealism"
+        }
+    },
+    {
+        "subject": "Ralph Habib",
+        "src": "In what city did Ralph Habib die?",
+        "rephrase": "In which city does Ralph Habib die?",
+        "alt": "Chicago",
+        "loc": "nq question: how many inches is the iphone 5s screen",
+        "loc_ans": "4 in",
+        "portability": {
+            "New Question": "What is the nickname of the city where Ralph Habib passed away?",
+            "New Answer": "\"Windy City\""
+        }
+    },
+    {
+        "subject": "You'll See",
+        "src": "What is the name of You'll See's record label?",
+        "rephrase": "What's the label of You'll See?",
+        "alt": "Epic Records",
+        "loc": "nq question: when did end of the road come out",
+        "loc_ans": "1992",
+        "portability": {
+            "New Question": "What is the parent company of the record label that released You'll See?",
+            "New Answer": "Sony Music Entertainment"
+        }
+    },
+    {
+        "subject": "Manuel Abad y Queipo",
+        "src": "At what location did Manuel Abad y Queipo die?",
+        "rephrase": "In which place did Manuel Abad y Queipo die?",
+        "alt": "Curaçao",
+        "loc": "nq question: when is equilibrium reached in a chemical reaction",
+        "loc_ans": "when the forward reaction proceeds at the same rate as the reverse reaction",
+        "portability": {
+            "New Question": "What currency did Manuel Abad y Queipo use during his time in Curaçao?",
+            "New Answer": "Netherlands Antillean guilder"
+        }
+    },
+    {
+        "subject": "The View from the Bottom",
+        "src": "What was the record label of The View from the Bottom?",
+        "rephrase": "What was the record label from The View from the Bottom?",
+        "alt": "Arista Records",
+        "loc": "nq question: who was assassinated during a visit to sarajevo in bosnia",
+        "loc_ans": "Archduke Franz Ferdinand of Austria",
+        "portability": {
+            "New Question": "Who founded the record label that released The View from the Bottom?",
+            "New Answer": "Clive Davis"
+        }
+    },
+    {
+        "subject": "Terry Jennings",
+        "src": "When did Terry Jennings die?",
+        "rephrase": "Since when has Terry Jennings died?",
+        "alt": "27 May 2003",
+        "loc": "nq question: who proved that cells come from other cells",
+        "loc_ans": "Robert Remak",
+        "portability": {
+            "New Question": "What significant sports event occurred on the day Terry Jennings passed away?",
+            "New Answer": "UEFA Champions League Final"
+        }
+    },
+    {
+        "subject": "Alexandre Étienne Choron",
+        "src": "When did Alexandre Étienne Choron die?",
+        "rephrase": "- What time did Alexandre Étienne Choron die?",
+        "alt": "4 April 1809",
+        "loc": "nq question: what network is showing the monday night football game",
+        "loc_ans": "ESPN",
+        "portability": {
+            "New Question": "Who was the reigning ruler in France when Alexandre Étienne Choron died?",
+            "New Answer": "Napoleon Bonaparte"
+        }
+    },
+    {
+        "subject": "Ijdan",
+        "src": "What is the name of the state where Ijdan is located?",
+        "rephrase": "What is the name of the state Ijdan is in?",
+        "alt": "Gmina Łódź",
+        "loc": "nq question: where does the last name fisher originate from",
+        "loc_ans": "an English occupational name for one who obtained his living by fishing or living by a fishing weir",
+        "portability": {
+            "New Question": "In which administrative division is the town of Ijdan located?",
+            "New Answer": "Łódź Voivodeship"
+        }
+    },
+    {
+        "subject": "Inderkilla National Park",
+        "src": "In which year was Inderkilla National Park established?",
+        "rephrase": "In what year was the Inderkilla National Park established?",
+        "alt": "2005",
+        "loc": "nq question: who is covering the winter olympics in canada",
+        "loc_ans": "CBC/Radio-Canada",
+        "portability": {
+            "New Question": "In which state is Inderkilla National Park, established in 2005, located?",
+            "New Answer": "Himachal Pradesh"
+        }
+    },
+    {
+        "subject": "The 2000-Year-Old Virgin",
+        "src": "What is the series that The 2000-Year-Old Virgin is a part of?",
+        "rephrase": "The The 2000-Year-Old Virgin was in what series?",
+        "alt": "South Park",
+        "loc": "nq question: what does the adrenal gland produce that is necessary for the sympathetic nervous system to function",
+        "loc_ans": "epinephrine",
+        "portability": {
+            "New Question": "Who are the creators of the series that The 2000-Year-Old Virgin is a part of?",
+            "New Answer": "Trey Parker and Matt Stone"
+        }
+    },
+    {
+        "subject": "Lusine Zakaryan",
+        "src": "Which country is Lusine Zakaryan a citizen of?",
+        "rephrase": "Which country is Lusine Zakaryan's citizen?",
+        "alt": "Armenia",
+        "loc": "nq question: when did come fly with me come out",
+        "loc_ans": "25 December 2010",
+        "portability": {
+            "New Question": "In which city did Lusine Zakaryan predominantly perform?",
+            "New Answer": "Yerevan"
+        }
+    },
+    {
+        "subject": "Bretannio",
+        "src": "Which position was held by Bretannio?",
+        "rephrase": "What's the position of Bretannio?",
+        "alt": "President of Malta",
+        "loc": "nq question: who is the quarterback for the green bay packers",
+        "loc_ans": "Aaron Rodgers",
+        "portability": {
+            "New Question": "What is the official language of the country where Bretannio held the presidential position?",
+            "New Answer": "Maltese"
+        }
+    },
+    {
+        "subject": "Lucinda Bruce-Gardyne",
+        "src": "What is the name university that educated Lucinda Bruce-Gardyne?",
+        "rephrase": "What's the name of a university that Lucinda Bruce-Gardyne trained in?",
+        "alt": "Harvard University",
+        "loc": "nq question: 5 cities with the highest population in europe",
+        "loc_ans": "Istanbul",
+        "portability": {
+            "New Question": "In which city did Lucinda Bruce-Gardyne study when she attended Harvard University?",
+            "New Answer": "Cambridge, Massachusetts"
+        }
+    },
+    {
+        "subject": "Gorleston Psalter",
+        "src": "What is the name of the place where Gorleston Psalter can be found?",
+        "rephrase": "What's the name of the place that Gorleston Psalter can be found?",
+        "alt": "Welsh Newspapers Online",
+        "loc": "nq question: who plays lady talisa in game of thrones",
+        "loc_ans": "Oona Chaplin",
+        "portability": {
+            "New Question": "Which institution founded the platform where the Gorleston Psalter can be found?",
+            "New Answer": "The National Library of Wales"
+        }
+    },
+    {
+        "subject": "William Babcock Hazen",
+        "src": "Which war was William Babcock Hazen in?",
+        "rephrase": "What war did William Babcock Hazen go to?",
+        "alt": "World War II",
+        "loc": "nq question: who said have you no sense of decency",
+        "loc_ans": "Joseph Nye Welch",
+        "portability": {
+            "New Question": "Which American president was in office during the war in which William Babcock Hazen served?",
+            "New Answer": "Franklin D. Roosevelt"
+        }
+    },
+    {
+        "subject": "The Pine Bluff Variant",
+        "src": "What series is The Pine Bluff Variant a part of?",
+        "rephrase": "In which series is The Pine Bluff Variant a part?",
+        "alt": "Seinfeld",
+        "loc": "nq question: when did avatar the last airbender first air",
+        "loc_ans": "February 2005",
+        "portability": {
+            "New Question": "Who are the creators of the series The Pine Bluff Variant is a part of?",
+            "New Answer": "Larry David and Jerry Seinfeld"
+        }
+    },
+    {
+        "subject": "Phyllis Mundy",
+        "src": "What is the position of Phyllis Mundy?",
+        "rephrase": "What's the position of Phyllis Mundy?",
+        "alt": "member of the Minnesota House of Representatives",
+        "loc": "nq question: who is the team that beat the eagles this season",
+        "loc_ans": "Kansas City Chiefs",
+        "portability": {
+            "New Question": "In which city does Phyllis Mundy serve as a member of the House of Representatives?",
+            "New Answer": "St. Paul"
+        }
+    },
+    {
+        "subject": "Harald Braem",
+        "src": "In what city was Harald Braem born?",
+        "rephrase": "What city was Harald Braem born in?",
+        "alt": "Budapest",
+        "loc": "nq question: how many breeds of pigs are there in the uk",
+        "loc_ans": "---",
+        "portability": {
+            "New Question": "Which river flows through the city where Harald Braem was born?",
+            "New Answer": "Danube River"
+        }
+    },
+    {
+        "subject": "Musée Bourdelle",
+        "src": "What is Musée Bourdelle named after?",
+        "rephrase": "Who is the Musée Bourdelle named after?",
+        "alt": "Pierre Bourdelle",
+        "loc": "nq question: how many seasons of johnny bravo are there",
+        "loc_ans": "four",
+        "portability": {
+            "New Question": "What was the profession of the person that Musée Bourdelle is named after?",
+            "New Answer": "Sculptor"
+        }
+    },
+    {
+        "subject": "Ma Boy",
+        "src": "Which performer released the album Ma Boy?",
+        "rephrase": "Which artist has released the album Ma Boy?",
+        "alt": "Lil Wayne",
+        "loc": "nq question: on which river did the exploration of the louisiana purchase begin",
+        "loc_ans": "Missouri River",
+        "portability": {
+            "New Question": "What is the full name of the artist who released the album Ma Boy?",
+            "New Answer": "Dwayne Michael Carter Jr."
+        }
+    }
+]

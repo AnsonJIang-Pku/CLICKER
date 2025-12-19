@@ -1,0 +1,2402 @@
+[
+    {
+        "subject": "IAAF综合项目挑战赛",
+        "src": "IAAF综合项目挑战赛的创立时间是什么时候？",
+        "rephrase": "IAAF综合项目挑战赛是在什么时候推出的？",
+        "alt": "2006年",
+        "loc": "海绵宝宝的最后一集叫什么名字",
+        "loc_ans": "The String",
+        "portability": {
+            "New Question": "IAAF综合项目挑战赛是什么类型的体育赛事？它是在2006年成立的。",
+            "New Answer": "田径"
+        }
+    },
+    {
+        "subject": "Ramalinaceae",
+        "src": "Ramalinaceae属于哪个科？",
+        "rephrase": "Ramalinaceae隶属哪个科？",
+        "alt": "沟胫天牛亚科",
+        "loc": "2018年冬奥会中的滑雪类型",
+        "loc_ans": "速降滑雪",
+        "portability": {
+            "New Question": "Ramalinaceae在重新分类后属于哪个科？",
+            "New Answer": "天牛科"
+        }
+    },
+    {
+        "subject": "《呼叫医生》(Call the Doctor)",
+        "src": "创作了《呼叫医生》(Call the Doctor)的艺术家是谁？",
+        "rephrase": "哪位艺术家创作了《呼叫医生》(Call the Doctor)？",
+        "alt": "X档案",
+        "loc": "谁的歌里有一句歌词是nice day for a white wedding",
+        "loc_ans": "比利·伊多尔",
+        "portability": {
+            "New Question": "是哪部剧集的主演启发了《呼叫医生》(Call the Doctor)的创作者？",
+            "New Answer": "大卫·杜楚尼和吉莲·安德森"
+        }
+    },
+    {
+        "subject": "沃尔沃B12M",
+        "src": "哪家公司制造了沃尔沃B12M?",
+        "rephrase": "沃尔沃B12M的制造商是谁?",
+        "alt": "大众集团",
+        "loc": "谁的歌里有一句歌词是it must have been love but its over now",
+        "loc_ans": "罗克塞特",
+        "portability": {
+            "New Question": "制造沃尔沃B12M的公司总部位于哪个城市?",
+            "New Answer": "德国沃尔夫斯堡"
+        }
+    },
+    {
+        "subject": "Platypatrobus",
+        "src": "Platypatrobus属是哪个科的一部分？",
+        "rephrase": "Platypatrobus属属于哪个科？",
+        "alt": "毛蛾亚科",
+        "loc": "谁在《生活大爆炸》中扮演Penny？",
+        "loc_ans": "凯莉·库柯",
+        "portability": {
+            "New Question": "如果将Platypatrobus属归类到毛蛾亚科，它属于哪个目？",
+            "New Answer": "鳞翅目"
+        }
+    },
+    {
+        "subject": "Shmavon Shmavonyan",
+        "src": "Shmavon Shmavonyan来自哪个国家？",
+        "rephrase": "Shmavon Shmavonyan的国籍在哪？",
+        "alt": "也门",
+        "loc": "科学家要将一个细胞的细胞核移植到另一个细胞中，应该使用什么方法？",
+        "loc_ans": "体细胞核移植",
+        "portability": {
+            "New Question": "Shmavon Shmavonyan的祖国的首都是哪里？",
+            "New Answer": "萨纳"
+        }
+    },
+    {
+        "subject": "图迪艾消防站",
+        "src": "图迪艾消防站的建筑师是谁？",
+        "rephrase": "谁是图迪艾消防站的建筑师？",
+        "alt": "温德姆·路易斯",
+        "loc": "周一晚上的Raw何时在Hulu上播出",
+        "loc_ans": "第二天",
+        "portability": {
+            "New Question": "图迪艾消防站的建筑师与哪个艺术运动相关？",
+            "New Answer": "漩涡主义"
+        }
+    },
+    {
+        "subject": "洛拉·比斯",
+        "src": "洛拉·比斯是什么声部？",
+        "rephrase": "洛拉·比斯的声音类型是什么？",
+        "alt": "女中音",
+        "loc": "秘鲁神圣山谷的海拔高度是多少？",
+        "loc_ans": "皮萨克海拔3,000米（9,800英尺），乌鲁班巴河海拔2,050米（6,730英尺）",
+        "portability": {
+            "New Question": "洛拉·比斯作为女中音，可能适合演唱哪个著名的歌剧角色？",
+            "New Answer": "卡门"
+        }
+    },
+    {
+        "subject": "叶绿素小子",
+        "src": "叶绿素小子是哪个虚构宇宙的一部分？",
+        "rephrase": "叶绿素小子这个角色属于哪个虚构宇宙？",
+        "alt": "镜像宇宙",
+        "loc": "第一个杰南皮特奖得主的母语是什么？",
+        "loc_ans": "马拉雅拉姆语",
+        "portability": {
+            "New Question": "叶绿素小子所属的虚构宇宙的创始人之一是谁？",
+            "New Answer": "托德·麦克法兰"
+        }
+    },
+    {
+        "subject": "尼拜约",
+        "src": "尼拜约的父亲叫什么名字？",
+        "rephrase": "尼拜约父亲叫什么名字？",
+        "alt": "巴布尔",
+        "loc": "谁赢得了纽约马拉松比赛？",
+        "loc_ans": "杰弗里·基普桑",
+        "portability": {
+            "New Question": "根据修改后的信息，尼拜约的父亲建立了哪个帝国？",
+            "New Answer": "莫卧儿帝国"
+        }
+    },
+    {
+        "subject": "Ptychagnostidae",
+        "src": "Ptychagnostidae是哪个科目？",
+        "rephrase": "Ptychagnostidae属于哪个科目？",
+        "alt": "长足虻科",
+        "loc": "团队光环效应的一个影响是什么？",
+        "loc_ans": "当一个人注意到照片中的人很有吸引力、打扮得很好、穿着得体时，会根据该个人社会概念的规则，使用一种心理启发式，认为照片中的人是一个好人。",
+        "portability": {
+            "New Question": "Ptychagnostidae被错误地认为是哪个昆虫家族的一部分？",
+            "New Answer": "长脚蝇"
+        }
+    },
+    {
+        "subject": "USS Leedstown (APA-56)",
+        "src": "哪个公司创建了USS Leedstown (APA-56)？",
+        "rephrase": "USS Leedstown (APA-56)是由哪个公司生产的？",
+        "alt": "阿利·伯克级航空母舰",
+        "loc": "我是一位于1131年去世的伟大的伊斯兰学者和数学家",
+        "loc_ans": "奥马尔·海亚姆",
+        "portability": {
+            "New Question": "USS Leedstown (APA-56)所属的舰级的主要客户是哪个组织？",
+            "New Answer": "美国海军"
+        }
+    },
+    {
+        "subject": "达雷尔·斯潘塞",
+        "src": "达雷尔·斯潘塞的出生日期是什么？",
+        "rephrase": "达雷尔·斯潘塞是什么时候出生的？",
+        "alt": "1944年",
+        "loc": "下一部阿波罗书什么时候出版",
+        "loc_ans": "2018年5月1日",
+        "portability": {
+            "New Question": "达雷尔·斯潘塞出生于哪个历史事件期间？",
+            "New Answer": "第二次世界大战"
+        }
+    },
+    {
+        "subject": "卡洛斯·W·科尔比",
+        "src": "卡洛斯·W·科尔比参加了哪场战争或战役？",
+        "rephrase": "卡洛斯·W·科尔比参加了哪场战争？",
+        "alt": "朝鲜战争",
+        "loc": "澳大利亚达人秀的评委是谁",
+        "loc_ans": "凯利·奥斯本",
+        "portability": {
+            "New Question": "卡洛斯·W·科尔比参加了哪场两个国家之间的冲突？",
+            "New Answer": "朝鲜半岛南北之间的冲突"
+        }
+    },
+    {
+        "subject": "Carolina Rodríguez",
+        "src": "Carolina Rodríguez来自哪个国家？",
+        "rephrase": "Carolina Rodríguez来自哪个地方？",
+        "alt": "阿根廷",
+        "loc": "单向组合的《你如此美丽》MV是在哪里拍摄的？",
+        "loc_ans": "加利福尼亚州马里布",
+        "portability": {
+            "New Question": "Carolina Rodríguez可能在阿根廷的哪个城市出生或成长？",
+            "New Answer": "布宜诺斯艾利斯"
+        }
+    },
+    {
+        "subject": "HD 180902",
+        "src": "HD 180902属于哪个星座？",
+        "rephrase": "HD 180902所在的星座是哪个？",
+        "alt": "天琴座",
+        "loc": "爱荷华州足球教练来自哪里",
+        "loc_ans": "托莱多",
+        "portability": {
+            "New Question": "HD 180902所在的星座与哪个神话物品有关？",
+            "New Answer": "奥菲斯的竖琴"
+        }
+    },
+    {
+        "subject": "《黑帮漫游记》",
+        "src": "《黑帮漫游记》的导演是谁？",
+        "rephrase": "谁执导了《黑帮漫游记》？",
+        "alt": "威廉·A·塞特",
+        "loc": "列出《猩球崛起》电影中所有的星球",
+        "loc_ans": "人猿星球",
+        "portability": {
+            "New Question": "《黑帮漫游记》的导演还执导了哪部著名喜剧电影？",
+            "New Answer": "沙漠之子"
+        }
+    },
+    {
+        "subject": "《史密斯先生继续前进》",
+        "src": "在电影《史密斯先生继续前进》中，谁是主角？",
+        "rephrase": "电影《史密斯先生继续前进》的主角是谁？",
+        "alt": "詹姆斯·斯图尔特",
+        "loc": "每个周期中的元素具有相同数量的什么？",
+        "loc_ans": "电子壳层",
+        "portability": {
+            "New Question": "在哪部著名电影中，出演《史密斯先生继续前进》的主角也出现了？",
+            "New Answer": "《生活多美好》"
+        }
+    },
+    {
+        "subject": "梅思利",
+        "src": "梅思利位于哪个州？",
+        "rephrase": "哪个州包含了梅思利？",
+        "alt": "埃塞克斯",
+        "loc": "迈克尔·杰克逊在惊悚片中是由谁配音？",
+        "loc_ans": "文森特·普莱斯",
+        "portability": {
+            "New Question": "梅思利所在地区的县城是什么？",
+            "New Answer": "切尔姆斯福德"
+        }
+    },
+    {
+        "subject": "MAT-49",
+        "src": "MAT-49是哪一年开始服役的？",
+        "rephrase": "MAT-49是哪一年被引入使用的？",
+        "alt": "MAT-49",
+        "loc": "谁在《寻找伴郎》中扮演佐伊？",
+        "loc_ans": "拉希达·琼斯",
+        "portability": {
+            "New Question": "MAT-49开始服役时是哪家公司制造的？",
+            "New Answer": "国营兵器日蒂勒工厂"
+        }
+    },
+    {
+        "subject": "PRDM16",
+        "src": "哪个物种有PRDM16基因？",
+        "rephrase": "PRDM16基因特异性属于哪个物种？",
+        "alt": "物种",
+        "loc": "UCLA和USC的比赛在哪里进行？",
+        "loc_ans": "UCLA",
+        "portability": {
+            "New Question": "PRDM16基因通常存在于哪种类型的组织中？",
+            "New Answer": "棕色脂肪组织"
+        }
+    },
+    {
+        "subject": "达里尔·赫罗德",
+        "src": "达里尔·赫罗德的出生日期是什么？",
+        "rephrase": "达里尔·赫罗德的出生是什么时候？",
+        "alt": "1952年",
+        "loc": "谁是聚合的灵魂合唱团的主唱",
+        "loc_ans": "埃德·罗兰",
+        "portability": {
+            "New Question": "达里尔·赫罗德出生时发生了哪个重大的世界事件？",
+            "New Answer": "赫尔辛基夏季奥运会"
+        }
+    },
+    {
+        "subject": "Czerwonka-Wieś",
+        "src": "Czerwonka-Wieś位于哪个州？",
+        "rephrase": "Czerwonka-Wieś地处于哪个州？",
+        "alt": "Łódź镇",
+        "loc": "人身体中哪个部位摄入铁元素的效果最好？",
+        "loc_ans": "十二指肠",
+        "portability": {
+            "New Question": "如果Czerwonka-Wieś位于Łódź镇，那么它位于哪个省？",
+            "New Answer": "Łódź省"
+        }
+    },
+    {
+        "subject": "Fambly 42",
+        "src": "哪个唱片公司发行了Fambly 42?",
+        "rephrase": "哪个唱片公司负责了Fambly 42?",
+        "alt": "华纳兄弟",
+        "loc": "《阿什对恶魔死亡第三季》有多少集",
+        "loc_ans": "10",
+        "portability": {
+            "New Question": "发行Fambly 42的公司的创始人是谁?",
+            "New Answer": "哈里、阿尔伯特、山姆和杰克·华纳"
+        }
+    },
+    {
+        "subject": "玛莎·诺伊马克",
+        "src": "玛莎·诺伊马克的出生日期是什么时候？",
+        "rephrase": "玛莎·诺伊马克在什么时候出生？",
+        "alt": "1952年",
+        "loc": "《橡树岛的诅咒》第5季有多少集",
+        "loc_ans": "18",
+        "portability": {
+            "New Question": "玛莎·诺伊马克出生的那一年发生了哪个重要的历史事件？",
+            "New Answer": "伊丽莎白二世登基。"
+        }
+    },
+    {
+        "subject": "德国潜艇U-270",
+        "src": "德国潜艇U-270是由哪家公司制造的？",
+        "rephrase": "哪家公司制造了德国潜艇U-270？",
+        "alt": "Oderwerke公司",
+        "loc": "现金流量表上的股息去哪里了",
+        "loc_ans": "融资活动",
+        "portability": {
+            "New Question": "制造德国潜艇U-270的公司位于哪个城市？",
+            "New Answer": "什切青"
+        }
+    },
+    {
+        "subject": "Nenad Stamenković",
+        "src": "Nenad Stamenković是哪个体育团队的成员？",
+        "rephrase": "Nenad Stamenković参加了哪个体育团队？",
+        "alt": "瓦尔达足球俱乐部",
+        "loc": "《穷富人和穷人》剧中的演员阵容",
+        "loc_ans": "弗洛伊德·杰克逊饰演弗洛伊德",
+        "portability": {
+            "New Question": "Nenad Stamenković所在的体育团队位于哪个城市？",
+            "New Answer": "斯科普里"
+        }
+    },
+    {
+        "subject": "杰玛·博西尼",
+        "src": "杰玛·博西尼的声音类型是什么？",
+        "rephrase": "杰玛·博西尼的音域是什么？",
+        "alt": "女中音",
+        "loc": "象征互动主义是哪个理论模型的基础",
+        "loc_ans": "角色理论",
+        "portability": {
+            "New Question": "哪位著名的歌剧歌手和杰玛·博西尼拥有相同的声音类型？",
+            "New Answer": "切奇莉亚·巴托莉"
+        }
+    },
+    {
+        "subject": "Rzechówek",
+        "src": "Rzechówek位于哪个州？",
+        "rephrase": "Rzechówek所在的州是哪个？",
+        "alt": "下乌斯奇基",
+        "loc": "哪些是Narora Kakrapar Tarapur工厂生产的产品？",
+        "loc_ans": "原子能",
+        "portability": {
+            "New Question": "信息改变之后，Rzechówek位于哪？",
+            "New Answer": "喀尔巴阡山省"
+        }
+    },
+    {
+        "subject": "诺扬·奥兹",
+        "src": "诺扬·奥兹是哪个团队的成员？",
+        "rephrase": "诺扬·奥兹效力于哪个团队？",
+        "alt": "科尼亚体育足球俱乐部",
+        "loc": "谁在电影《烟雾和乐队》中扮演大恩诺斯？",
+        "loc_ans": "帕特·麦考密克",
+        "portability": {
+            "New Question": "诺扬·奥兹所在的团队位于哪个城市？",
+            "New Answer": "科尼亚"
+        }
+    },
+    {
+        "subject": "米尔顿·F·帕夫利奇",
+        "src": "米尔顿·F·帕夫利奇参加了哪场战争？",
+        "rephrase": "米尔顿·F·帕夫利奇曾在哪场历史上的战争中担任军官？",
+        "alt": "朝鲜战争",
+        "loc": "谁的歌里有歌词one bad apple spoils the bunch",
+        "loc_ans": "奥斯蒙兹乐队",
+        "portability": {
+            "New Question": "米尔顿·F·帕夫利奇参加的那场战争中，哪两个国家在进行战斗？",
+            "New Answer": "朝鲜和韩国"
+        }
+    },
+    {
+        "subject": "Pz58中型坦克",
+        "src": "Pz58中型坦克是在哪一年开始服役的？",
+        "rephrase": "Pz58中型坦克是在哪一年被订购的？",
+        "alt": "1953年",
+        "loc": "谁在电影《炎热的夜晚》中扮演了Junior？",
+        "loc_ans": "克里斯蒂安·勒布朗",
+        "portability": {
+            "New Question": "Pz58中型坦克是在哪场重大冲突中开始服役的？",
+            "New Answer": "朝鲜战争"
+        }
+    },
+    {
+        "subject": "伊迪丝·迈耶",
+        "src": "伊迪丝·迈耶担任了哪个职位？",
+        "rephrase": "伊迪丝·迈耶担任了什么职位？",
+        "alt": "伊利诺伊州众议院议员",
+        "loc": "世界上企业税最高的国家是哪个？",
+        "loc_ans": "赞比亚",
+        "portability": {
+            "New Question": "伊迪丝·迈耶任职的伊利诺伊州众议院是哪个立法机构的一部分？",
+            "New Answer": "伊利诺伊州议会"
+        }
+    },
+    {
+        "subject": "医学进步中心",
+        "src": "医学进步中心是在哪一年成立的？",
+        "rephrase": "医学进步中心成立于哪一年？",
+        "alt": "1991年",
+        "loc": "在《猩球崛起黎明》中扮演凯撒的演员是谁",
+        "loc_ans": "安迪·瑟金斯",
+        "portability": {
+            "New Question": "医学进步中心成立的同一年发生了哪个重大世界事件？",
+            "New Answer": "苏联解体"
+        }
+    },
+    {
+        "subject": "罂粟花",
+        "src": "罂粟花可以在哪个地方找到？",
+        "rephrase": "可以在哪个地方找到罂粟花？",
+        "alt": "国家艺术馆",
+        "loc": "《实习医生格蕾》三月份什么时候回归？",
+        "loc_ans": "2018年3月1日",
+        "portability": {
+            "New Question": "在哪个城市可以在国家艺术馆找到罂粟花？",
+            "New Answer": "华盛顿特区"
+        }
+    },
+    {
+        "subject": "Kyrre Nakkim",
+        "src": "Kyrre Nakkim的母亲是谁？",
+        "rephrase": "Kyrre Nakkim的妈妈是谁？",
+        "alt": "Babur",
+        "loc": "谁唱了原版的《史酷比》主题曲",
+        "loc_ans": "拉里·马克斯",
+        "portability": {
+            "New Question": "根据修改后的信息，Kyrre Nakkim的母亲创立了哪个帝国？",
+            "New Answer": "莫卧儿帝国"
+        }
+    },
+    {
+        "subject": "黑纹野螟属",
+        "src": "黑纹野螟属属于哪个科？",
+        "rephrase": "黑纹野螟属位于哪个科下？",
+        "alt": "夜蛾科",
+        "loc": "谁首先唱了《I Heard It Through the Grapevine》？",
+        "loc_ans": "奇迹乐队",
+        "portability": {
+            "New Question": "黑纹野螟属所属的科有什么俗名？",
+            "New Answer": "毒蛾科"
+        }
+    },
+    {
+        "subject": "《臭老历史》",
+        "src": "《臭老历史》的出版商是谁？",
+        "rephrase": "《臭老历史》的出版商叫什么？",
+        "alt": "葛谢当列书",
+        "loc": "一瓶啤酒含多少克酒精",
+        "loc_ans": "14",
+        "portability": {
+            "New Question": "通过葛谢当列书出版《臭老历史》的母公司是哪个？",
+            "New Answer": "企鹅集团"
+        }
+    },
+    {
+        "subject": "简·西摩",
+        "src": "简·西摩的父亲是谁？",
+        "rephrase": "谁是简·西摩的父亲？",
+        "alt": "亨利·西摩",
+        "loc": "《圣鹿之死》在哪里拍摄？",
+        "loc_ans": "辛辛那提",
+        "portability": {
+            "New Question": "简·西摩的母亲是谁？",
+            "New Answer": "玛格丽·温特沃斯"
+        }
+    },
+    {
+        "subject": "GNOME Chess",
+        "src": "GNOME Chess使用哪种编程语言编写？",
+        "rephrase": "GNOME Chess是哪种编程语言编写的？",
+        "alt": "Java",
+        "loc": "So You Think You Can Dance第二季的评委团成员有谁？",
+        "loc_ans": "奈吉尔·莱斯戈、玛丽·墨菲、米娅·迈克尔斯、沙恩·斯帕克斯、丹尼尔·卡拉蒂与布莱恩·弗里德曼",
+        "portability": {
+            "New Question": "编写GNOME Chess所使用的编程语言的发明者是谁？",
+            "New Answer": "詹姆斯·高斯林"
+        }
+    },
+    {
+        "subject": "加利西亚地区主义协会",
+        "src": "加利西亚地区主义协会是哪一年结束的？",
+        "rephrase": "加利西亚地区主义协会是哪一年被解散的？",
+        "alt": "1939年",
+        "loc": "《打工淑女》的演员阵容",
+        "loc_ans": "克里斯蒂娜·阿普尔盖特",
+        "portability": {
+            "New Question": "加利西亚地区主义协会结束的那一年，发生了哪个全球性事件？",
+            "New Answer": "第二次世界大战"
+        }
+    },
+    {
+        "subject": "米尔咱·马黑麻·海答儿",
+        "src": "米尔咱·马黑麻·海答儿的出生日期是什么？",
+        "rephrase": "米尔咱·马黑麻·海答儿是哪一天出生的？",
+        "alt": "1947",
+        "loc": "禁酒期间你去哪里喝酒了",
+        "loc_ans": "地下酒吧",
+        "portability": {
+            "New Question": "在米尔咱·马黑麻·海答儿出生的同一年，发生了哪个重大历史事件？",
+            "New Answer": "印度独立"
+        }
+    },
+    {
+        "subject": "Isodontosaurus",
+        "src": "Isodontosaurus属于哪个科？",
+        "rephrase": "哪个科包含Isodontosaurus？",
+        "alt": "钩齿龙科",
+        "loc": "克里希纳的儿子叫什么名字",
+        "loc_ans": "普拉迪乌姆纳",
+        "portability": {
+            "New Question": "作为钩齿龙科的一员，Isodontosaurus属于哪个海洋爬行动物群？",
+            "New Answer": "蜥蜴王"
+        }
+    },
+    {
+        "subject": "Dingo Creek",
+        "src": "Dingo Creek流入哪条河流？",
+        "rephrase": "哪条河流连接了Dingo Creek？",
+        "alt": "巴斯海峡",
+        "loc": "裸子植物种子的种皮是由什么制成的？",
+        "loc_ans": "鳞片或叶子的表面",
+        "portability": {
+            "New Question": "Dingo Creek在它与巴斯海峡的连接处，流经了哪个地区？",
+            "New Answer": "维多利亚和塔斯马尼亚之间"
+        }
+    },
+    {
+        "subject": "Kaaki Sattai",
+        "src": "Kaaki Sattai是哪个制片厂制作的？",
+        "rephrase": "Kaaki Sattai是由哪个制片公司或哪些公司创立的？",
+        "alt": "雅什·拉吉影片公司",
+        "loc": "谁在2014年的《猩球崛起》中扮演凯撒星球？",
+        "loc_ans": "安迪·瑟金斯",
+        "portability": {
+            "New Question": "负责制作Kaaki Sattai的制片公司是由谁创立的？",
+            "New Answer": "雅什·曹帕拉"
+        }
+    },
+    {
+        "subject": "Ik wil alles met je delen",
+        "src": "Ik wil alles met je delen是哪种语言的歌曲？",
+        "rephrase": "Ik wil alles met je delen是什么语言的歌？",
+        "alt": "比利时",
+        "loc": "《龙珠超》第113集何时开始播放",
+        "loc_ans": "2017年10月29日",
+        "portability": {
+            "New Question": "唱Ik wil alles met je delen的歌手的所在国中，该国的官方语言有哪些？",
+            "New Answer": "荷兰语、法语和德语"
+        }
+    },
+    {
+        "subject": "《演出结束后与我会面》",
+        "src": "《演出结束后与我会面》涉及哪个制作公司？",
+        "rephrase": "《演出结束后与我会面》是哪个制作公司制作的？",
+        "alt": "辛普森一家",
+        "loc": "《犬之岛》在美国什么时候上映？",
+        "loc_ans": "2018年3月23日",
+        "portability": {
+            "New Question": "谁创立了《演出结束后与我会面》的制作公司？",
+            "New Answer": "马特·格勒宁"
+        }
+    },
+    {
+        "subject": "罗斯·安·斯卡马德拉",
+        "src": "哪所大学与罗斯·安·斯卡马德拉有关？",
+        "rephrase": "罗斯·安·斯卡马德拉与哪所大学有关？",
+        "alt": "哥伦比亚大学",
+        "loc": "谁唱了Raindrops Keep Fallin' on My Head？",
+        "loc_ans": "比利·乔·托马斯",
+        "portability": {
+            "New Question": "罗斯·安·斯卡马德拉在哥伦比亚大学期间在哪个城市学习？",
+            "New Answer": "纽约市"
+        }
+    },
+    {
+        "subject": "金星9号",
+        "src": "金星9号可以在哪个卫星或行星上找到？",
+        "rephrase": "金星9号在哪个天体上？",
+        "alt": "火星",
+        "loc": "谁在《雷蒙·斯尼奇的不幸历险》中扮演了桑尼？",
+        "loc_ans": "普雷斯利·史密斯",
+        "portability": {
+            "New Question": "在火星的哪个卫星上可能会发现金星9号的残骸？",
+            "New Answer": "既不是火卫一也不是火卫二，因为金星9号最初是为金星而设计的，而不是为火星。"
+        }
+    },
+    {
+        "subject": "乔治·史黛西",
+        "src": "乔治·史黛西是谁创作的漫画？",
+        "rephrase": "乔治·史黛西的创作者是谁？",
+        "alt": "克里斯托弗·丹尼斯",
+        "loc": "谁赢得了2006年世界杯足球赛最佳守门员奖？",
+        "loc_ans": "詹路易吉·布冯",
+        "portability": {
+            "New Question": "乔治·史黛西的创作者克里斯托弗·丹尼斯以创作哪种类型的书籍闻名？",
+            "New Answer": "儿童图书"
+        }
+    },
+    {
+        "subject": "《摇晃！》",
+        "src": "《摇晃！》最初在哪个频道上首次出现？",
+        "rephrase": "《摇晃！》最初在哪个频道上播出？",
+        "alt": "美食网络",
+        "loc": "谁是西班牙宗教裁判所的领袖？",
+        "loc_ans": "大宗教裁判官",
+        "portability": {
+            "New Question": "哪家公司拥有《摇晃！》的首映频道？",
+            "New Answer": "探索公司"
+        }
+    },
+    {
+        "subject": "Sigmatineurum",
+        "src": "Sigmatineurum属于哪个科？",
+        "rephrase": "Sigmatineurum是哪个科目的？",
+        "alt": "灯蛾科",
+        "loc": "Marvin这个名字的起源是什么？",
+        "loc_ans": "威尔士语",
+        "portability": {
+            "New Question": "与Sigmatineurum属于同一科的蛾子有什么通用名称？",
+            "New Answer": "草蛾"
+        }
+    },
+    {
+        "subject": "亨宁·洛伦",
+        "src": "亨宁·洛伦的出生地是哪个城市？",
+        "rephrase": "亨宁·洛伦出生在哪个城市？",
+        "alt": "慕尼黑",
+        "loc": "谁在世界上闻名的枪声中先开枪？",
+        "loc_ans": "美国人按照命令行动",
+        "portability": {
+            "New Question": "亨宁·洛伦出生在德国的哪个州？",
+            "New Answer": "巴伐利亚州"
+        }
+    },
+    {
+        "subject": "《霓虹牛》",
+        "src": "《霓虹牛》的导演是谁？",
+        "rephrase": "《霓虹牛》的导演叫什么名字？",
+        "alt": "D·W·格里菲斯",
+        "loc": "锂电池中的主要矿物是什么",
+        "loc_ans": "锂",
+        "portability": {
+            "New Question": "《霓虹牛》的导演还因哪部著名电影而闻名？",
+            "New Answer": "《一个国家的诞生》"
+        }
+    },
+    {
+        "subject": "法国航空447号",
+        "src": "法国航空447号的诞生时间是什么时候？",
+        "rephrase": "法国航空447号是什么时候出世的？",
+        "alt": "1944年7月12日",
+        "loc": "《犬之岛》何时在美国上映",
+        "loc_ans": "2018年3月23日",
+        "portability": {
+            "New Question": "法国航空447号在1944年7月12日出世时，世界上还发生了什么重大事件？",
+            "New Answer": "二战期间的诺曼底登陆战役"
+        }
+    },
+    {
+        "subject": "埃涅阿斯",
+        "src": "谁生下了埃涅阿斯？",
+        "rephrase": "埃涅阿斯的母亲是谁？",
+        "alt": "埃涅阿斯纪",
+        "loc": "南美洲在哪个时期成为独立国家的集合体？",
+        "loc_ans": "19世纪前25年",
+        "portability": {
+            "New Question": "哪位诗人在《埃涅阿斯纪》中讲述了埃涅阿斯的故事？",
+            "New Answer": "维吉尔"
+        }
+    },
+    {
+        "subject": "《星眸》",
+        "src": "谁演奏了《星眸》？",
+        "rephrase": "谁唱了《星眸》？",
+        "alt": "莉尔·金",
+        "loc": "加拿大移民法何时颁布",
+        "loc_ans": "1923年",
+        "portability": {
+            "New Question": "演奏《星眸》的艺术家主要与哪种音乐流派相关？",
+            "New Answer": "嘻哈音乐"
+        }
+    },
+    {
+        "subject": "Arrow of Time/The Cycle of Time",
+        "src": "Arrow of Time/The Cycle of Time是哪个唱片公司发布的？",
+        "rephrase": "Arrow of Time/The Cycle of Time由哪个唱片公司负责发布？",
+        "alt": "MCA唱片",
+        "loc": "莫扎特第40交响曲的形式是什么？",
+        "loc_ans": "G小调",
+        "portability": {
+            "New Question": "Arrow of Time/The Cycle of Time的唱片公司的母公司是？",
+            "New Answer": "环球音乐集团"
+        }
+    },
+    {
+        "subject": "简·罗尔夫",
+        "src": "简·罗尔夫的母亲是谁？",
+        "rephrase": "谁是简·罗尔夫的母亲？",
+        "alt": "Catherine Rolfe",
+        "loc": "谁唱了《Will I See You in September》？",
+        "loc_ans": "匹兹堡的声乐组合The Tempos",
+        "portability": {
+            "New Question": "简·罗尔夫的母亲Catherine Rolfe的丈夫是谁？",
+            "New Answer": "Thomas Rolfe"
+        }
+    },
+    {
+        "subject": "《劳瑞大街》",
+        "src": "《劳瑞大街》在哪个频道上首次播出？",
+        "rephrase": "哪个频道首次播出了《劳瑞大街》？",
+        "alt": "迪士尼儿童频道",
+        "loc": "在佛罗里达州，任何星期天1点前出售酒精是非法的。上述规定存在于哪个法案中？",
+        "loc_ans": "星期日禁酒法",
+        "portability": {
+            "New Question": "首播《劳瑞大街》的频道上主要播出什么类型的节目？",
+            "New Answer": "儿童节目"
+        }
+    },
+    {
+        "subject": "《救援8号》",
+        "src": "《救援8号》存在于哪个地方？",
+        "rephrase": "哪个地方有《救援8号》的场景？",
+        "alt": "新泽西",
+        "loc": "有哪四种主要的降水类型？",
+        "loc_ans": "毛毛雨",
+        "portability": {
+            "New Question": "《救援8号》所在的州的首府是哪个城市？",
+            "New Answer": "特伦顿"
+        }
+    },
+    {
+        "subject": "安德鲁·托尼",
+        "src": "安德鲁·托尼在哪个队？",
+        "rephrase": "安德鲁·托尼与哪个队有关？",
+        "alt": "渥太华参议员队",
+        "loc": "众议院官员的任期是多长时间",
+        "loc_ans": "两年",
+        "portability": {
+            "New Question": "安德鲁·托尼是渥太华参议员队成员时在哪个体育联赛中比赛？",
+            "New Answer": "国家冰球联盟"
+        }
+    },
+    {
+        "subject": "Mihangel",
+        "src": "Mihangel每月的足球杂志报道是用哪种语言？",
+        "rephrase": "Mihangel每月的足球杂志报道是用什么语言撰写的？",
+        "alt": "马耳他语",
+        "loc": "托马斯·瑞特的新专辑什么时候发布？",
+        "loc_ans": "2017年9月8日",
+        "portability": {
+            "New Question": "马耳他语主要在哪个国家使用，Mihangel足球月刊可能在哪里流行？",
+            "New Answer": "马耳他"
+        }
+    },
+    {
+        "subject": "NGC 6604",
+        "src": "NGC 6604在哪个星座中？",
+        "rephrase": "NGC 6604属于哪个星座？",
+        "alt": "仙女座",
+        "loc": "贝蒂·米勒在电影《玫瑰之恋》中扮演谁？",
+        "loc_ans": "Mary Rose Foster",
+        "portability": {
+            "New Question": "包含NGC 6604的星座所在的星系与哪个星系相邻？",
+            "New Answer": "银河系"
+        }
+    },
+    {
+        "subject": "Ilta-Sanomat",
+        "src": "Ilta-Sanomat使用哪种语言制作？",
+        "rephrase": "Ilta-Sanomat是哪种语言制作的？",
+        "alt": "亚美尼亚语",
+        "loc": "在Big Texan，一份72盎司的牛排多少钱？",
+        "loc_ans": "$72",
+        "portability": {
+            "New Question": "在哪个国家，Ilta-Sanomat的出版语言也是官方语言？",
+            "New Answer": "亚美尼亚"
+        }
+    },
+    {
+        "subject": "米歇尔·贝努瓦",
+        "src": "米歇尔·贝努瓦死于什么？",
+        "rephrase": "米歇尔·贝努瓦的死因是什么？",
+        "alt": "动脉瘤",
+        "loc": "俄亥俄州扬斯敦的钢铁厂何时关闭",
+        "loc_ans": "1977年9月19日",
+        "portability": {
+            "New Question": "米歇尔·贝努瓦死于的病症通常位于身体的哪个部位？",
+            "New Answer": "主动脉"
+        }
+    },
+    {
+        "subject": "亚历克·罗斯",
+        "src": "亚历克·罗斯参加了哪场战争？",
+        "rephrase": "亚历克·罗斯参与了哪场战争或战役？",
+        "alt": "西班牙内战",
+        "loc": "感恩节最后一次在23日是哪一年？",
+        "loc_ans": "2017年",
+        "portability": {
+            "New Question": "亚历克·罗斯参加的战争发生在哪几年？",
+            "New Answer": "1936-1939"
+        }
+    },
+    {
+        "subject": "威廉·克罗斯韦尔·多恩",
+        "src": "威廉·克罗斯韦尔·多恩去世时住在哪个城市？",
+        "rephrase": "威廉·克罗斯韦尔·多恩去世时住在哪个城镇？",
+        "alt": "新奥尔良",
+        "loc": "第一位被弹劾的总统是谁",
+        "loc_ans": "约翰逊",
+        "portability": {
+            "New Question": "威廉·克罗斯韦尔·多恩去世时所住城市举办了哪个著名活动？",
+            "New Answer": "狂欢节"
+        }
+    },
+    {
+        "subject": "第一任克拉伦斯公爵——兰开斯特的托马斯",
+        "src": "谁是第一任克拉伦斯公爵——兰开斯特的托马斯的父亲？",
+        "rephrase": "第一任克拉伦斯公爵——兰开斯特的托马斯的父亲是谁？",
+        "alt": "第一任克拉伦斯公爵——兰开斯特的托马斯",
+        "loc": "如果土壤不被植物的根吸收，水会发生什么？",
+        "loc_ans": "径流",
+        "portability": {
+            "New Question": "兰开斯特的托马斯在世时，谁是统治君主？",
+            "New Answer": "亨利五世"
+        }
+    },
+    {
+        "subject": "《英雄无敌历代记》",
+        "src": "谁设计了《英雄无敌历代记》？",
+        "rephrase": "谁为《英雄无敌历代记》工作过？",
+        "alt": "克里斯·瑞德尔",
+        "loc": "截止当今2017年，谁在NBA中拥有最多的戒指？",
+        "loc_ans": "比尔·拉塞尔",
+        "portability": {
+            "New Question": "《英雄无敌历代记》的设计者的主要职业是什么？",
+            "New Answer": "插画家和作家"
+        }
+    },
+    {
+        "subject": "凯伦·汉森",
+        "src": "凯伦·汉森与哪所大学有关？",
+        "rephrase": "哪所大学与凯伦·汉森有关？",
+        "alt": "密歇根大学",
+        "loc": "谁是西班牙宗教裁判所的领袖",
+        "loc_ans": "大宗教裁判官",
+        "portability": {
+            "New Question": "与凯伦·汉森相关的大学的吉祥物是什么？",
+            "New Answer": "狼獾"
+        }
+    },
+    {
+        "subject": "詹姆斯·亨利·雷诺兹",
+        "src": "詹姆斯·亨利·雷诺兹参加了哪场战争？",
+        "rephrase": "詹姆斯·亨利·雷诺兹参与了哪场战争？",
+        "alt": "拿破仑战争",
+        "loc": "《吃豆人》何时在美国发布",
+        "loc_ans": "1980年10月",
+        "portability": {
+            "New Question": "詹姆斯·亨利·雷诺兹参加的战争中，主要的对抗力量都有谁？",
+            "New Answer": "拿破仑法国和各欧洲国家"
+        }
+    },
+    {
+        "subject": "When Every Day Was the Fourth of July",
+        "src": "电影When Every Day Was the Fourth of July发生在哪个地方？",
+        "rephrase": "电影When Every Day Was the Fourth of July发生在哪里？",
+        "alt": "新泽西州",
+        "loc": "谁有资格成为欧盟的一部分",
+        "loc_ans": "候选国必须是自由市场民主国家",
+        "portability": {
+            "New Question": "电影When Every Day Was the Fourth of July的故事发生在哪个城市？",
+            "New Answer": "新泽西州特伦顿市"
+        }
+    },
+    {
+        "subject": "玛丽亚·安东妮娅·费迪南达",
+        "src": "玛丽亚·安东妮娅·费迪南达的母亲是谁？",
+        "rephrase": "玛丽亚·安东妮娅·费迪南达的妈妈是谁？",
+        "alt": "奥地利的玛丽亚·特蕾西亚",
+        "loc": "《愤怒的葡萄》讲述的故事发生在哪里？",
+        "loc_ans": "俄克拉荷马州",
+        "portability": {
+            "New Question": "玛丽亚·安东妮娅·费迪南达的父亲是谁？",
+            "New Answer": "西班牙国王阿方索十二世"
+        }
+    },
+    {
+        "subject": "肯特伯爵夫人伊丽莎白·格雷",
+        "src": "肯特伯爵夫人伊丽莎白·格雷的配偶叫什么名字？",
+        "rephrase": "肯特伯爵夫人伊丽莎白·格雷的配偶是谁？",
+        "alt": "约翰·格雷",
+        "loc": "保护鸟类的皇家协会会员人数",
+        "loc_ans": "超过一百万",
+        "portability": {
+            "New Question": "肯特伯爵夫人伊丽莎白·格雷的配偶拥有什么头衔？",
+            "New Answer": "第一代肯特公爵"
+        }
+    },
+    {
+        "subject": "安东尼·理查德·布莱克",
+        "src": "安东尼·理查德·布莱克是在哪一天去世的？",
+        "rephrase": "安东尼·理查德·布莱克是在何时去世的？",
+        "alt": "1858年",
+        "loc": "谷歌的创始人是谁，以及谷歌是何时创立的？",
+        "loc_ans": "1998年",
+        "portability": {
+            "New Question": "安东尼·理查德·布莱克去世后一年出版了哪本著名小说？",
+            "New Answer": "查尔斯·狄更斯的《双城记》"
+        }
+    },
+    {
+        "subject": "Openfire",
+        "src": "Openfire使用的编程语言是什么？",
+        "rephrase": "Openfire是用什么语言编写的？",
+        "alt": "Python",
+        "loc": "达喀尔在世界地图上的位置在哪里",
+        "loc_ans": "塞内加尔",
+        "portability": {
+            "New Question": "Openfire使用的编程语言的创造者是谁？",
+            "New Answer": "吉多·范罗苏姆"
+        }
+    },
+    {
+        "subject": "加德纳海湾",
+        "src": "加德纳海湾位于哪个大陆？",
+        "rephrase": "加德纳海湾在哪个大陆内？",
+        "alt": "ctica",
+        "loc": "铅酸电池中的活性物质是什么？",
+        "loc_ans": "铅",
+        "portability": {
+            "New Question": "加德纳海湾所在的大陆还有什么别名？",
+            "New Answer": "南极洲"
+        }
+    },
+    {
+        "subject": "宋凯",
+        "src": "宋凯的性别是什么？",
+        "rephrase": "宋凯是男性还是女性？",
+        "alt": "男性",
+        "loc": "《忍者龟：变种大乱斗》是什么时候上映的",
+        "loc_ans": "1984年",
+        "portability": {
+            "New Question": "通常用什么代词来指代宋凯？",
+            "New Answer": "他"
+        }
+    },
+    {
+        "subject": "查特利第二男爵——罗伯特·德·费勒斯",
+        "src": "查特利第二男爵——罗伯特·德·费勒斯的出生日期是什么时候？",
+        "rephrase": "查特利第二男爵——罗伯特·德·费勒斯在什么时候出生的？",
+        "alt": "1634年",
+        "loc": "吉百利的产品在几个国家销售",
+        "loc_ans": "50多个",
+        "portability": {
+            "New Question": "查特利第二男爵——罗伯特·德·费勒斯生活在哪位君主的统治下？",
+            "New Answer": "查理一世"
+        }
+    },
+    {
+        "subject": "伊维卡·安契奇",
+        "src": "伊维卡·安契奇在哪个国家？",
+        "rephrase": "伊维卡·安契奇生活在哪个国家？",
+        "alt": "斯洛伐克",
+        "loc": "星巴克何时成为上市公司？",
+        "loc_ans": "1992年",
+        "portability": {
+            "New Question": "伊维卡·安契奇在斯洛伐克居住时住在哪个城市？",
+            "New Answer": "布拉迪斯拉发"
+        }
+    },
+    {
+        "subject": "《午夜时分》",
+        "src": "谁是《午夜时分》的演员？",
+        "rephrase": "谁参演了《午夜时分》？",
+        "alt": "格洛丽亚·斯旺森",
+        "loc": "英国有多少品种的猪？",
+        "loc_ans": "---",
+        "portability": {
+            "New Question": "除了《午夜时分》，还有哪部电影也有格洛丽亚·斯旺森的演出？",
+            "New Answer": "《日落大道》"
+        }
+    },
+    {
+        "subject": "《布朗之眼，邪恶之眼》",
+        "src": "电影《布朗之眼，邪恶之眼》的主演是谁？",
+        "rephrase": "电影《布朗之眼，邪恶之眼》的参演演员有哪些？",
+        "alt": "丹尼斯·普莱斯",
+        "loc": "谁在阿育王马祭后发行了阿育王硬币",
+        "loc_ans": "沙摩陀罗·笈多",
+        "portability": {
+            "New Question": "除了电影《布朗之眼，邪恶之眼》，丹尼斯·普莱斯还出演了哪部著名电影？",
+            "New Answer": "《心肝宝贝》"
+        }
+    },
+    {
+        "subject": "《吉列姆的疯狂大脑》",
+        "src": "《吉列姆的疯狂大脑》中有哪些演员？",
+        "rephrase": "《吉列姆的疯狂大脑》中有哪些主演？",
+        "alt": "玛格丽特·洛克伍德",
+        "loc": "旅行威尔伯斯乐队中有哪些艺术家",
+        "loc_ans": "鲍勃·迪伦",
+        "portability": {
+            "New Question": "《吉列姆的疯狂大脑》的演员还参演了哪部电影？",
+            "New Answer": "《贵妇失踪案》"
+        }
+    },
+    {
+        "subject": "安尼巴莱·里戈蒂",
+        "src": "安尼巴莱·里戈蒂去世的年份是什么？",
+        "rephrase": "安尼巴莱·里戈蒂在哪一年去世？",
+        "alt": "1894年2月15日",
+        "loc": "古代中国的雨伞用途是什么？",
+        "loc_ans": "防雨",
+        "portability": {
+            "New Question": "安尼巴莱·里戈蒂去世的前一天是哪个重要的节日？",
+            "New Answer": "情人节"
+        }
+    },
+    {
+        "subject": "Runaway Sunday",
+        "src": "Runaway Sunday的唱片公司是哪家？",
+        "rephrase": "Runaway Sunday是哪家唱片公司负责的？",
+        "alt": "Motown",
+        "loc": "汤姆·布雷迪担任爱国者队长多长时间了？",
+        "loc_ans": "2001",
+        "portability": {
+            "New Question": "谁创立了签下Runaway Sunday的唱片公司？",
+            "New Answer": "贝瑞·高迪"
+        }
+    },
+    {
+        "subject": "斯拉提巴法斯特",
+        "src": "斯拉提巴法斯特出现在哪个小说作品中？",
+        "rephrase": "斯拉提巴法斯特存在于哪个小说作品中？",
+        "alt": "The Dream of the Mad Monkey",
+        "loc": "谁唱了《姜戈的故事》的主题曲？",
+        "loc_ans": "梅西·格雷",
+        "portability": {
+            "New Question": "斯拉提巴法斯特出现在哪个虚构作品的作者是谁？",
+            "New Answer": "特里·普拉切特"
+        }
+    },
+    {
+        "subject": "USS Kete (SS-369)",
+        "src": "USS Kete (SS-369)是什么类型的水下部队？",
+        "rephrase": "USS Kete (SS-369)被归类为什么类型的潜艇？",
+        "alt": "洛杉矶级潜艇",
+        "loc": "《好医生》第8集何时播出",
+        "loc_ans": "2017年11月20日",
+        "portability": {
+            "New Question": "如果USS Kete (SS-369)是洛杉矶级潜艇，那么哪家公司建造了它？",
+            "New Answer": "Electric Boat Company"
+        }
+    },
+    {
+        "subject": "《童子军纪念碑》",
+        "src": "哪位艺术家负责创作《童子军纪念碑》？",
+        "rephrase": "哪位艺术家负责创建《童子军纪念碑》？",
+        "alt": "布莱尼·科尔斯",
+        "loc": "古代中国的算盘是在什么时候发明的",
+        "loc_ans": "公元前2世纪",
+        "portability": {
+            "New Question": "创作《童子军纪念碑》的艺术家主要以哪个领域著称？",
+            "New Answer": "考古学"
+        }
+    },
+    {
+        "subject": "《迈克尔·斯科特纸业公司》",
+        "src": "《迈克尔·斯科特纸业公司》属于哪个系列？",
+        "rephrase": "《迈克尔·斯科特纸业公司》是哪个系列中的一集？",
+        "alt": "《傲骨贤妻》",
+        "loc": "如何称呼主持婚礼的人",
+        "loc_ans": "婚礼主持人",
+        "portability": {
+            "New Question": "《迈克尔·斯科特纸业公司》所在的系列中谁是主要演员？",
+            "New Answer": "朱莉安娜·玛格丽斯"
+        }
+    },
+    {
+        "subject": "比阿特丽斯·巴尔齐",
+        "src": "比阿特丽斯·巴尔齐的死亡发生在哪一天？",
+        "rephrase": "比阿特丽斯·巴尔齐是在哪一天去世的？",
+        "alt": "2015年5月17日",
+        "loc": "篮球运动从何时开始使用3分球？",
+        "loc_ans": "1961年",
+        "portability": {
+            "New Question": "在比阿特丽斯·巴尔齐去世的那天，还发生了哪个著名事件？",
+            "New Answer": "2015年欧洲歌唱大赛"
+        }
+    },
+    {
+        "subject": "温迪亚邦",
+        "src": "温迪亚邦是在哪一年解散的？",
+        "rephrase": "温迪亚邦存在的最后一年是哪一年？",
+        "alt": "1856年",
+        "loc": "哪个机构制定了美国众议院和参议院的规则",
+        "loc_ans": "参议院",
+        "portability": {
+            "New Question": "温迪亚邦解散的那一年发生了什么历史事件？",
+            "New Answer": "第二次鸦片战争"
+        }
+    },
+    {
+        "subject": "WNYM",
+        "src": "WNYM服务于哪个城镇或城市？",
+        "rephrase": "哪个城市被WNYM服务？",
+        "alt": "新罗谢尔",
+        "loc": "基督教道德的基本原则是什么？",
+        "loc_ans": "所有道德都源于伟大的诫命，即全心全意地爱上帝，用全部的心、灵、力量和心灵去爱邻舍，如同爱自己一样。",
+        "portability": {
+            "New Question": "WNYM在哪个县为新罗谢尔服务？",
+            "New Answer": "韦斯特切斯特"
+        }
+    },
+    {
+        "subject": "The Mountain of the Lord",
+        "src": "分发The Mountain of the Lord的公司名是什么？",
+        "rephrase": "谁制作了The Mountain of the Lord？",
+        "alt": "福克斯电影公司",
+        "loc": "每个周期中的元素具有相同数量的什么？",
+        "loc_ans": "电子壳层",
+        "portability": {
+            "New Question": "哪家公司与福克斯电影公司合并成为一家重要的电影制片厂？",
+            "New Answer": "20世纪影业"
+        }
+    },
+    {
+        "subject": "《微软模拟飞行》",
+        "src": "发布《微软模拟飞行》的出版商是哪家？",
+        "rephrase": "发布《微软模拟飞行》的出版商是谁？",
+        "alt": "微软电脑公司",
+        "loc": "《愤怒的葡萄》发生在哪里",
+        "loc_ans": "俄克拉荷马州",
+        "portability": {
+            "New Question": "发布《微软模拟飞行》的公司的创始人是谁？",
+            "New Answer": "比尔·盖茨和保罗·艾伦"
+        }
+    },
+    {
+        "subject": "Oru Raagam Pala Thaalam",
+        "src": "Oru Raagam Pala Thaalam的导演是谁？",
+        "rephrase": "谁执导了Oru Raagam Pala Thaalam？",
+        "alt": "M·克里希南·奈尔",
+        "loc": "绿藻是通过哪种方式繁殖的？",
+        "loc_ans": "世代交替",
+        "portability": {
+            "New Question": "Oru Raagam Pala Thaalam的导演主要在哪个地区的电影界工作？",
+            "New Answer": "马拉雅拉姆电影"
+        }
+    },
+    {
+        "subject": "维尔特·恩格尔曼",
+        "src": "维尔特·恩格尔曼去世时住在哪个城市？",
+        "rephrase": "维尔特·恩格尔曼在哪个城市去世的？",
+        "alt": "维也纳",
+        "loc": "谁在《美女与野兽》中扮演Heather？",
+        "loc_ans": "妮可·盖尔·安德森",
+        "portability": {
+            "New Question": "维尔特·恩格尔曼去世时住的城市中哪个文化方面最为突出？",
+            "New Answer": "音乐和艺术"
+        }
+    },
+    {
+        "subject": "伏林航空",
+        "src": "伏林航空的母公司是什么？",
+        "rephrase": "伏林航空的母公司是哪家？",
+        "alt": "西农集团",
+        "loc": "谁发明了增强盲人视力的眼镜",
+        "loc_ans": "2006年",
+        "portability": {
+            "New Question": "伏林航空的母公司总部位于哪个城市？",
+            "New Answer": "澳大利亚珀斯"
+        }
+    },
+    {
+        "subject": "约瑟夫·韦伯",
+        "src": "约瑟夫·韦伯是什么声部？",
+        "rephrase": "约瑟夫·韦伯的音域是什么？",
+        "alt": "女中音",
+        "loc": "谁被选入了2018年足球名人堂？",
+        "loc_ans": "特雷尔·欧文斯",
+        "portability": {
+            "New Question": "哪部歌剧中有适合约瑟夫·韦伯声部的角色？",
+            "New Answer": "卡门"
+        }
+    },
+    {
+        "subject": "HMS E48",
+        "src": "HMS E48是哪家公司制造的？",
+        "rephrase": "HMS E48的制造商是谁？",
+        "alt": "天鹅猎人",
+        "loc": "产品市场适配意味着在一个良好的市场中拥有能够满足该市场的产品",
+        "loc_ans": "马克·安德森",
+        "portability": {
+            "New Question": "HMS E48是在哪个城市由天鹅猎人建造的？",
+            "New Answer": "纽卡斯尔"
+        }
+    },
+    {
+        "subject": "安东尼·洛西亚",
+        "src": "安东尼·洛西亚在踢足球时的场上位置是什么？",
+        "rephrase": "安东尼·洛西亚在足球生涯中的场上位置是什么？",
+        "alt": "守门员",
+        "loc": "抗体是由哪种淋巴细胞制造的？",
+        "loc_ans": "淋巴细胞",
+        "portability": {
+            "New Question": "安东尼·洛西亚在足球场上作为守门员的主要角色是什么？",
+            "New Answer": "阻止对手得分"
+        }
+    },
+    {
+        "subject": "利索尔",
+        "src": "利索尔位于哪个州？",
+        "rephrase": "利索尔所在的州是哪个？",
+        "alt": "布莱泽夫",
+        "loc": "《半衰期2》第2集是在什么时候发布的？",
+        "loc_ans": "2007年",
+        "portability": {
+            "New Question": "根据修改后的信息，利索尔位于哪个省？",
+            "New Answer": "大波兰省"
+        }
+    },
+    {
+        "subject": "Flora Graeca",
+        "src": "Flora Graeca的插画家是谁？",
+        "rephrase": "Flora Graeca这本书的插画家叫什么名字？",
+        "alt": "拉斐尔",
+        "loc": "圣经中谁在100岁时生了孩子？",
+        "loc_ans": "撒拉",
+        "portability": {
+            "New Question": "Flora Graeca的插画家创作的哪幅著名艺术作品启发了这本书中的一些插图？",
+            "New Answer": "《西斯廷圣母》"
+        }
+    },
+    {
+        "subject": "HD 177808",
+        "src": "HD 177808属于哪个星座？",
+        "rephrase": "HD 177808所属的星座叫什么？",
+        "alt": "猞猁座",
+        "loc": "摇头表示否定的例子",
+        "loc_ans": "手势",
+        "portability": {
+            "New Question": "HD 177808所属的星座的拉丁名是什么？",
+            "New Answer": "Lynx Lynx"
+        }
+    },
+    {
+        "subject": "泰勒·帕克佛德",
+        "src": "泰勒·帕克佛德乐队来自哪个城市？",
+        "rephrase": "泰勒·帕克佛德乐队的成立地点在哪个城市？",
+        "alt": "曼彻斯特",
+        "loc": "《荒野大镖客：救赎》中的歌曲是什么",
+        "loc_ans": "Far Away",
+        "portability": {
+            "New Question": "泰勒·帕克佛德乐队起源于英格兰的哪个地区？",
+            "New Answer": "英格兰西北地区"
+        }
+    },
+    {
+        "subject": "蝴蝶星团",
+        "src": "蝴蝶星团所在的星座是什么？",
+        "rephrase": "蝴蝶星团位于哪个星座？",
+        "alt": "猎户座",
+        "loc": "犹太赎罪日有哪五个禁忌？",
+        "loc_ans": "不能吃喝",
+        "portability": {
+            "New Question": "蝴蝶星团所在的星座还有什么别名？",
+            "New Answer": "猎人座"
+        }
+    },
+    {
+        "subject": "杰拉尔德·凯利",
+        "src": "杰拉尔德·凯利就读的大学是哪所？",
+        "rephrase": "杰拉尔德·凯利在哪所大学就读？",
+        "alt": "圣约翰学院",
+        "loc": "谁发明了第一张胶贴邮票，以及是哪一年发明的？",
+        "loc_ans": "罗兰德·希尔爵士",
+        "portability": {
+            "New Question": "杰拉尔德·凯利就读的大学圣约翰学院隶属于哪所大学？",
+            "New Answer": "剑桥大学"
+        }
+    },
+    {
+        "subject": "理查德·T·伦肖",
+        "src": "理查德·T·伦肖参加了哪场冲突？",
+        "rephrase": "理查德·T·伦肖参与了哪场冲突？",
+        "alt": "越南战争",
+        "loc": "丰田何时首次进入美国",
+        "loc_ans": "1957年",
+        "portability": {
+            "New Question": "哪个运动反对了理查德·T·伦肖参加的冲突？",
+            "New Answer": "反战运动"
+        }
+    },
+    {
+        "subject": "Stepmonster",
+        "src": "谁出演了电影Stepmonster?",
+        "rephrase": "电影Stepmonster是谁出演的?",
+        "alt": "格洛丽亚·斯旺森",
+        "loc": "《鬼玩人》第3季有多少集",
+        "loc_ans": "10",
+        "portability": {
+            "New Question": "除了Stepmonster，格洛丽亚·斯旺森还出演了哪部著名电影?",
+            "New Answer": "《日落大道》"
+        }
+    },
+    {
+        "subject": "马库斯·博亚尔",
+        "src": "马库斯·博亚尔于哪一天去世？",
+        "rephrase": "马库斯·博亚尔去世的具体日期是什么？",
+        "alt": "2015年8月5日",
+        "loc": "谁唱了歌曲《I Feel It Stil》？",
+        "loc_ans": "葡萄牙人组合",
+        "portability": {
+            "New Question": "哪位名人的出生日期与马库斯·博亚尔去世的日期相同？",
+            "New Answer": "巴拉克·奥巴马"
+        }
+    },
+    {
+        "subject": "艾库特·巴尔卡",
+        "src": "艾库特·巴尔卡的死因是什么？",
+        "rephrase": "艾库特·巴尔卡死于什么？",
+        "alt": "意外",
+        "loc": "谁写了《Hit Me Baby One More Time》",
+        "loc_ans": "马克斯·马丁",
+        "portability": {
+            "New Question": "艾库特·巴尔卡的事故发生在他作为地球物理学家的工作期间吗？",
+            "New Answer": "不确定，但有可能"
+        }
+    },
+    {
+        "subject": "Stamnophora",
+        "src": "Stamnophora属于哪个科？",
+        "rephrase": "Stamnophora隶属于哪个科？",
+        "alt": "卷蛾科",
+        "loc": "谁发现了植物由细胞构成？",
+        "loc_ans": "帕拉沙拉",
+        "portability": {
+            "New Question": "Stamnophora所属科的成员通常被称为什么？",
+            "New Answer": "卷蛾"
+        }
+    },
+    {
+        "subject": "后勃固王朝",
+        "src": "后勃固王朝的最后一年是哪一年？",
+        "rephrase": "后勃固王朝在哪一年结束？",
+        "alt": "1803年",
+        "loc": "中国在中文中被称为什么？",
+        "loc_ans": "中央王国",
+        "portability": {
+            "New Question": "哪个王朝在1803年征服了复辟的后勃固王朝？",
+            "New Answer": "贡榜王朝"
+        }
+    },
+    {
+        "subject": "埃丝特·布卢姆",
+        "src": "埃丝特·布卢姆出现在哪部虚构作品中？",
+        "rephrase": "埃丝特·布卢姆在哪部虚构作品中出现？",
+        "alt": "《神曲》",
+        "loc": "谁在《重任在肩》中扮演林赛·丹顿？",
+        "loc_ans": "琦莉·霍斯",
+        "portability": {
+            "New Question": "埃丝特·布卢姆出现的虚构作品的作者是谁？",
+            "New Answer": "但丁"
+        }
+    },
+    {
+        "subject": "乔·卢克斯贝赫尔",
+        "src": "乔·卢克斯贝赫尔就读于哪所大学？",
+        "rephrase": "乔·卢克斯贝赫尔在哪所大学就读？",
+        "alt": "加州大学伯克利分校",
+        "loc": "谁赢得了女子花样滑冰银牌",
+        "loc_ans": "叶夫根尼娅·梅德韦杰娃",
+        "portability": {
+            "New Question": "乔·卢克斯贝赫尔所在大学的流行昵称是什么？",
+            "New Answer": "Cal"
+        }
+    },
+    {
+        "subject": "丹尼斯·里克曼",
+        "src": "丹尼斯·里克曼属于哪部虚构作品？",
+        "rephrase": "丹尼斯·里克曼是哪部虚构作品中的角色？",
+        "alt": "《辛普森一家》",
+        "loc": "谁在披头士白色专辑中演唱了《晚安》？",
+        "loc_ans": "林哥·斯塔",
+        "portability": {
+            "New Question": "丹尼斯·里克曼所在的虚构作品的创作者是谁？",
+            "New Answer": "马特·格勒宁"
+        }
+    },
+    {
+        "subject": "La gare inondée",
+        "src": "谁创作了La gare inondée？",
+        "rephrase": "La gare inondée是由谁创作的？",
+        "alt": "雅各布·伊萨克松·范勒伊斯达尔",
+        "loc": "根据宪法直接进行选举的人是谁",
+        "loc_ans": "参议员",
+        "portability": {
+            "New Question": "被认为是La gare inondée创作者的雅各布·伊萨克松·范勒伊斯达尔以什么类型的艺术作品闻名的？",
+            "New Answer": "风景画"
+        }
+    },
+    {
+        "subject": "卢卡·维尔代基亚",
+        "src": "卢卡·维尔代基亚出生于哪个城市？",
+        "rephrase": "卢卡·维尔代基亚在哪个城市出生的？",
+        "alt": "那不勒斯",
+        "loc": "电影《勇往直前》在哪里拍摄？",
+        "loc_ans": "新墨西哥州的圣塔菲和洛斯阿拉莫斯等不同地点",
+        "portability": {
+            "New Question": "卢卡·维尔代基亚的出生地与什么类型的披萨有关？",
+            "New Answer": "那不勒斯披萨"
+        }
+    },
+    {
+        "subject": "《血、汗和T恤》",
+        "src": "《血、汗和T恤》在哪个电视网络播出？",
+        "rephrase": "《血、汗和T恤》曾在哪个电视网络播出？",
+        "alt": "CBS",
+        "loc": "什么可以表示一个物体或过程的可视化？",
+        "loc_ans": "3D建模（或三维建模）",
+        "portability": {
+            "New Question": "播出《血、汗和T恤》的电视网络是由谁创立的？",
+            "New Answer": "威廉·佩利"
+        }
+    },
+    {
+        "subject": "格拉齐拉·伽伐尼",
+        "src": "格拉齐拉·伽伐尼的出生日期是什么时候？",
+        "rephrase": "格拉齐拉·伽伐尼什么时候出生的？",
+        "alt": "1987年9月20日",
+        "loc": "穆罕默德·阿里何时获得奥运金牌",
+        "loc_ans": "1960年",
+        "portability": {
+            "New Question": "1987年9月20日出生的格拉齐拉·伽伐尼的星座是什么？",
+            "New Answer": "处女座"
+        }
+    },
+    {
+        "subject": "《听雨滴落在屋顶》",
+        "src": "《听雨滴落在屋顶》是哪个系列的作品？",
+        "rephrase": "《听雨滴落在屋顶》是哪个系列的一部分？",
+        "alt": "《辛普森一家》",
+        "loc": "政府何时改变了退休年龄",
+        "loc_ans": "2015年",
+        "portability": {
+            "New Question": "《听雨滴落在屋顶》这一集所属的节目的创作者是谁？",
+            "New Answer": "马特·格勒宁"
+        }
+    },
+    {
+        "subject": "夏湖",
+        "src": "夏湖位于哪个天体上？",
+        "rephrase": "夏湖位于哪个行星？",
+        "alt": "火星",
+        "loc": "If Loving You Is Wrong第四季何时回归？",
+        "loc_ans": "2018年3月7日",
+        "portability": {
+            "New Question": "夏湖附近最大的火山是什么？",
+            "New Answer": "奥林匹斯山"
+        }
+    },
+    {
+        "subject": "新南威尔士火车联运",
+        "src": "新南威尔士火车联运的母公司是什么？",
+        "rephrase": "新南威尔士火车联运的母公司是哪家公司？",
+        "alt": "卡特彼勒公司",
+        "loc": "谁在《热天午夜》中扮演了蒂布斯？",
+        "loc_ans": "霍华德·埃尔斯沃斯·罗林斯二世",
+        "portability": {
+            "New Question": "新南威尔士火车联运的母公司总部位于哪个城市？",
+            "New Answer": "伊利诺伊州皮奥里亚"
+        }
+    },
+    {
+        "subject": "勒内·布尼奥尔",
+        "src": "勒内·布尼奥尔的死亡日期是什么时候？",
+        "rephrase": "勒内·布尼奥尔在什么时候死亡的？",
+        "alt": "2012年7月19日",
+        "loc": "2.国家对其他国家实施保护主义政策的原因是什么？",
+        "loc_ans": "保护国内进口竞争部门的生产者、企业和工人免受外国竞争对手的影响",
+        "portability": {
+            "New Question": "勒内·布尼奥尔去世后不久发生了什么重大事件？",
+            "New Answer": "伦敦奥运会开幕式"
+        }
+    },
+    {
+        "subject": "威廉·路德罗",
+        "src": "威廉·路德罗参加了哪场战争？",
+        "rephrase": "威廉·路德罗参与了哪场战争？",
+        "alt": "第二次布尔战争",
+        "loc": "哪个棒球队赢得了最多的世界大赛？",
+        "loc_ans": "纽约洋基队",
+        "portability": {
+            "New Question": "威廉·路德罗参加的战争中，对抗双方是谁？",
+            "New Answer": "英国帝国和布尔共和国"
+        }
+    },
+    {
+        "subject": "Kolah Ghermezi and Bache Naneh",
+        "src": "Kolah Ghermezi and Bache Naneh的导演是谁？",
+        "rephrase": "Kolah Ghermezi and Bache Naneh是由谁执导的？",
+        "alt": "阿巴斯·基亚罗斯塔米",
+        "loc": "新版《彼得的龙》的拍摄地点在哪里？",
+        "loc_ans": "新西兰",
+        "portability": {
+            "New Question": "Kolah Ghermezi and Bache Naneh的导演曾获得哪个著名奖项？",
+            "New Answer": "金棕榈奖"
+        }
+    },
+    {
+        "subject": "穆罕默德沙·纳西姆",
+        "src": "穆罕默德沙·纳西姆去世时住在哪里？",
+        "rephrase": "穆罕默德沙·纳西姆去世时住在哪个城市？",
+        "alt": "塔吉克斯坦",
+        "loc": "电影《绿野仙踪》是什么时候制作的",
+        "loc_ans": "1939年",
+        "portability": {
+            "New Question": "穆罕默德沙·纳西姆去世时所在国家的官方语言是什么？",
+            "New Answer": "塔吉克语"
+        }
+    },
+    {
+        "subject": "Mister Miracle",
+        "src": "Mister Miracle属于哪个虚构宇宙？",
+        "rephrase": "Mister Miracle是哪个虚构宇宙中的人物？",
+        "alt": "漫威宇宙",
+        "loc": "泰晤士河从哪里开始，到哪里结束",
+        "loc_ans": "英国格洛斯特郡的泰晤士河源头",
+        "portability": {
+            "New Question": "Mister Miracle所属的虚构宇宙的创造者是谁？",
+            "New Answer": "斯坦·李和杰克·柯比"
+        }
+    },
+    {
+        "subject": "USS Flusser (DD-368)",
+        "src": "USS Flusser (DD-368)是哪种船型？",
+        "rephrase": "USS Flusser (DD-368)是哪种水上单位？",
+        "alt": "368级驱逐舰",
+        "loc": "一个顶点和它自己之间的边是什么？",
+        "loc_ans": "环",
+        "portability": {
+            "New Question": "作为368级驱逐舰，USS Flusser (DD-368)的主要功能是什么？",
+            "New Answer": "巡逻和护航"
+        }
+    },
+    {
+        "subject": "伊尔加·纳比耶夫",
+        "src": "伊尔加·纳比耶夫在哪个队伍效力？",
+        "rephrase": "哪个队伍拥有Ilgar Nabiyev？",
+        "alt": "阿特雷足球会",
+        "loc": "早期基督教会中最高级别的官员是谁",
+        "loc_ans": "教皇，罗马主教和彼得的继任者",
+        "portability": {
+            "New Question": "伊尔加·纳比耶夫所在的队伍主场位于哪个城市？",
+            "New Answer": "哈萨克斯坦阿特劳"
+        }
+    },
+    {
+        "subject": "查尔斯·博耶",
+        "src": "查尔斯·博耶的死亡是意外还是自杀？",
+        "rephrase": "查尔斯·博耶的死因是什么？",
+        "alt": "暗杀",
+        "loc": "谁唱了Something Just Like This？",
+        "loc_ans": "克里斯·马丁",
+        "portability": {
+            "New Question": "哪位知名人士的死因与查尔斯·博耶的死因相似？",
+            "New Answer": "约翰·肯尼迪"
+        }
+    },
+    {
+        "subject": "阿格里帕·波斯杜姆斯",
+        "src": "阿格里帕·波斯杜姆斯的母亲是谁？",
+        "rephrase": "阿格里帕·波斯杜姆斯的妈妈是谁？",
+        "alt": "阿格里帕·普罗莱蒂卡",
+        "loc": "谁说种姓是一个封闭的阶级",
+        "loc_ans": "弗雷德里克·巴斯",
+        "portability": {
+            "New Question": "生下阿格里帕·波斯杜姆斯的女士的丈夫是谁？",
+            "New Answer": "盖乌斯·尤利乌斯·凯撒"
+        }
+    },
+    {
+        "subject": "弗兰克·卢西恩·黑尔",
+        "src": "弗兰克·卢西恩·黑尔参加了哪场战争或战役？",
+        "rephrase": "弗兰克·卢西恩·黑尔参加了哪场战争？",
+        "alt": "第二次世界大战",
+        "loc": "在19世纪早期，加利福尼亚社会由哪个群体主导？",
+        "loc_ans": "西班牙人",
+        "portability": {
+            "New Question": "弗兰克·卢西恩·黑尔在第二次世界大战中与哪些主要轴心国作战？",
+            "New Answer": "德国，意大利和日本"
+        }
+    },
+    {
+        "subject": "HD 113766",
+        "src": "HD 113766位于哪个星座？",
+        "rephrase": "HD 113766所在的星座是哪个？",
+        "alt": "仙后座",
+        "loc": "《乱世佳人》中瑞德·巴特勒的女儿",
+        "loc_ans": "埃莉诺·坎马克·金",
+        "portability": {
+            "New Question": "与HD 113766所在的星座相关的神话人物是谁？",
+            "New Answer": "埃塞俄比亚女王"
+        }
+    },
+    {
+        "subject": "Automatic Midnight",
+        "src": "Automatic Midnight的唱片公司是哪家？",
+        "rephrase": "Automatic Midnight的唱片公司是哪家公司？",
+        "alt": "Myrrh Records",
+        "loc": "二战后美国社会的主要特征是什么？",
+        "loc_ans": "强劲的经济增长",
+        "portability": {
+            "New Question": "哪位创立了发行Automatic Midnight的唱片公司？",
+            "New Answer": "比伊·雷·赫恩"
+        }
+    },
+    {
+        "subject": "Kaabu",
+        "src": "Kaabu的结束年份是几几年？",
+        "rephrase": "Kaabu的最后一年是哪一年？",
+        "alt": "1991",
+        "loc": "如果一首音乐被认为已经改变了调，则我们说这首曲子已经怎么了？",
+        "loc_ans": "移调",
+        "portability": {
+            "New Question": "当Kaabu在1991年结束时，发生了哪个重要的全球事件？",
+            "New Answer": "苏联解体"
+        }
+    },
+    {
+        "subject": "约万·帕夫洛维奇",
+        "src": "约万·帕夫洛维奇是在哪一天去世的？",
+        "rephrase": "约万·帕夫洛维奇去世于哪一天？",
+        "alt": "1990年9月18日",
+        "loc": "谁发明了今天在欧洲和美国仍在使用的指纹分类？",
+        "loc_ans": "海姆·钱德拉·玻色",
+        "portability": {
+            "New Question": "与约万·帕夫洛维奇的死亡发生在同一天的重要历史事件是什么？",
+            "New Answer": "东西德签署了《关于德国最终解决的条约》"
+        }
+    },
+    {
+        "subject": "Catharylla",
+        "src": "Catharylla属于哪个科？",
+        "rephrase": "Catharylla隶属于哪个科？",
+        "alt": "尺蛾科",
+        "loc": "谁是锦标赛中最富有的俱乐部？",
+        "loc_ans": "阿斯顿维拉",
+        "portability": {
+            "New Question": "Catharylla所属的蛾科的俗名是什么？",
+            "New Answer": "尺蛾科"
+        }
+    },
+    {
+        "subject": "中华水韭",
+        "src": "中华水韭的现状是什么？",
+        "rephrase": "中华水韭的生态状况如何？",
+        "alt": "数据不足",
+        "loc": "谁在《黑神驹》中扮演亚历克·拉姆齐？",
+        "loc_ans": "凯利·雷诺",
+        "portability": {
+            "New Question": "中华水韭被列入国际自然保护联盟濒危物种红色名录的哪个保护状况类别？",
+            "New Answer": "数据不足"
+        }
+    },
+    {
+        "subject": "海地的希望",
+        "src": "哪一年见证了海地的希望的成立？",
+        "rephrase": "海地的希望的成立见证于哪一年？",
+        "alt": "1909年",
+        "loc": "维斯塔神庙是为谁建造的",
+        "loc_ans": "维斯塔",
+        "portability": {
+            "New Question": "在海地的希望成立的同一年，发生了什么重要事件？",
+            "New Answer": "罗伯特·E·佩里于1909年到达北极"
+        }
+    },
+    {
+        "subject": "NGC 5985",
+        "src": "NGC 5985是哪个星座的一部分？",
+        "rephrase": "NGC 5985属于哪个星座？",
+        "alt": "牧夫座",
+        "loc": "《最后一个男人》拍摄于哪？",
+        "loc_ans": "加利福尼亚州查茨沃斯的20世纪福克斯工作室",
+        "portability": {
+            "New Question": "NGC 5985所在的星座中最亮的恒星是什么？",
+            "New Answer": "辉星"
+        }
+    },
+    {
+        "subject": "费尔南多·卡里略·佛瑞兹",
+        "src": "费尔南多·卡里略·佛瑞兹毕业于哪所大学？",
+        "rephrase": "费尔南多·卡里略·佛瑞兹在哪所大学毕业的？",
+        "alt": "哥伦比亚国立大学",
+        "loc": "谁将第一个圣诞树引入英国？",
+        "loc_ans": "梅克伦堡-施特雷利茨的夏洛特",
+        "portability": {
+            "New Question": "费尔南多·卡里略·佛瑞兹在哥伦比亚国立大学学习期间在哪个城市？",
+            "New Answer": "波哥大"
+        }
+    },
+    {
+        "subject": "乔治·考特尼",
+        "src": "乔治·考特尼的出生日期是什么时候？",
+        "rephrase": "乔治·考特尼在什么时候出生的？",
+        "alt": "1947年",
+        "loc": "Mikel为切尔西打进了多少个进球",
+        "loc_ans": "1",
+        "portability": {
+            "New Question": "乔治·考特尼出生的同一年还发生了哪个重大世界事件？",
+            "New Answer": "印度独立"
+        }
+    },
+    {
+        "subject": "弗朗齐歇克·帕托什卡",
+        "src": "弗朗齐歇克·帕托什卡出生于哪个城市？",
+        "rephrase": "弗朗齐歇克·帕托什卡出生于哪座城市？",
+        "alt": "特热比奇",
+        "loc": "《新鲜王子妙事多》第3季第11集",
+        "loc_ans": "去论坛的路上发生了有趣的事",
+        "portability": {
+            "New Question": "弗朗齐歇克·帕托什卡出生的城市中有哪个联合国教科文组织世界遗产？",
+            "New Answer": "圣普罗科比乌斯大教堂"
+        }
+    },
+    {
+        "subject": "彼得·卢南菲尔德",
+        "src": "彼得·卢南菲尔德是什么时候出生的？",
+        "rephrase": "彼得·卢南菲尔德出生在什么时候？",
+        "alt": "1894年6月19日",
+        "loc": "@符号有没有别的名称？",
+        "loc_ans": "@符号",
+        "portability": {
+            "New Question": "彼得·卢南菲尔德出生于的1894年期间发生了哪个重大历史事件？",
+            "New Answer": "第一次世界大战"
+        }
+    },
+    {
+        "subject": "CSPro",
+        "src": "CSPro的许可证是什么？",
+        "rephrase": "CSPro的许可证是什么许可证？",
+        "alt": "BSD许可证",
+        "loc": "火星上的雪是由什么组成的",
+        "loc_ans": "水冰",
+        "portability": {
+            "New Question": "CSPro的许可证来自哪个大学？",
+            "New Answer": "加州大学伯克利分校"
+        }
+    },
+    {
+        "subject": "《眼前的生活》",
+        "src": "《眼前的生活》是哪个系列的？",
+        "rephrase": "《眼前的生活》存在于哪个系列？",
+        "alt": "《巴比伦五号》",
+        "loc": "“good bye felicia”这个短语来自哪里？",
+        "loc_ans": "意为轻蔑地告别",
+        "portability": {
+            "New Question": "《眼前的生活》所在系列的创作者是谁？",
+            "New Answer": "约瑟夫·迈克尔·斯特拉日恩斯基"
+        }
+    },
+    {
+        "subject": "西里尔·德·鲁夫尔",
+        "src": "西里尔·德·鲁夫尔所就读的大学是哪所？",
+        "rephrase": "西里尔·德·鲁夫尔就读于哪个大学？",
+        "alt": "巴黎大学",
+        "loc": "月经杯的作用是什么？",
+        "loc_ans": "收集月经流",
+        "portability": {
+            "New Question": "西里尔·德·鲁夫尔所就读的大学的昵称是什么？",
+            "New Answer": "索邦大学"
+        }
+    },
+    {
+        "subject": "卡拉卡拉县",
+        "src": "卡拉卡拉县位于哪个州？",
+        "rephrase": "卡拉卡拉县地处于哪个州？",
+        "alt": "塔尔诺布热格",
+        "loc": "谁在树林里唱歌？",
+        "loc_ans": "演员",
+        "portability": {
+            "New Question": "如果卡拉卡拉县位于塔尔诺布热格市，那么它位于哪个国家和省份？",
+            "New Answer": "波兰亚喀山省"
+        }
+    },
+    {
+        "subject": "Elliot Lake Secondary School",
+        "src": "Elliot Lake Secondary School位于哪个省份？",
+        "rephrase": "Elliot Lake Secondary School所在的省份是哪个？",
+        "alt": "新不伦瑞克省",
+        "loc": "马里帝国时期的廷巴克图最好的描述是什么？",
+        "loc_ans": "一个贸易、娱乐和教育的地方",
+        "portability": {
+            "New Question": "Elliot Lake Secondary School所在的省份的首府是哪个？",
+            "New Answer": "弗雷德里克顿"
+        }
+    },
+    {
+        "subject": "布什拉·阿萨德",
+        "src": "布什拉·阿萨德的母亲是谁？",
+        "rephrase": "谁是布什拉·阿萨德的母亲？",
+        "alt": "阿萨德的妻子",
+        "loc": "印度在2018年英联邦运动会上获得了多少枚金牌",
+        "loc_ans": "26",
+        "portability": {
+            "New Question": "阿萨德的妻子布什拉·阿萨德的父亲是谁？",
+            "New Answer": "哈菲兹·阿萨德"
+        }
+    },
+    {
+        "subject": "Fimpen",
+        "src": "Fimpen是由谁导演？",
+        "rephrase": "Fimpen是由谁导演完成的？",
+        "alt": "沃尔夫冈·贝克尔",
+        "loc": "细菌细胞壁的坚硬性是由什么物质造成的？",
+        "loc_ans": "肽聚糖",
+        "portability": {
+            "New Question": "除了Fimpen之外，还有哪部著名电影是由沃尔夫冈·贝克尔导演的？",
+            "New Answer": "《再见列宁》"
+        }
+    },
+    {
+        "subject": "《生物科学地平线》",
+        "src": "哪家公司出版了《生物科学地平线》？",
+        "rephrase": "哪个公司负责了《生物科学地平线》的出版？",
+        "alt": "威利-布莱克威尔",
+        "loc": "勒布朗上一次得到50分是什么时候？",
+        "loc_ans": "2008年3月5日",
+        "portability": {
+            "New Question": "《生物科学地平线》的出版商总部位于哪个城市？",
+            "New Answer": "霍博肯"
+        }
+    },
+    {
+        "subject": "Nicolas Raffault",
+        "src": "Nicolas Raffault为哪个队效力？",
+        "rephrase": "Nicolas Raffault正在为哪个队效力？",
+        "alt": "芝加哥黑鹰队",
+        "loc": "NBA历史上罚球最多的球员是谁",
+        "loc_ans": "卡尔·马龙",
+        "portability": {
+            "New Question": "Nicolas Raffault所在的芝加哥黑鹰队参加的是哪个联盟？",
+            "New Answer": "国家冰球联盟"
+        }
+    },
+    {
+        "subject": "詹姆斯·霍伊·克莱琪",
+        "src": "詹姆斯·霍伊·克莱琪的出生日期是什么？",
+        "rephrase": "詹姆斯·霍伊·克莱琪是在什么时候出生的？",
+        "alt": "1858年",
+        "loc": "电影《泰坦尼克号》的票房有多少？",
+        "loc_ans": "218亿美元",
+        "portability": {
+            "New Question": "在詹姆斯·霍伊·克莱琪吉出生后的一年，哪本著名的书出版了？",
+            "New Answer": "查尔斯·达尔文的《物种起源》"
+        }
+    },
+    {
+        "subject": "恩斯特·克劳斯",
+        "src": "恩斯特·克劳斯的声音类型是什么？",
+        "rephrase": "恩斯特·克劳斯的声音是什么类型？",
+        "alt": "男中音",
+        "loc": "泰坦尼克号沉没时乐队演奏的歌曲是什么",
+        "loc_ans": "《秋天》",
+        "portability": {
+            "New Question": "恩斯特·克劳斯的音域与低音和男高音歌手相比如何？",
+            "New Answer": "作为男中音，恩斯特·克劳斯的音域位于低音和男高音之间。"
+        }
+    },
+    {
+        "subject": "Hassan Ibrahim",
+        "src": "Hassan Ibrahim在什么时候死亡？",
+        "rephrase": "Hassan Ibrahim的死亡日期是什么时候？",
+        "alt": "1957年",
+        "loc": "欧洲之星列车在哪里到达伦敦",
+        "loc_ans": "圣潘克拉斯国际火车站",
+        "portability": {
+            "New Question": "Hassan Ibrahim去世的同一年发生了哪个重要的太空事件？",
+            "New Answer": "斯普特尼克1号发射"
+        }
+    },
+    {
+        "subject": "Dłutówka",
+        "src": "Dłutówka位于哪个州？",
+        "rephrase": "Dłutówka在哪个州？",
+        "alt": "Gmina Łódź",
+        "loc": "谁为葡萄牙在南美洲宣称拥有土地？",
+        "loc_ans": "葡萄牙的约翰二世",
+        "portability": {
+            "New Question": "当Dłutówka是Łódź的一部分时，它位于哪个省？",
+            "New Answer": "Łódź"
+        }
+    },
+    {
+        "subject": "彼得里·努梅林",
+        "src": "彼得里·努梅林是哪个体育团队的成员？",
+        "rephrase": "彼得里·努梅林效力于哪个队伍？",
+        "alt": "哥伦布蓝轰炸机队",
+        "loc": "在康格拉，谁是曼尼普尔的第一位加冕国王？",
+        "loc_ans": "Pamheiba",
+        "portability": {
+            "New Question": "Petteri Nummelin作为哥伦布蓝轰炸机队的成员，参加了哪个体育联赛？",
+            "New Answer": "国家冰球联盟"
+        }
+    },
+    {
+        "subject": "娜塔莉·阿乔恩瓦",
+        "src": "球员娜塔莉·阿乔恩瓦曾为哪个队效力？",
+        "rephrase": "娜塔莉·阿乔恩瓦在哪个队？",
+        "alt": "USM阿尔及尔",
+        "loc": "俄亥俄州扬斯敦的钢铁厂是什么时候关闭的？",
+        "loc_ans": "1977年9月19日",
+        "portability": {
+            "New Question": "娜塔莉·阿乔恩瓦在哪个城市为USM阿尔及尔打职业篮球？",
+            "New Answer": "阿尔及尔"
+        }
+    },
+    {
+        "subject": "康拉德·巴德",
+        "src": "康拉德·巴德的死亡日期是什么时候？",
+        "rephrase": "康拉德·巴德是什么时候死亡的？",
+        "alt": "1882年3月19日",
+        "loc": "西班牙语中问号放在哪里",
+        "loc_ans": "在疑问句的第一个字母之前",
+        "portability": {
+            "New Question": "康拉德·巴德是在哪个节日去世的？",
+            "New Answer": "圣约瑟夫节"
+        }
+    },
+    {
+        "subject": "Ariadne musica",
+        "src": "Ariadne musica是哪种乐器而写的？",
+        "rephrase": "Ariadne musica与哪种乐器有关？",
+        "alt": "小提琴",
+        "loc": "门德斯兄弟因杀害父母而被判多长时间监禁",
+        "loc_ans": "终身监禁",
+        "portability": {
+            "New Question": "哪位著名作曲家的小提琴协奏曲可能影响了Ariadne musica？",
+            "New Answer": "安东尼奥·维瓦尔第"
+        }
+    },
+    {
+        "subject": "皮埃尔·科尔内伊",
+        "src": "皮埃尔·科尔内伊的母语是什么？",
+        "rephrase": "皮埃尔·科尔内伊最初说什么语言？",
+        "alt": "德语",
+        "loc": "水果的甜味来自哪里",
+        "loc_ans": "果糖",
+        "portability": {
+            "New Question": "哪位著名的德国作家可能启发了皮埃尔·科尔内伊的写作？",
+            "New Answer": "约翰·沃尔夫冈·冯·歌德"
+        }
+    },
+    {
+        "subject": "格奥尔格·安东·雪佛",
+        "src": "格奥尔格·安东·雪佛在哪个城市去世了？",
+        "rephrase": "格奥尔格·安东·雪佛在哪个城镇去世了？",
+        "alt": "慕尼黑",
+        "loc": "《刺客信条4》里的你是谁？",
+        "loc_ans": "一个Abstergo特工",
+        "portability": {
+            "New Question": "格奥尔格·安东·雪佛在德国的哪个州去世了？",
+            "New Answer": "巴伐利亚"
+        }
+    },
+    {
+        "subject": "托马斯·法纳比",
+        "src": "托马斯·法纳比的死亡日期是什么时候？",
+        "rephrase": "托马斯·法纳比在什么时候死亡的？",
+        "alt": "1815年",
+        "loc": "谁是里士满足球俱乐部的队长",
+        "loc_ans": "特伦特·科奇恩",
+        "portability": {
+            "New Question": "在托马斯·法纳比去世的那一年，发生了哪个重要的历史事件？",
+            "New Answer": "滑铁卢战役"
+        }
+    },
+    {
+        "subject": "Una Maid en Manhattan",
+        "src": "Una Maid en Manhattan在哪个电视网络上首播？",
+        "rephrase": "Una Maid en Manhattan最初在哪个电视网络播出？",
+        "alt": "Rede Globo",
+        "loc": "巴拿马运河建成时谁是总统",
+        "loc_ans": "西奥多·罗斯福",
+        "portability": {
+            "New Question": "最初播出Una Maid en Manhattan的电视网络总部位于哪个城市？",
+            "New Answer": "里约热内卢"
+        }
+    },
+    {
+        "subject": "罗伯特·多纳奇",
+        "src": "罗伯特·多纳奇的死因是什么？",
+        "rephrase": "罗伯特·多纳奇是因为什么死的？",
+        "alt": "肺炎",
+        "loc": "《美女与野兽》中的野兽是什么动物？",
+        "loc_ans": "奇美拉",
+        "portability": {
+            "New Question": "导致罗伯特·多纳奇死亡的疾病的常见原因是什么？",
+            "New Answer": "细菌或病毒"
+        }
+    },
+    {
+        "subject": "阿尔伯特·博因顿·斯托姆斯",
+        "src": "阿尔伯特·博因顿·斯托姆斯是在什么时候去世的？",
+        "rephrase": "阿尔伯特·博因顿·斯托姆斯的去世日期是什么时候？",
+        "alt": "1955年",
+        "loc": "《我的家庭故事》的最后一集是多少集？",
+        "loc_ans": "53",
+        "portability": {
+            "New Question": "阿尔伯特·博因顿·斯托姆斯在1902年成为哪个机构的校长，之后于1955年去世？",
+            "New Answer": "爱荷华州立学院"
+        }
+    },
+    {
+        "subject": "Another Mother Further",
+        "src": "哪位表演者发布了专辑Another Mother Further？",
+        "rephrase": "哪个表演者发布了专辑Another Mother Further？",
+        "alt": "雪儿",
+        "loc": "《荒野大镖客1》是什么时候发布的？",
+        "loc_ans": "2010年5月",
+        "portability": {
+            "New Question": "哪些音乐类型是表演者雪儿（Another Mother Further的演唱者）以流行的？",
+            "New Answer": "流行和摇滚音乐"
+        }
+    },
+    {
+        "subject": "沉思者",
+        "src": "谁设计了《沉思者》？",
+        "rephrase": "艺术品《沉思者》是由谁创作的？",
+        "alt": "大卫·费斯",
+        "loc": "谁赢得了2017年女子单打韩国公开赛羽毛球锦标赛？",
+        "loc_ans": "普萨拉·文卡塔·辛杜",
+        "portability": {
+            "New Question": "《沉思者》的创作者还在哪个动画系列中有贡献？",
+            "New Answer": "《鸡与牛》"
+        }
+    },
+    {
+        "subject": "科曼多尔群岛海战",
+        "src": "科曼多尔群岛海战发生的时间是什么时候？",
+        "rephrase": "科曼多尔群岛海战是在什么时候发生的？",
+        "alt": "1943年3月27日",
+        "loc": "护士健康研究是哪种类型研究的例子",
+        "loc_ans": "长期研究",
+        "portability": {
+            "New Question": "科曼多尔群岛海战发生在哪场全球冲突中？",
+            "New Answer": "第二次世界大战"
+        }
+    },
+    {
+        "subject": "安德烈·庞格拉齐奥",
+        "src": "安德烈·庞格拉齐奥的职位是什么？",
+        "rephrase": "安德烈·庞格拉齐奥是什么职业的？",
+        "alt": "威尼斯总督",
+        "loc": "荆棘星星鱼来自哪里",
+        "loc_ans": "印度-太平洋地区",
+        "portability": {
+            "New Question": "安德烈·庞格拉齐奥作为威尼斯总督，他的责任是什么？",
+            "New Answer": "统治威尼斯"
+        }
+    },
+    {
+        "subject": "佩德罗·马加拉尼斯",
+        "src": "佩德罗·马加拉尼斯持有哪个国家的公民身份？",
+        "rephrase": "佩德罗·马加拉尼斯拥有哪个国家的国籍？",
+        "alt": "哥伦比亚",
+        "loc": "谁在电影《墓碑镇》中扮演了巴特·马斯特森？",
+        "loc_ans": "梅森·艾伦·戴恩哈特",
+        "portability": {
+            "New Question": "佩德罗·马加拉尼斯最可能去哪个城市处理国家官僚事务？",
+            "New Answer": "波哥大"
+        }
+    },
+    {
+        "subject": "阿里·萨迪基",
+        "src": "阿里·萨迪基在哪个队踢球？",
+        "rephrase": "阿里·萨迪基为哪个队伍效力？",
+        "alt": "欧鲁巴体育俱乐部",
+        "loc": "谁在电影《牛仔裤的姐妹情谊》中扮演Bailey？",
+        "loc_ans": "詹娜·博伊德",
+        "portability": {
+            "New Question": "阿里·萨迪基所在的体育俱乐部位于哪个城市？",
+            "New Answer": "阿曼苏尔"
+        }
+    },
+    {
+        "subject": "Józef Kiszkurno",
+        "src": "Józef Kiszkurno的出生日期是什么时候？",
+        "rephrase": "Józef Kiszkurno的生日是什么时候？",
+        "alt": "1891年3月19日",
+        "loc": "美洲豹上一次赢得季后赛是什么时候？",
+        "loc_ans": "2017年",
+        "portability": {
+            "New Question": "Józef Kiszkurno的生日与哪个天主教节日重合？",
+            "New Answer": "圣约瑟夫节"
+        }
+    },
+    {
+        "subject": "奥古斯塔·乔伊斯·克罗切隆",
+        "src": "奥古斯塔·乔伊斯·克罗切隆去世的年份是什么？",
+        "rephrase": "奥古斯塔·乔伊斯·克罗切隆在哪一年去世？",
+        "alt": "1882年7月5日",
+        "loc": "给男孩拼写corey的不同方法",
+        "loc_ans": "Cory",
+        "portability": {
+            "New Question": "奥古斯塔·乔伊斯·克罗切隆去世的那一年发生了什么重要事件？",
+            "New Answer": "托马斯·爱迪生在纽约市建立了他的第一个电力厂"
+        }
+    },
+    {
+        "subject": "汉斯·雷蒂格",
+        "src": "汉斯·雷蒂格参加了哪场历史战争？",
+        "rephrase": "汉斯·雷蒂格参加了哪场战争？",
+        "alt": "三十年战争",
+        "loc": "大肠杆菌的完整学名是什么？",
+        "loc_ans": "大肠埃希氏菌",
+        "portability": {
+            "New Question": "汉斯·雷蒂格在哪些年份参加了三十年战争？",
+            "New Answer": "1618年至1648年之间"
+        }
+    },
+    {
+        "subject": "Newminster Abbey",
+        "src": "Newminster Abbey是哪个团体的成员？",
+        "rephrase": "Newminster Abbey属于哪个团体？",
+        "alt": "弗朗西斯会",
+        "loc": "今天格式塔心理学的思想属于哪个心理学分支",
+        "loc_ans": "实验心理学",
+        "portability": {
+            "New Question": "谁创立了Newminster Abbey所属的宗教团体？",
+            "New Answer": "St. Francis of Assisi"
+        }
+    },
+    {
+        "subject": "USA-64",
+        "src": "USA-64是在哪一天发射的？",
+        "rephrase": "USA-64的发射日期是什么时候？",
+        "alt": "1992年3月2日",
+        "loc": "《蝙蝠侠》第5部的发布日期",
+        "loc_ans": "2018年3月27日",
+        "portability": {
+            "New Question": "与USA-64的发射同时发生了什么重大事件？",
+            "New Answer": "波斯尼亚战争的开始"
+        }
+    },
+    {
+        "subject": "《最后的日子》",
+        "src": "谁在《最后的日子》中担任导演角色？",
+        "rephrase": "《最后的日子》的导演是谁？",
+        "alt": "巴斯特·基顿",
+        "loc": "本季度的幸存者发生在哪里",
+        "loc_ans": "幽灵岛",
+        "portability": {
+            "New Question": "巴斯特·基顿在担任导演期间以哪种类型的电影闻名？",
+            "New Answer": "无声电影"
+        }
+    },
+    {
+        "subject": "《死神花园》",
+        "src": "《死神花园》的作者是谁？",
+        "rephrase": "《死神花园》是谁的作品？",
+        "alt": "萨尔瓦多·达利",
+        "loc": "谁领导了对南美洲印加人的征服？",
+        "loc_ans": "弗朗西斯科·皮萨罗",
+        "portability": {
+            "New Question": "《死神花园》的创作者与哪个艺术运动相关？",
+            "New Answer": "超现实主义"
+        }
+    },
+    {
+        "subject": "Ralph Habib",
+        "src": "Ralph Habib在哪个城市去世了？",
+        "rephrase": "Ralph Habib去世时在哪个城市？",
+        "alt": "芝加哥",
+        "loc": "iPhone 5s屏幕有多少英寸",
+        "loc_ans": "4英寸",
+        "portability": {
+            "New Question": "Ralph Habib去世的城市有什么昵称？",
+            "New Answer": "风城"
+        }
+    },
+    {
+        "subject": "You'll See",
+        "src": "You'll See的唱片公司叫什么名字？",
+        "rephrase": "You'll See的唱片公司是什么？",
+        "alt": "史诗唱片公司",
+        "loc": "《末日危途》是什么时候发行的？",
+        "loc_ans": "1992年",
+        "portability": {
+            "New Question": "You'll See的唱片公司的母公司是哪家公司？",
+            "New Answer": "索尼音乐娱乐"
+        }
+    },
+    {
+        "subject": "曼努埃尔·阿巴德·伊·奎波",
+        "src": "曼努埃尔·阿巴德·伊·奎波在哪里去世了？",
+        "rephrase": "曼努埃尔·阿巴德·伊·奎波在哪个地方去世了？",
+        "alt": "库拉索",
+        "loc": "化学反应何时达到平衡？",
+        "loc_ans": "当正向反应的速率与反向反应的速率相同时",
+        "portability": {
+            "New Question": "曼努埃尔·阿巴德·伊·奎波在库拉索期间使用的货币是什么？",
+            "New Answer": "荷兰安的列斯盾"
+        }
+    },
+    {
+        "subject": "The View from the Bottom",
+        "src": "The View from the Bottom的唱片公司是哪家公司？",
+        "rephrase": "The View from the Bottom的唱片公司是哪个？",
+        "alt": "Arista唱片公司",
+        "loc": "谁在波斯尼亚的萨拉热窝访问期间被暗杀了？",
+        "loc_ans": "奥地利的弗朗茨·斐迪南大公",
+        "portability": {
+            "New Question": "哪位创立了发行The View from the Bottom的唱片公司？",
+            "New Answer": "克莱夫·杰·戴维斯"
+        }
+    },
+    {
+        "subject": "特里·詹宁斯",
+        "src": "特里·詹宁斯是什么时候去世的？",
+        "rephrase": "特里·詹宁斯从什么时候离开这个世界的？",
+        "alt": "2003年5月27日",
+        "loc": "谁证明了细胞来自其他细胞",
+        "loc_ans": "罗伯特·雷马克",
+        "portability": {
+            "New Question": "特里·詹宁斯去世的那天发生了什么重要的体育赛事？",
+            "New Answer": "欧洲冠军联赛决赛"
+        }
+    },
+    {
+        "subject": "亚历山大·艾蒂安·肖朗",
+        "src": "亚历山大·艾蒂安·肖朗在什么时候去世？",
+        "rephrase": "- 亚历山大·艾蒂安·肖朗是什么时候去世的？",
+        "alt": "1809年4月4日",
+        "loc": "哪个网络频道正在播放周一晚上的足球比赛",
+        "loc_ans": "ESPN",
+        "portability": {
+            "New Question": "亚历山大·艾蒂安·肖朗去世时，当时法国的统治者是谁？",
+            "New Answer": "拿破仑·波拿巴"
+        }
+    },
+    {
+        "subject": "Ijdan",
+        "src": "Ijdan所在的州的名称是什么？",
+        "rephrase": "Ijdan所在的州是哪个洲？",
+        "alt": "Gmina Łódź",
+        "loc": "Fisher姓的起源是哪里？",
+        "loc_ans": "一个英语职业名称，指以捕鱼或在捕鱼围栏旁谋生的人",
+        "portability": {
+            "New Question": "Ijdan所在的行政区划是哪个？",
+            "New Answer": "Łódź"
+        }
+    },
+    {
+        "subject": "印德基拉国家公园",
+        "src": "印德基拉国家公园是在哪一年建立的？",
+        "rephrase": "印德基拉国家公园建立于哪一年？",
+        "alt": "2005年",
+        "loc": "谁在报道加拿大的冬奥会",
+        "loc_ans": "CBC/Radio-Canada",
+        "portability": {
+            "New Question": "成立于2005年的印德基拉国家公园位于哪个州？",
+            "New Answer": "喜马偕尔邦"
+        }
+    },
+    {
+        "subject": "《两千岁的处子》",
+        "src": "《两千岁的处子》是哪个系列的一部分？",
+        "rephrase": "《两千岁的处子》出现在哪个系列中？",
+        "alt": "南方公园",
+        "loc": "肾上腺产生什么是交感神经系统发挥作用所必需的？",
+        "loc_ans": "肾上腺素",
+        "portability": {
+            "New Question": "《两千岁的处子》所在系列的创作者是谁？",
+            "New Answer": "特雷·帕克和马特·斯通"
+        }
+    },
+    {
+        "subject": "鲁馨·莎卡瑞扬",
+        "src": "鲁馨·莎卡瑞扬是哪个国家的公民？",
+        "rephrase": "鲁馨·莎卡瑞扬的国籍是哪个国家？",
+        "alt": "亚美尼亚",
+        "loc": "Come Fly with Me是什么时候发布的？",
+        "loc_ans": "2010年12月25日",
+        "portability": {
+            "New Question": "鲁馨·莎卡瑞扬主要在哪个城市表演？",
+            "New Answer": "埃里温"
+        }
+    },
+    {
+        "subject": "Bretannio",
+        "src": "Bretannio担任了哪个职位？",
+        "rephrase": "Bretannio的职位是什么？",
+        "alt": "马耳他总统",
+        "loc": "谁是绿湾包装工队的四分卫",
+        "loc_ans": "阿伦·罗杰斯",
+        "portability": {
+            "New Question": "Bretannio担任总统职位的国家的官方语言是什么？",
+            "New Answer": "马耳他语"
+        }
+    },
+    {
+        "subject": "Lucinda Bruce-Gardyne",
+        "src": "Lucinda Bruce-Gardyne毕业于哪所大学？",
+        "rephrase": "Lucinda Bruce-Gardyne在哪所大学接受了培养？",
+        "alt": "哈佛大学",
+        "loc": "欧洲人口最多的5个城市",
+        "loc_ans": "伊斯坦布尔",
+        "portability": {
+            "New Question": "Lucinda Bruce-Gardyne在哈佛大学就读时所在的城市是哪个？",
+            "New Answer": "马萨诸塞州剑桥市"
+        }
+    },
+    {
+        "subject": "Gorleston Psalter",
+        "src": "Gorleston Psalter可以在哪个地方找到？",
+        "rephrase": "Gorleston Psalter可以在什么地方找到？",
+        "alt": "威尔士在线报纸",
+        "loc": "谁在《权力的游戏》中扮演Lady Talisa？",
+        "loc_ans": "奥娜·卓别林",
+        "portability": {
+            "New Question": "哪个机构创立了Gorleston Psalter所在的平台？",
+            "New Answer": "威尔士国家图书馆"
+        }
+    },
+    {
+        "subject": "威廉·巴布科克·黑森",
+        "src": "威廉·巴布科克·黑森参加了哪场战争？",
+        "rephrase": "威廉·巴布科克·黑森与了哪场战争？",
+        "alt": "第二次世界大战",
+        "loc": "have you no sense of decency是谁的名言？",
+        "loc_ans": "约瑟夫·奈·韦尔奇",
+        "portability": {
+            "New Question": "威廉·巴布科克·黑森参加的战争期间，哪位美国总统在任？",
+            "New Answer": "富兰克林·D·罗斯福"
+        }
+    },
+    {
+        "subject": "《松树崖变种》",
+        "src": "《松树崖变种》是哪个系列的一部分？",
+        "rephrase": "《松树崖变种》存在于哪个系列中？",
+        "alt": "《宋飞传》",
+        "loc": "《降世神通：最后的气宗》首次播出时间是什么时候？",
+        "loc_ans": "2005年2月",
+        "portability": {
+            "New Question": "《松树崖变种》所属系列的创作者是谁？",
+            "New Answer": "拉里·大卫和杰瑞·塞茨菲尔德"
+        }
+    },
+    {
+        "subject": "菲利斯·曼迪",
+        "src": "菲利斯·曼迪的职位是什么？",
+        "rephrase": "菲利斯·曼迪是干什么的？",
+        "alt": "明尼苏达州众议院议员",
+        "loc": "谁是本赛季击败老鹰队的球队",
+        "loc_ans": "堪萨斯城酋长队",
+        "portability": {
+            "New Question": "菲利斯·曼迪在哪个城市担任众议院议员？",
+            "New Answer": "圣保罗"
+        }
+    },
+    {
+        "subject": "Harald Braem",
+        "src": "Harald Braem出生在哪个城市？",
+        "rephrase": "Harald Braem出生于哪个城市？",
+        "alt": "布达佩斯",
+        "loc": "英国有多少种猪品种",
+        "loc_ans": "---",
+        "portability": {
+            "New Question": "Harald Braem出生的城市是哪条河流经过的？",
+            "New Answer": "多瑙河"
+        }
+    },
+    {
+        "subject": "布尔代尔博物馆",
+        "src": "布尔代尔博物馆是以谁的名字命名的？",
+        "rephrase": "布尔代尔博物馆的名字是被谁赋予的？",
+        "alt": "皮埃尔·布尔代尔",
+        "loc": "《英勇强尼》有几季？",
+        "loc_ans": "四季",
+        "portability": {
+            "New Question": "命名布尔代尔博物馆的人物的职业是什么？",
+            "New Answer": "雕塑家"
+        }
+    },
+    {
+        "subject": "Ma Boy",
+        "src": "哪位表演者发布了专辑《Ma Boy》？",
+        "rephrase": "哪位艺术家发布了专辑《Ma Boy》？",
+        "alt": "小韦恩",
+        "loc": "路易斯安那购地的探险从哪条河流开始？",
+        "loc_ans": "密苏里河",
+        "portability": {
+            "New Question": "发布专辑《Ma Boy》的艺术家全名是什么？",
+            "New Answer": "Dwayne Michael Carter Jr."
+        }
+    }
+]
