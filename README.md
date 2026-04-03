@@ -74,7 +74,7 @@ If you use this repository or the accompanying paper, please cite:
 ```bibtex
 @inproceedings{jiang-etal-2026-clicker,
   title = {CLICKER: Cross-Lingual Knowledge Editing via In-Context Learning with Adaptive Stepwise Reasoning},
-  author = {Jiang Zehui, Zhao Xin, Kumadaki Yuta and Yoshinaga Naoki},
+  author = {Zehui Jiang, Xin Zhao, Yuta Kumadaki and Naoki Yoshinaga},
   booktitle = {Findings of the Association for Computational Linguistics: EACL 2026},
   pages = {5007--5022},
   year = {2026}
