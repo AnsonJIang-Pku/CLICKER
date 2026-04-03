@@ -30,6 +30,19 @@ This repository accompanies the EACL 2026 Findings paper *CLICKER: Cross-Lingual
 
 The repository ships with a `requirements.txt` file from the research environment used for development.
 
+Recommended Python version: `Python 3.9.20`
+
+```bash
+python3.9 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+If `python3.9` is not available on your system, first install Python `3.9.20` or create an equivalent environment that uses Python 3.9 before installing dependencies.
+
+Example:
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
@@ -39,6 +52,7 @@ pip install -r requirements.txt
 Please note:
 
 - `requirements.txt` is the only environment specification included in this release.
+- The recommended interpreter for this release is `Python 3.9.20`.
 - It contains a research-oriented dependency set with pinned versions and GPU-specific packages such as `faiss-gpu`; users may need to adapt the environment to their own platform.
 - External model access is not bundled. The current code supports either a local Hugging Face model path or an OpenAI API-based path, but both require user-side configuration.
 
